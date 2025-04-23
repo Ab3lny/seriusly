@@ -314,3 +314,26 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [23Apr2025 19:34:23.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 hit the ground too hard
 [23Apr2025 19:34:23.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Your First Grave]
 [23Apr2025 19:34:23.161] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
+[23Apr2025 19:35:18.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has reached the goal [Easy Opening]
+[23Apr2025 19:35:52.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
+[23Apr2025 19:35:52.647] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
+[23Apr2025 19:35:52.651] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[23Apr2025 19:35:55.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
+[23Apr2025 19:36:06.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [A Strange Grave Dust]
+[23Apr2025 19:36:16.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Acquire Hardware]
+[23Apr2025 19:38:05.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Not Today, Thank You]
+[23Apr2025 19:38:19.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Amateur Archaeologist]
+[23Apr2025 19:39:17.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Sweet Dreams]
+[23Apr2025 19:39:23.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Ashes 'n Bones]
+[23Apr2025 19:39:42.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [Diamonds!]
+[23Apr2025 19:40:23.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Suit Up]
+[23Apr2025 19:40:52.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> KerryCabuela como vas
+[23Apr2025 19:40:56.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has made the advancement [Diamonds!]
+[23Apr2025 19:41:06.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ab3lny11> rulle
+[23Apr2025 19:41:12.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ab3lny11> metete al grupo
+[23Apr2025 19:41:18.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> estoy en una dungeon to cheta
+[23Apr2025 19:43:49.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Diamonds!]
+[23Apr2025 19:44:37.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has fallen
+[23Apr2025 19:44:37.848] [Server thread/WARN] [tombstone/]: The death event of the player Ab3lny11 was canceled by another mod
+[23Apr2025 19:44:37.858] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
+[23Apr2025 19:44:54.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has been revived

@@ -4715,3 +4715,51 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [23Apr2025 19:34:23.158] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ab3lny11 was created at position [x:32, y:56, z:351, dim:minecraft:overworld]
 [23Apr2025 19:34:23.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Your First Grave]
 [23Apr2025 19:34:23.161] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
+[23Apr2025 19:35:18.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has reached the goal [Easy Opening]
+[23Apr2025 19:35:42.035] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Apr2025 19:35:42.038] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Apr2025 19:35:52.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
+[23Apr2025 19:35:52.647] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
+[23Apr2025 19:35:52.651] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[23Apr2025 19:35:55.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
+[23Apr2025 19:36:03.868] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Eleamhh: {disabled=false, disconnected=false, uuid=8d672abb-8750-3323-81ed-fa10031483d7, name=Eleamhh, group=b4276739-fd66-48ed-88bc-1199ead2b3d9}
+[23Apr2025 19:36:06.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [A Strange Grave Dust]
+[23Apr2025 19:36:15.512] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 4kenyyFn: {disabled=true, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=null}
+[23Apr2025 19:36:16.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Acquire Hardware]
+[23Apr2025 19:36:19.822] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of 4kenyyFn: {disabled=true, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=b4276739-fd66-48ed-88bc-1199ead2b3d9}
+[23Apr2025 19:36:21.229] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 4kenyyFn: {disabled=false, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=b4276739-fd66-48ed-88bc-1199ead2b3d9}
+[23Apr2025 19:37:07.921] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Ab3lny11: {disabled=false, disconnected=false, uuid=959637a6-e34a-3c64-9f5a-575b2ef8bf12, name=Ab3lny11, group=b4276739-fd66-48ed-88bc-1199ead2b3d9}
+[23Apr2025 19:37:50.608] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of 22erix: {disabled=false, disconnected=false, uuid=dd5f4bc0-47fa-3451-9a84-5d37a5fab84c, name=22erix, group=b4276739-fd66-48ed-88bc-1199ead2b3d9}
+[23Apr2025 19:38:05.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Not Today, Thank You]
+[23Apr2025 19:38:19.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Amateur Archaeologist]
+[23Apr2025 19:39:17.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Sweet Dreams]
+[23Apr2025 19:39:23.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Ashes 'n Bones]
+[23Apr2025 19:39:42.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [Diamonds!]
+[23Apr2025 19:40:23.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Suit Up]
+[23Apr2025 19:40:41.902] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Apr2025 19:40:41.907] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Apr2025 19:40:52.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> KerryCabuela como vas
+[23Apr2025 19:40:56.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has made the advancement [Diamonds!]
+[23Apr2025 19:41:06.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ab3lny11> rulle
+[23Apr2025 19:41:12.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ab3lny11> metete al grupo
+[23Apr2025 19:41:18.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> estoy en una dungeon to cheta
+[23Apr2025 19:41:21.456] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of KerryCabuela: {disabled=false, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=b4276739-fd66-48ed-88bc-1199ead2b3d9}
+[23Apr2025 19:43:47.884] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-492 | 49 | 100).
+[23Apr2025 19:43:47.884] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[23Apr2025 19:43:47.885] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[23Apr2025 19:43:47.885] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[23Apr2025 19:43:47.885] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[23Apr2025 19:43:47.885] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[23Apr2025 19:43:47.885] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 9(0) Nodes and 4(0) Rooms
+[23Apr2025 19:43:47.885] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[23Apr2025 19:43:47.885] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 3(7) Nodes and 5(0) Rooms
+[23Apr2025 19:43:47.885] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[23Apr2025 19:43:47.886] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 4(0) Rooms
+[23Apr2025 19:43:47.889] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [-26, 11] with a total of 319 pieces.
+[23Apr2025 19:43:49.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Diamonds!]
+[23Apr2025 19:43:59.561] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,31]
+[23Apr2025 19:43:59.561] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,31]
+[23Apr2025 19:44:37.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has fallen
+[23Apr2025 19:44:37.848] [Server thread/WARN] [tombstone/]: The death event of the player Ab3lny11 was canceled by another mod
+[23Apr2025 19:44:37.858] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
+[23Apr2025 19:44:54.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has been revived

@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-23 19:40:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 19:22:13 +0000"
@@ -176,6 +182,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2025-04-23 19:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-23 19:40:56 +0000"
     },
     "done": true
   },
@@ -432,6 +444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-23 19:40:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/portable_radar": {
     "criteria": {
       "has_redstone": "2025-04-23 19:34:41 +0000"
@@ -465,6 +483,12 @@
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-23 19:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-23 19:40:56 +0000"
     },
     "done": true
   },
@@ -630,12 +654,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-23 19:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-23 19:40:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-23 19:23:26 +0000",
       "minecraft:creeper": "2025-04-23 19:25:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-23 19:40:56 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -679,6 +721,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-23 19:40:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-23 19:20:37 +0000"
@@ -694,6 +742,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-23 19:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-23 19:40:56 +0000"
     },
     "done": true
   },
@@ -784,6 +838,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-23 19:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-23 19:40:56 +0000"
     },
     "done": true
   },
@@ -1051,6 +1111,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-04-23 19:40:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-23 19:24:21 +0000"
@@ -1224,6 +1290,7 @@
       "minecraft:forest": "2025-04-23 19:24:07 +0000",
       "minecraft:desert": "2025-04-23 19:24:57 +0000",
       "minecraft:river": "2025-04-23 17:03:30 +0000",
+      "minecraft:wooded_hills": "2025-04-23 19:41:34 +0000",
       "minecraft:savanna": "2025-04-23 17:03:26 +0000",
       "minecraft:plains": "2025-04-23 16:55:51 +0000"
     },
@@ -1331,6 +1398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-23 19:40:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-23 19:20:01 +0000"
@@ -1406,6 +1479,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-04-23 19:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-23 19:40:56 +0000"
     },
     "done": true
   },

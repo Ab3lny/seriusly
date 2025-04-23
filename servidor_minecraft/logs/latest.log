@@ -337,3 +337,19 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [23Apr2025 19:44:37.848] [Server thread/WARN] [tombstone/]: The death event of the player Ab3lny11 was canceled by another mod
 [23Apr2025 19:44:37.858] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
 [23Apr2025 19:44:54.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has been revived
+[23Apr2025 19:46:33.151] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 4kenyyFn lost connection: Disconnected
+[23Apr2025 19:46:33.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn left the game
+[23Apr2025 19:46:33.154] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4kenyyFn
+[23Apr2025 19:47:33.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Not Today, Thank You]
+[23Apr2025 19:47:44.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [A Strange Grave Dust]
+[23Apr2025 19:49:04.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has made the advancement [A Strange Grave Dust]
+[23Apr2025 19:50:50.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [Mutual Aid]
+[23Apr2025 19:54:39.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has fallen
+[23Apr2025 19:54:39.851] [Server thread/WARN] [tombstone/]: The death event of the player Eleamhh was canceled by another mod
+[23Apr2025 19:54:39.851] [Server thread/INFO] [tombstone/]: The player Eleamhh has successfully been saved
+[23Apr2025 19:55:01.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has fallen
+[23Apr2025 19:55:01.397] [Server thread/WARN] [tombstone/]: The death event of the player 22erix was canceled by another mod
+[23Apr2025 19:55:01.399] [Server thread/INFO] [tombstone/]: The player 22erix has successfully been saved
+[23Apr2025 19:55:06.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has been revived
+[23Apr2025 19:55:06.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has been revived
+[23Apr2025 19:55:08.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has made the advancement [Ashes 'n Bones]

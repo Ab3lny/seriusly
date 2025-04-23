@@ -406,3 +406,38 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [23Apr2025 20:13:00.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [Take Aim]
 [23Apr2025 20:13:12.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Cover Me With Diamonds]
 [23Apr2025 20:14:46.076] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bread'/20767, l='ServerLevel[world]', x=58.64, y=72.00, z=264.89]
+[23Apr2025 20:15:33.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
+[23Apr2025 20:15:33.799] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
+[23Apr2025 20:15:33.802] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[23Apr2025 20:15:39.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
+[23Apr2025 20:16:20.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has fallen
+[23Apr2025 20:16:20.847] [Server thread/WARN] [tombstone/]: The death event of the player Eleamhh was canceled by another mod
+[23Apr2025 20:16:20.849] [Server thread/INFO] [tombstone/]: The player Eleamhh has successfully been saved
+[23Apr2025 20:16:36.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has been revived
+[23Apr2025 20:16:56.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> 22erix entrar a otro grupo contra 123
+[23Apr2025 20:17:05.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> KerryCabuela entrar a otro grupo 123
+[23Apr2025 20:18:52.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has fallen
+[23Apr2025 20:18:52.950] [Server thread/WARN] [tombstone/]: The death event of the player 22erix was canceled by another mod
+[23Apr2025 20:18:52.955] [Server thread/INFO] [tombstone/]: The player 22erix has successfully been saved
+[23Apr2025 20:18:55.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix was slain by Zombie
+[23Apr2025 20:18:55.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has made the advancement [Your First Grave]
+[23Apr2025 20:18:55.863] [Server thread/INFO] [tombstone/]: The player 22erix has successfully been saved
+[23Apr2025 20:19:15.114] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 22erix was kicked for floating too long!
+[23Apr2025 20:19:15.115] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 22erix lost connection: Flying is not enabled on this server
+[23Apr2025 20:19:15.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix left the game
+[23Apr2025 20:19:15.116] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 22erix
+[23Apr2025 20:19:15.153] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[23Apr2025 20:19:25.614] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@cb44396
+[23Apr2025 20:19:25.620] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: 22erix[/10.144.64.243:55433] logged in with entity id 22446 at (26.90958747121298, 58.32476691508851, 313.1949455581061)
+[23Apr2025 20:19:25.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix joined the game
+[23Apr2025 20:19:25.864] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 22erix (18)
+[23Apr2025 20:19:25.864] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 22erix
+[23Apr2025 20:19:26.437] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd5f4bc0-47fa-3451-9a84-5d37a5fab84c
+[23Apr2025 20:19:27.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd5f4bc0-47fa-3451-9a84-5d37a5fab84c
+[23Apr2025 20:19:27.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 22erix (dd5f4bc0-47fa-3451-9a84-5d37a5fab84c) successfully connected to voice chat
+[23Apr2025 20:20:09.506] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
+[23Apr2025 20:20:09.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
+[23Apr2025 20:20:09.506] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11
+[23Apr2025 20:20:44.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has made the advancement [Ice Bucket Challenge]
+[23Apr2025 20:21:11.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has reached the goal [Bone Crusher]
+[23Apr2025 20:21:28.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has made the advancement [Not Today, Thank You]

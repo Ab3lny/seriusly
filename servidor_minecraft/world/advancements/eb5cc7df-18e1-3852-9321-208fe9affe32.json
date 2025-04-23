@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-23 20:17:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-04-23 20:08:30 +0000"
@@ -567,6 +573,12 @@
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-23 19:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-23 20:18:52 +0000"
     },
     "done": true
   },
@@ -1530,6 +1542,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-23 19:24:07 +0000",
+      "minecraft:mountains": "2025-04-23 20:20:08 +0000",
       "minecraft:desert": "2025-04-23 19:24:57 +0000",
       "minecraft:river": "2025-04-23 17:03:30 +0000",
       "minecraft:wooded_hills": "2025-04-23 19:41:34 +0000",

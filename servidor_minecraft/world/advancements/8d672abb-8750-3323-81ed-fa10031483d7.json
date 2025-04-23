@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-23 20:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-04-23 19:26:28 +0000"
@@ -495,6 +501,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-23 19:49:01 +0000",
       "minecraft:spider": "2025-04-23 19:23:49 +0000",
+      "minecraft:creeper": "2025-04-23 20:56:24 +0000",
       "minecraft:wither_skeleton": "2025-04-23 19:54:01 +0000",
       "minecraft:cave_spider": "2025-04-23 20:06:32 +0000",
       "minecraft:enderman": "2025-04-23 20:06:47 +0000",

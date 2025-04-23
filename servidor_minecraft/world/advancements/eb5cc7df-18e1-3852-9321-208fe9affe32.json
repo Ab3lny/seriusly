@@ -398,6 +398,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-23 20:20:58 +0000",
+      "cooked_mutton": "2025-04-23 20:56:20 +0000",
       "cooked_beef": "2025-04-23 20:21:37 +0000",
       "mutton": "2025-04-23 19:24:46 +0000",
       "bread": "2025-04-23 19:26:42 +0000",
@@ -678,6 +679,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-04-23 20:18:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-23 20:57:01 +0000"
     },
     "done": true
   },

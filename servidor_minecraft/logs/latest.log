@@ -380,3 +380,29 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [23Apr2025 20:01:08.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [Magic Writing]
 [23Apr2025 20:01:21.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has reached the goal [I see clearly now]
 [23Apr2025 20:01:37.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [A Strange Grave Dust]
+[23Apr2025 20:05:45.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Ashes 'n Bones]
+[23Apr2025 20:06:00.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has made the advancement [Not Today, Thank You]
+[23Apr2025 20:07:00.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [Not Today, Thank You]
+[23Apr2025 20:07:04.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has fallen
+[23Apr2025 20:07:04.851] [Server thread/WARN] [tombstone/]: The death event of the player 22erix was canceled by another mod
+[23Apr2025 20:07:04.858] [Server thread/INFO] [tombstone/]: The player 22erix has successfully been saved
+[23Apr2025 20:07:24.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has been revived
+[23Apr2025 20:09:21.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Take Aim]
+[23Apr2025 20:09:39.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has fallen
+[23Apr2025 20:09:39.006] [Server thread/WARN] [tombstone/]: The death event of the player Eleamhh was canceled by another mod
+[23Apr2025 20:09:39.009] [Server thread/INFO] [tombstone/]: The player Eleamhh has successfully been saved
+[23Apr2025 20:09:48.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has been revived
+[23Apr2025 20:10:36.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
+[23Apr2025 20:10:36.693] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
+[23Apr2025 20:10:36.703] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[23Apr2025 20:10:44.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
+[23Apr2025 20:11:04.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [Ambush]
+[23Apr2025 20:11:57.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Diamonds!]
+[23Apr2025 20:12:13.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has made the advancement [Diamonds!]
+[23Apr2025 20:12:18.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has fallen
+[23Apr2025 20:12:18.652] [Server thread/WARN] [tombstone/]: The death event of the player Eleamhh was canceled by another mod
+[23Apr2025 20:12:18.658] [Server thread/INFO] [tombstone/]: The player Eleamhh has successfully been saved
+[23Apr2025 20:12:32.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has been revived
+[23Apr2025 20:13:00.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [Take Aim]
+[23Apr2025 20:13:12.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Cover Me With Diamonds]
+[23Apr2025 20:14:46.076] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bread'/20767, l='ServerLevel[world]', x=58.64, y=72.00, z=264.89]

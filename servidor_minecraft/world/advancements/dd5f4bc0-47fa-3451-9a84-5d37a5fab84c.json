@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-23 20:03:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-04-23 19:27:38 +0000"
@@ -284,6 +290,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-23 19:27:01 +0000",
+      "cooked_mutton": "2025-04-23 20:02:24 +0000",
       "cooked_beef": "2025-04-23 19:29:16 +0000",
       "baked_potato": "2025-04-23 19:46:28 +0000",
       "potato": "2025-04-23 19:28:53 +0000"
@@ -383,6 +390,18 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-23 19:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-23 20:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-23 20:03:38 +0000"
     },
     "done": true
   },
@@ -692,6 +711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-23 20:03:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-23 19:22:46 +0000"
@@ -722,6 +747,8 @@
       "minecraft:spider": "2025-04-23 19:54:19 +0000",
       "minecraft:wither_skeleton": "2025-04-23 19:54:35 +0000",
       "minecraft:cave_spider": "2025-04-23 19:59:15 +0000",
+      "minecraft:enderman": "2025-04-23 20:06:46 +0000",
+      "minecraft:stray": "2025-04-23 20:08:15 +0000",
       "minecraft:zombie": "2025-04-23 19:48:42 +0000"
     },
     "done": false
@@ -765,6 +792,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-04-23 19:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-23 20:03:04 +0000"
     },
     "done": true
   },
@@ -831,6 +864,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-23 19:22:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-23 20:03:04 +0000"
     },
     "done": true
   },
@@ -1020,6 +1059,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-23 20:06:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-04-23 19:21:20 +0000"
@@ -1116,6 +1161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-23 20:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-04-23 19:58:06 +0000"
@@ -1179,6 +1230,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 19:30:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-04-23 20:03:38 +0000"
     },
     "done": true
   },
@@ -1254,6 +1311,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2025-04-23 20:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-23 20:03:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-04-23 19:25:44 +0000"
@@ -1299,6 +1368,12 @@
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-04-23 19:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-23 20:03:04 +0000"
     },
     "done": true
   },
@@ -1424,6 +1499,12 @@
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-04-23 19:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-23 20:03:38 +0000"
     },
     "done": true
   },

@@ -952,3 +952,35 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [23Apr2025 17:37:28.336] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 4kenyyFn lost connection: Disconnected
 [23Apr2025 17:37:28.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn left the game
 [23Apr2025 17:37:28.336] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4kenyyFn
+[23Apr2025 17:38:28.932] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6d7d82b4
+[23Apr2025 17:38:28.939] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ab3lny11[/10.144.187.49:58576] logged in with entity id 2063 at (207.44735980677277, 73.0, 140.82041301682293)
+[23Apr2025 17:38:28.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 joined the game
+[23Apr2025 17:38:29.108] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ab3lny11 (18)
+[23Apr2025 17:38:29.109] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ab3lny11
+[23Apr2025 17:38:29.991] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
+[23Apr2025 17:38:30.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
+[23Apr2025 17:38:30.990] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ab3lny11 (959637a6-e34a-3c64-9f5a-575b2ef8bf12) successfully connected to voice chat
+[23Apr2025 17:38:38.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Creative Mode]
+[23Apr2025 17:38:44.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set the time to 1000]
+[23Apr2025 17:38:46.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
+[23Apr2025 17:38:57.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Monster Hunter]
+[23Apr2025 17:39:19.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Made Ab3lny11 no longer a server operator]
+[23Apr2025 17:39:23.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Knowledge of Death]
+[23Apr2025 17:39:23.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Easter Food]
+[23Apr2025 17:39:40.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Knowledge raises the soul]
+[23Apr2025 17:41:58.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Ab3lny11 a server operator
+[23Apr2025 17:42:06.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Creative Mode]
+[23Apr2025 17:42:08.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
+[23Apr2025 17:42:09.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Creative Mode]
+[23Apr2025 17:42:17.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
+[23Apr2025 17:42:22.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Creative Mode]
+[23Apr2025 17:42:25.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
+[23Apr2025 17:42:33.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Made Ab3lny11 no longer a server operator]
+[23Apr2025 17:43:17.823] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,reviveme:network,securitycraft:securitycraft,curios:main,tombstone:tombstone_channel,artifacts:main,ironchest:network,refinedstorage:main_channel] rejected vanilla connections
+[23Apr2025 17:43:17.823] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[23Apr2025 17:46:16.431] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,reviveme:network,securitycraft:securitycraft,curios:main,tombstone:tombstone_channel,artifacts:main,ironchest:network,refinedstorage:main_channel] rejected vanilla connections
+[23Apr2025 17:46:16.431] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[23Apr2025 17:46:48.114] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,reviveme:network,securitycraft:securitycraft,curios:main,tombstone:tombstone_channel,artifacts:main,ironchest:network,refinedstorage:main_channel] rejected vanilla connections
+[23Apr2025 17:46:48.114] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[23Apr2025 17:47:50.641] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,reviveme:network,securitycraft:securitycraft,curios:main,tombstone:tombstone_channel,artifacts:main,ironchest:network,refinedstorage:main_channel] rejected vanilla connections
+[23Apr2025 17:47:50.641] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.

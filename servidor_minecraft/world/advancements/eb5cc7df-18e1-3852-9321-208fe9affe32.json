@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2025-04-23 20:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 19:22:13 +0000"
@@ -191,9 +197,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-04-23 20:54:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-04-23 19:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-23 20:48:33 +0000"
     },
     "done": true
   },
@@ -314,6 +332,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-04-23 20:29:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-23 20:53:31 +0000"
     },
     "done": true
   },
@@ -890,6 +914,8 @@
       "minecraft:skeleton": "2025-04-23 19:23:26 +0000",
       "minecraft:spider": "2025-04-23 20:03:03 +0000",
       "minecraft:creeper": "2025-04-23 19:25:29 +0000",
+      "minecraft:wither_skeleton": "2025-04-23 20:50:38 +0000",
+      "minecraft:cave_spider": "2025-04-23 20:45:51 +0000",
       "minecraft:enderman": "2025-04-23 20:00:57 +0000",
       "minecraft:stray": "2025-04-23 20:34:52 +0000",
       "minecraft:zombie": "2025-04-23 20:32:05 +0000"
@@ -944,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-23 20:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-23 19:37:36 +0000"
@@ -989,6 +1021,12 @@
   "securitycraft:recipes/securitycraft/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-04-23 20:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-23 20:48:33 +0000"
     },
     "done": true
   },
@@ -1118,6 +1156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-23 20:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-23 19:36:49 +0000"
@@ -1193,6 +1237,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-04-23 20:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-23 20:48:33 +0000"
     },
     "done": true
   },
@@ -1610,9 +1660,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-23 20:48:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-04-23 19:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-23 20:48:33 +0000"
     },
     "done": true
   },
@@ -1766,6 +1828,12 @@
   "securitycraft:recipes/securitycraft/whitelist_module": {
     "criteria": {
       "has_iron": "2025-04-23 19:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2025-04-23 20:48:33 +0000"
     },
     "done": true
   },
@@ -1928,6 +1996,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2025-04-23 19:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2025-04-23 20:48:33 +0000"
     },
     "done": true
   },

@@ -53,17 +53,17 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-04-23 17:39:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2025-04-23 17:38:57 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-23 17:39:23 +0000"
+    },
+    "done": true
   },
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {

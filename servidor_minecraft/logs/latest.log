@@ -984,3 +984,29 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [23Apr2025 17:46:48.114] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
 [23Apr2025 17:47:50.641] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,reviveme:network,securitycraft:securitycraft,curios:main,tombstone:tombstone_channel,artifacts:main,ironchest:network,refinedstorage:main_channel] rejected vanilla connections
 [23Apr2025 17:47:50.641] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[23Apr2025 17:49:11.685] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
+[23Apr2025 17:49:11.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
+[23Apr2025 17:49:11.686] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11
+[23Apr2025 17:55:03.880] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5e580352
+[23Apr2025 17:55:03.883] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: 22erix[/10.144.64.243:57642] logged in with entity id 3016 at (208.5, 73.0, 151.5)
+[23Apr2025 17:55:03.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix joined the game
+[23Apr2025 17:55:04.518] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 22erix (18)
+[23Apr2025 17:55:04.519] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 22erix
+[23Apr2025 17:55:05.325] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dd5f4bc0-47fa-3451-9a84-5d37a5fab84c
+[23Apr2025 17:55:06.325] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dd5f4bc0-47fa-3451-9a84-5d37a5fab84c
+[23Apr2025 17:55:06.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 22erix (dd5f4bc0-47fa-3451-9a84-5d37a5fab84c) successfully connected to voice chat
+[23Apr2025 17:55:17.039] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5821309e
+[23Apr2025 17:55:17.044] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ab3lny11[/10.144.187.49:59840] logged in with entity id 3054 at (207.46091215662153, 73.0, 143.69999998807907)
+[23Apr2025 17:55:17.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 joined the game
+[23Apr2025 17:55:17.239] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ab3lny11 (18)
+[23Apr2025 17:55:17.240] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ab3lny11
+[23Apr2025 17:55:18.107] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
+[23Apr2025 17:55:19.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
+[23Apr2025 17:55:19.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ab3lny11 (959637a6-e34a-3c64-9f5a-575b2ef8bf12) successfully connected to voice chat
+[23Apr2025 17:55:34.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has made the advancement [Easter Egg Searcher]
+[23Apr2025 17:55:36.887] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
+[23Apr2025 17:55:36.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
+[23Apr2025 17:55:36.887] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11
+[23Apr2025 17:55:48.187] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 22erix lost connection: Disconnected
+[23Apr2025 17:55:48.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix left the game
+[23Apr2025 17:55:48.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 22erix

@@ -5,21 +5,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_smelting_upgrade": "2025-04-23 16:59:13 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_easter_egg": {
-    "criteria": {
-      "coded_trigger": "2025-04-23 16:59:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-04-23 17:39:23 +0000"
+      "has_logs": "2025-04-23 19:30:34 +0000"
     },
     "done": true
   },
@@ -47,12 +35,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/eat_easter_egg_food": {
-    "criteria": {
-      "coded_trigger": "2025-04-23 17:39:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-23 18:11:57 +0000",
@@ -60,15 +42,9 @@
     },
     "done": false
   },
-  "tombstone:adventure/first_knowledge": {
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
-      "coded_trigger": "2025-04-23 17:39:23 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
-    "criteria": {
-      "has_iron_ingot": "2025-04-23 16:59:13 +0000"
+      "has_log": "2025-04-23 19:30:34 +0000"
     },
     "done": true
   },
@@ -91,12 +67,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-04-23 16:59:13 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2025-04-23 16:59:13 +0000"
@@ -106,6 +76,74 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-04-23 16:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2025-04-23 18:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-04-23 16:47:59 +0000",
+      "minecraft:river": "2025-04-23 19:30:30 +0000",
+      "minecraft:plains": "2025-04-23 16:47:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-23 19:30:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-04-23 16:59:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-04-23 16:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-23 17:39:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/eat_easter_egg_food": {
+    "criteria": {
+      "coded_trigger": "2025-04-23 17:39:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-23 17:39:23 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-23 16:59:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-04-23 19:30:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 16:59:13 +0000"
     },
     "done": true
   },
@@ -126,19 +164,6 @@
       "coded_trigger": "2025-04-23 18:11:24 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_blue_flower": "2025-04-23 18:15:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-04-23 16:47:59 +0000",
-      "minecraft:plains": "2025-04-23 16:47:51 +0000"
-    },
-    "done": false
   },
   "DataVersion": 2586
 }

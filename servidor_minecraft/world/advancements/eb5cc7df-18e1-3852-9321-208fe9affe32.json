@@ -1,0 +1,17 @@
+{
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-04-23 17:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-04-23 17:03:30 +0000",
+      "minecraft:savanna": "2025-04-23 17:03:26 +0000",
+      "minecraft:plains": "2025-04-23 16:55:51 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

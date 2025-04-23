@@ -1,0 +1,96 @@
+
+["Fallen Player Settings"]
+
+	["Fallen Player Settings"."Self-Revive Settings"]
+		#If you can use self-revive methods in multiplayer
+		Self_Revive_Multiplayer = true
+		#How high your chance is to revive.
+		#Range: 0.0 ~ 1.0
+		"Revive Chance" = 0.5
+		#Percentage to lose for sacrificial items.
+		#Range: 0.0 ~ 1.0
+		"Sacrificial item percentage" = 0.5
+
+	["Fallen Player Settings"."Timer Settings"]
+		#How long you have before death. Default is 30 seconds. Setting to 0 will disable the timer
+		#Range: > 0
+		"Time Left" = 30
+		#How much time (in seconds) your death timer loses each time you fall. (Less than 1 is a percentage of max death time, -1 will take away the max)
+		#Range: -1.0 ~ 1.7976931348623157E308
+		Time_Reduction_Penalty = 0.2
+		#how long the revive penalty effects will last in SECONDS
+		#Range: 0.0 ~ 1.7976931348623157E308
+		Revive_Penalty_Timer = 45.0
+		#How much time (in seconds) must pass before you may be killed by other players. Affected by time reduction penalty. Setting to -1 will disable this
+		#Range: > -1
+		PVP_Timer = 10
+
+	["Fallen Player Settings"."Movement Settings"]
+		#What pose you have whilst fallen
+		#Allowed Values: CROUCH, PRONE, SLEEP
+		Fallen_Pose = "CROUCH"
+		#If the player may jump while fallen
+		#Allowed Values: YES, LIQUID_ONLY, NO
+		Can_Jump = "YES"
+		#If the player may move while fallen
+		Can_Move = true
+
+	["Fallen Player Settings"."Other Settings"]
+		#If you can give up and die
+		Can_Give_Up = true
+		#If the player can use their inventory while fallen
+		#Allowed Values: NO, LOOK_ONLY, YES
+		Interact_With_Inventory = "LOOK_ONLY"
+		#How many xp levels a player loses when downed (Less than 1 is a percentage)
+		#Range: 0.0 ~ 1.7976931348623157E308
+		Fallen_Xp_Penalty = 0.0
+		#Give back all of the potion effects the player had before entering the fallen state
+		Revert_Effects_On_Revive = false
+		#Potion effects the player has while fallen (ModId:PotionEffect:Tier)(minecraft:slowness:0)
+		Downed_Effects = ["minecraft:slowness:3"]
+		#Commands the player isn't allowed to use while fallen. Type "/" to block all commands.
+		Blocked_Commands = []
+		#How long before you can call for help again in SECONDS
+		#Range: 0.0 ~ 1.7976931348623157E308
+		Revive_Help_Call_Cooldown = 0.75
+		#How long the Help call effects will last in SECONDS
+		#Range: 0.0 ~ 1.7976931348623157E308
+		Revive_Help_Duration = 8.0
+
+["Revive Settings"]
+
+	["Revive Settings"."Revivee Settings"]
+		#How much health you will be revived with, -1 is max health, Less than 1 is percentage
+		#Range: -1.0 ~ 2.147483647E9
+		"Revive Health" = 10.0
+		#How much food you will be revived with, -1 is max food, Less than 1 is percentage
+		#Range: -1.0 ~ 2.147483647E9
+		"Revive Food" = 6.0
+		#How many seconds of invulnerability you have on revive
+		#Range: 0.0 ~ 3.4028234663852886E38
+		Revive_Invuln_Time = 5.0
+
+	["Revive Settings"."Reviver Settings"]
+		#How long to revive someone
+		#Range: > 0
+		"Revive Time" = 3
+		#What the reviver will lose
+		#Allowed Values: NONE, HEALTH, EXPERIENCE, FOOD, ITEM
+		"Penalty Type" = "FOOD"
+		#Amount that will be taken from reviver, Numbers below 1 and greater than 0 will turn it into a percentage
+		"Penalty Amount" = 10.0
+		#Item used to revive fallen players (Only if you selected ITEM as penalty type). Usage: MODID:ITEM
+		"Revive Item" = "minecraft:golden_apple"
+
+["Chat Settings"]
+	#Silence the revive and fallen chat messages
+	Silence_Regular_Messages = false
+	#Silence command chat messages
+	Silence_Command_Messages = false
+	#If chat messages from this mod should be sent to everyone. If false, will only send to those nearby
+	Universal_Chat_Messages = true
+
+["Client Settings"]
+	#Makes self-revive UI smaller, more compact
+	Compact_UI = false
+

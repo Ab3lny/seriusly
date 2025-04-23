@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-04-23 19:40:29 +0000"
@@ -251,6 +257,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-04-23 18:11:24 +0000"
@@ -329,6 +341,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-23 19:30:55 +0000"
@@ -362,6 +380,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-04-23 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
     },
     "done": true
   },
@@ -428,6 +452,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-04-23 19:49:16 +0000"
@@ -464,6 +494,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-23 19:40:29 +0000"
@@ -485,6 +521,12 @@
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-23 19:30:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
     },
     "done": true
   },
@@ -836,6 +878,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2025-04-23 19:31:58 +0000"
@@ -905,6 +953,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-04-23 19:47:09 +0000"
@@ -935,6 +989,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-04-23 19:40:29 +0000"
@@ -944,6 +1004,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-23 19:43:52 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
     },
     "done": true
   },
@@ -1043,6 +1109,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-23 20:10:08 +0000"
@@ -1091,6 +1163,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-04-23 19:31:58 +0000"
@@ -1106,6 +1184,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-04-23 19:40:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
     },
     "done": true
   },
@@ -1139,6 +1223,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-04-23 19:43:49 +0000"
@@ -1163,9 +1253,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-04-23 19:47:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-04-23 20:39:55 +0000"
     },
     "done": true
   },
@@ -1289,6 +1391,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/cage_trap": {
     "criteria": {
       "has_redstone": "2025-04-23 19:47:09 +0000"
@@ -1361,6 +1469,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-04-23 16:59:13 +0000"
@@ -1370,6 +1484,12 @@
   "securitycraft:recipes/securitycraft/floor_trap": {
     "criteria": {
       "has_iron": "2025-04-23 19:31:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
     },
     "done": true
   },
@@ -1388,6 +1508,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-04-23 19:42:15 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
     },
     "done": true
   },
@@ -1415,6 +1541,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-23 19:43:19 +0000"
@@ -1430,6 +1562,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-04-23 19:49:16 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
     },
     "done": true
   },
@@ -1613,6 +1751,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-04-23 17:38:57 +0000"
@@ -1643,9 +1787,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-04-23 19:31:58 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
     },
     "done": true
   },
@@ -1698,6 +1854,13 @@
   "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 19:31:58 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 20:41:00 +0000",
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
     },
     "done": true
   },
@@ -1773,6 +1936,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-04-23 19:30:55 +0000"
@@ -1797,6 +1966,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2025-04-23 19:31:58 +0000"
@@ -1818,6 +1993,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-23 19:43:49 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
     },
     "done": true
   },
@@ -1887,6 +2068,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-23 19:30:55 +0000"
@@ -1899,9 +2086,22 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 20:41:00 +0000",
+      "has_sleeping_bag": "2025-04-23 20:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-04-23 19:38:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
     },
     "done": true
   },
@@ -1953,6 +2153,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-23 19:31:58 +0000"
@@ -1980,6 +2186,12 @@
   "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
       "has_iron": "2025-04-23 19:31:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 20:39:44 +0000"
     },
     "done": true
   },

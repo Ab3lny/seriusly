@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-23 18:11:57 +0000",
       "minecraft:zombie": "2025-04-23 17:38:57 +0000"
     },
     "done": false
@@ -81,6 +82,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-23 17:39:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-04-23 18:11:25 +0000"
     },
     "done": true
   },
@@ -111,6 +118,18 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-23 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-23 18:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2025-04-23 18:15:08 +0000"
     },
     "done": true
   },

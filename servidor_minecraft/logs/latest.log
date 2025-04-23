@@ -1010,3 +1010,77 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [23Apr2025 17:55:48.187] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 22erix lost connection: Disconnected
 [23Apr2025 17:55:48.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix left the game
 [23Apr2025 17:55:48.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 22erix
+[23Apr2025 18:10:27.980] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7150eb44
+[23Apr2025 18:10:27.983] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KerryCabuela[/10.144.230.62:63697] logged in with entity id 3152 at (198.5, 73.0, 146.5)
+[23Apr2025 18:10:27.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela joined the game
+[23Apr2025 18:10:30.310] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KerryCabuela (18)
+[23Apr2025 18:10:30.310] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KerryCabuela
+[23Apr2025 18:10:33.402] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31a5093f-423c-31c9-9aed-09ed3637580c
+[23Apr2025 18:10:34.404] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31a5093f-423c-31c9-9aed-09ed3637580c
+[23Apr2025 18:10:34.404] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c) successfully connected to voice chat
+[23Apr2025 18:10:38.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
+[23Apr2025 18:10:38.187] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
+[23Apr2025 18:10:38.187] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[23Apr2025 18:10:52.190] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1c6e9219
+[23Apr2025 18:10:52.194] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ab3lny11[/10.144.187.49:60675] logged in with entity id 3193 at (206.61608855790823, 73.0, 143.69999998807907)
+[23Apr2025 18:10:52.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 joined the game
+[23Apr2025 18:10:52.341] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ab3lny11 (18)
+[23Apr2025 18:10:52.341] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ab3lny11
+[23Apr2025 18:10:53.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
+[23Apr2025 18:10:54.256] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
+[23Apr2025 18:10:54.256] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ab3lny11 (959637a6-e34a-3c64-9f5a-575b2ef8bf12) successfully connected to voice chat
+[23Apr2025 18:10:59.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has fallen
+[23Apr2025 18:10:59.636] [Server thread/WARN] [tombstone/]: The death event of the player Ab3lny11 was canceled by another mod
+[23Apr2025 18:10:59.636] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
+[23Apr2025 18:11:08.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela was shot by Skeleton
+[23Apr2025 18:11:08.189] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[23Apr2025 18:11:16.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 was shot by Skeleton
+[23Apr2025 18:11:16.696] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
+[23Apr2025 18:11:24.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has reached the goal [Here They Come]
+[23Apr2025 18:11:28.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Knowledge of Death]
+[23Apr2025 18:11:28.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Easter Egg Searcher]
+[23Apr2025 18:11:28.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has reached the goal [Here They Come]
+[23Apr2025 18:11:43.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has fallen
+[23Apr2025 18:11:43.937] [Server thread/WARN] [tombstone/]: The death event of the player Ab3lny11 was canceled by another mod
+[23Apr2025 18:11:43.937] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
+[23Apr2025 18:11:46.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 was shot by Skeleton
+[23Apr2025 18:11:46.599] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
+[23Apr2025 18:12:12.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
+[23Apr2025 18:12:12.685] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
+[23Apr2025 18:12:12.687] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[23Apr2025 18:12:17.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Ab3lny11 a server operator
+[23Apr2025 18:12:18.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
+[23Apr2025 18:12:20.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Creative Mode]
+[23Apr2025 18:12:23.176] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=212, y=71, z=157} BlockPos{x=213, y=71, z=157}
+[23Apr2025 18:12:23.224] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=212, y=71, z=157} BlockPos{x=214, y=71, z=156}
+[23Apr2025 18:12:24.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set the time to 1000]
+[23Apr2025 18:12:26.067] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=212, y=71, z=157} BlockPos{x=214, y=71, z=156}
+[23Apr2025 18:12:29.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
+[23Apr2025 18:12:29.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Creative Mode]
+[23Apr2025 18:12:32.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Monster Hunter]
+[23Apr2025 18:12:32.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
+[23Apr2025 18:12:32.583] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
+[23Apr2025 18:12:32.587] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[23Apr2025 18:12:34.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
+[23Apr2025 18:12:42.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
+[23Apr2025 18:12:44.012] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=212, y=71, z=157} BlockPos{x=215, y=70, z=157}
+[23Apr2025 18:12:44.086] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=212, y=71, z=157} BlockPos{x=216, y=69, z=157}
+[23Apr2025 18:12:47.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Creative Mode]
+[23Apr2025 18:12:52.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
+[23Apr2025 18:12:55.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Made Ab3lny11 no longer a server operator]
+[23Apr2025 18:12:59.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has fallen
+[23Apr2025 18:12:59.770] [Server thread/WARN] [tombstone/]: The death event of the player Ab3lny11 was canceled by another mod
+[23Apr2025 18:12:59.770] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
+[23Apr2025 18:13:29.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 was slain by KerryCabuela
+[23Apr2025 18:13:29.737] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
+[23Apr2025 18:16:20.534] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
+[23Apr2025 18:16:20.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
+[23Apr2025 18:16:20.535] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11
+[23Apr2025 18:18:04.686] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@68988c07
+[23Apr2025 18:18:04.688] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eleamhh[/10.144.215.173:53258] logged in with entity id 3946 at (203.5, 74.0, 148.5)
+[23Apr2025 18:18:04.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh joined the game
+[23Apr2025 18:18:05.600] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Eleamhh (18)
+[23Apr2025 18:18:05.601] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Eleamhh
+[23Apr2025 18:18:07.195] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d672abb-8750-3323-81ed-fa10031483d7
+[23Apr2025 18:18:08.195] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d672abb-8750-3323-81ed-fa10031483d7
+[23Apr2025 18:18:08.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Eleamhh (8d672abb-8750-3323-81ed-fa10031483d7) successfully connected to voice chat

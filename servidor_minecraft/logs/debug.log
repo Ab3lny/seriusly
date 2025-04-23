@@ -4944,3 +4944,7 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [23Apr2025 17:55:48.188] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of 22erix
 [23Apr2025 17:55:48.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 22erix
 [23Apr2025 17:55:48.192] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player dd5f4bc0-47fa-3451-9a84-5d37a5fab84c does not have a secret
+[23Apr2025 17:58:48.103] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Apr2025 17:58:48.109] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Apr2025 18:03:47.941] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Apr2025 18:03:47.945] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

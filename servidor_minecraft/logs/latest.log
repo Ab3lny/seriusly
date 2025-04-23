@@ -934,3 +934,21 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [23Apr2025 17:15:37.486] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
 [23Apr2025 17:15:37.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
 [23Apr2025 17:15:37.487] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11
+[23Apr2025 17:35:30.146] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,reviveme:network,securitycraft:securitycraft,curios:main,tombstone:tombstone_channel,artifacts:main,ironchest:network,refinedstorage:main_channel] rejected vanilla connections
+[23Apr2025 17:35:30.146] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[23Apr2025 17:36:51.632] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2c44c7be
+[23Apr2025 17:36:51.638] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: 4kenyyFn[/10.144.226.156:53869] logged in with entity id 2002 at (210.74976145682172, 72.0, 146.30000001192093)
+[23Apr2025 17:36:51.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn joined the game
+[23Apr2025 17:36:52.117] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 4kenyyFn (18)
+[23Apr2025 17:36:52.118] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 4kenyyFn
+[23Apr2025 17:36:55.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eb5cc7df-18e1-3852-9321-208fe9affe32
+[23Apr2025 17:36:56.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eb5cc7df-18e1-3852-9321-208fe9affe32
+[23Apr2025 17:36:56.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4kenyyFn (eb5cc7df-18e1-3852-9321-208fe9affe32) successfully connected to voice chat
+[23Apr2025 17:36:56.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has fallen
+[23Apr2025 17:36:56.744] [Server thread/WARN] [tombstone/]: The death event of the player 4kenyyFn was canceled by another mod
+[23Apr2025 17:36:56.748] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[23Apr2025 17:37:17.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn was slain by Zombie
+[23Apr2025 17:37:17.300] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[23Apr2025 17:37:28.336] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 4kenyyFn lost connection: Disconnected
+[23Apr2025 17:37:28.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn left the game
+[23Apr2025 17:37:28.336] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4kenyyFn

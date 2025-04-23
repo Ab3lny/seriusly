@@ -11,12 +11,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-04-23 17:03:55 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-04-23 17:03:55 +0000"
@@ -26,6 +20,30 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2025-04-23 17:03:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-04-23 17:00:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-04-23 17:03:55 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-23 17:03:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-04-23 17:03:55 +0000"
     },
     "done": true
   },
@@ -47,15 +65,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "auto": "2025-04-23 17:00:43 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2025-04-23 17:03:55 +0000"
+      "killed_by_something": "2025-04-23 17:37:17 +0000"
     },
     "done": true
   },
@@ -66,12 +78,6 @@
       "minecraft:plains": "2025-04-23 16:55:51 +0000"
     },
     "done": false
-  },
-  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
-    "criteria": {
-      "has_iron_ingot": "2025-04-23 17:03:55 +0000"
-    },
-    "done": true
   },
   "DataVersion": 2586
 }

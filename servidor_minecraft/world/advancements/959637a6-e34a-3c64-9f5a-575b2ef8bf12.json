@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-23 19:53:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-23 19:43:37 +0000"
@@ -113,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-23 19:55:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-04-23 19:30:53 +0000"
@@ -128,6 +140,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-23 19:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 19:53:39 +0000"
     },
     "done": true
   },
@@ -339,6 +357,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-23 17:42:19 +0000",
       "cooked_beef": "2025-04-23 19:38:48 +0000",
+      "bread": "2025-04-23 19:54:11 +0000",
       "rotten_flesh": "2025-04-23 17:39:23 +0000"
     },
     "done": false
@@ -454,6 +473,18 @@
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-23 19:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-23 19:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-23 19:55:54 +0000"
     },
     "done": true
   },
@@ -796,6 +827,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-23 19:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-23 19:55:54 +0000"
     },
     "done": true
   },
@@ -1414,6 +1451,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-04-23 19:55:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-04-23 19:49:16 +0000"
@@ -1504,6 +1547,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2025-04-23 19:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-23 19:55:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-04-23 19:31:05 +0000"
@@ -1585,8 +1640,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-23 16:47:59 +0000",
+      "minecraft:mountains": "2025-04-23 19:54:28 +0000",
       "minecraft:desert": "2025-04-23 19:38:20 +0000",
+      "minecraft:savanna_plateau": "2025-04-23 19:51:39 +0000",
+      "minecraft:dark_forest": "2025-04-23 19:52:13 +0000",
       "minecraft:river": "2025-04-23 19:30:30 +0000",
+      "minecraft:wooded_mountains": "2025-04-23 19:54:53 +0000",
+      "minecraft:swamp": "2025-04-23 19:57:18 +0000",
       "minecraft:savanna": "2025-04-23 19:50:31 +0000",
       "minecraft:plains": "2025-04-23 16:47:51 +0000"
     },
@@ -1673,6 +1733,12 @@
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-04-23 19:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-23 19:55:54 +0000"
     },
     "done": true
   },

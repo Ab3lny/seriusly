@@ -353,3 +353,30 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [23Apr2025 19:55:06.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has been revived
 [23Apr2025 19:55:06.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has been revived
 [23Apr2025 19:55:08.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has made the advancement [Ashes 'n Bones]
+[23Apr2025 19:55:20.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has fallen
+[23Apr2025 19:55:20.248] [Server thread/WARN] [tombstone/]: The death event of the player Eleamhh was canceled by another mod
+[23Apr2025 19:55:20.250] [Server thread/INFO] [tombstone/]: The player Eleamhh has successfully been saved
+[23Apr2025 19:55:43.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has been revived
+[23Apr2025 19:56:36.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has fallen
+[23Apr2025 19:56:36.501] [Server thread/WARN] [tombstone/]: The death event of the player Eleamhh was canceled by another mod
+[23Apr2025 19:56:36.504] [Server thread/INFO] [tombstone/]: The player Eleamhh has successfully been saved
+[23Apr2025 19:56:47.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Isn't It Iron Pick]
+[23Apr2025 19:56:49.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has been revived
+[23Apr2025 19:57:07.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has fallen
+[23Apr2025 19:57:07.600] [Server thread/WARN] [tombstone/]: The death event of the player 22erix was canceled by another mod
+[23Apr2025 19:57:07.602] [Server thread/INFO] [tombstone/]: The player 22erix has successfully been saved
+[23Apr2025 19:57:19.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has been revived
+[23Apr2025 19:57:51.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [Cover Me With Diamonds]
+[23Apr2025 19:58:32.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Suit Up]
+[23Apr2025 19:59:45.665] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4a395c4a
+[23Apr2025 19:59:45.671] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: 4kenyyFn[/10.144.226.156:62206] logged in with entity id 14315 at (113.6020126407364, 14.0, 459.5403345668587)
+[23Apr2025 19:59:45.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn joined the game
+[23Apr2025 19:59:45.941] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 4kenyyFn (18)
+[23Apr2025 19:59:45.942] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 4kenyyFn
+[23Apr2025 19:59:47.637] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eb5cc7df-18e1-3852-9321-208fe9affe32
+[23Apr2025 19:59:48.637] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eb5cc7df-18e1-3852-9321-208fe9affe32
+[23Apr2025 19:59:48.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4kenyyFn (eb5cc7df-18e1-3852-9321-208fe9affe32) successfully connected to voice chat
+[23Apr2025 20:00:43.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [Ashes 'n Bones]
+[23Apr2025 20:01:08.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [Magic Writing]
+[23Apr2025 20:01:21.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has reached the goal [I see clearly now]
+[23Apr2025 20:01:37.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [A Strange Grave Dust]

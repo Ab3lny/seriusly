@@ -1,0 +1,94 @@
+village_siege = {}
+
+#Options related to player's death
+[player_death]
+	#Whether to unlock access to a grave if the player has been killed by another player [false/true|default:true]
+	pvp_unlock_grave = true
+	#Whether to restore beneficial effects after a player dies [false/true|default:true]
+	restore_effects_on_death = false
+	#Only abandoned graves can have losses of items (based on the decay_time) [false/true|default:true]
+	loss_on_death_only_for_abandoned_grave = true
+	#Only stackable items can be lost on death [false/true|default:true]
+	loss_on_death_only_for_stackable_items = true
+	#Prevents death outside the borders of the world [false/true|default:true]
+	prevent_death_outside_world_border = true
+	#Prevents death outside the build height [false/true|default:false]
+	prevent_death_outside_build_height = false
+	#Allows to fill an existing grave instead of creating a new one [false/true|default:true]
+	allow_to_fill_existing_grave = true
+	#Caps the duration of Ghostly Shape effect to 10 seconds when teleporting with a Grave's Key [false/true|default:true]
+	nerf_ghostly_shape_teleport_with_key = true
+	#Cancel the Ghostly Shape effect when colliding an enemy [false/true|default:true]
+	nerf_ghostly_shape_enemy_collision = true
+	#Cancel the Ghostly Shape effect when opening a chest [false/true|default:true]
+	nerf_ghostly_shape_open_chest = true
+	#Cancel the Ghostly Shape effect when breaking a block [false/true|default:true]
+	nerf_ghostly_shape_break_block = true
+	#The radius in which items should be collected when a grave is spawned [1..10|default:5]
+	#Range: 1 ~ 10
+	sniffer_range = 5
+	#The chance that creatures appear after the contents of a grave are retrieved [0..100|default:0]
+	#Range: 0 ~ 100
+	chance_mob_on_grave_recovery = 0
+	#Percent of stolen experience by killing a player when PvP mode is enabled [0..100|default:30]
+	#Range: 0 ~ 100
+	pvp_stolen_xp = 30
+	#The chance that some items are lost on death [0..100|default:0]
+	#Range: 0 ~ 100
+	chance_loss_on_death = 0
+	#The percentage of items that are lost on death [0..100|default:0]
+	#Range: 0 ~ 100
+	percent_loss_on_death = 0
+	#Graveless Dimensions
+	no_grave_dimension = []
+
+#Options related to player's alignment
+[alignment]
+	#Points for freeing a soul in a receptacle [0..50|default:10]
+	#Range: 0 ~ 50
+	points_free_soul_receptacle = 10
+	#Points for plundering a player's grave [-50..0|default:-2]
+	#Range: -50 ~ 0
+	points_plunder_player_grave = -2
+	#Points for zombie villager exorcism [0..50|default:3]
+	#Range: 0 ~ 50
+	points_exorcism_zombie_villager = 3
+	#Points for killing a villager [-50..0|default:-3]
+	#Range: -50 ~ 0
+	points_kill_villager = -3
+	#Points for killing a raider [0..20|default:1]
+	#Range: 0 ~ 20
+	points_kill_raider = 1
+	#Points for tablet of cupidity [-20..0|default:-2]
+	#Range: -20 ~ 0
+	points_tablet_of_cupidity = -2
+	#Points for Pray of Protection [0..50|default:2]
+	#Range: 0 ~ 50
+	points_pray_of_protection = 2
+
+#Miscellaneous options
+[general]
+	#Allows teleportation to other dimensions [false/true|default:true]
+	teleport_dim = true
+	#Increases the minimum time without sleeping for phantom spawn around player based on their level in Knowledge of Death [false/true|default:true]
+	knowledge_reduce_phantom_spawn = true
+	#Minimum time without sleeping for phantom to spawn around players [1200..MAX|default:72000]
+	#Range: > 1200
+	time_for_phantom_spawn = 72000
+	#Cooldown in minutes to use the command tbrequestteleport [-1..1440|default:-1]
+	#Range: -1 ~ 1440
+	cooldown_request_teleport = -1
+	#Cooldown in minutes to use the command tbteleportdeath [-1..1440|default:-1]
+	#Range: -1 ~ 1440
+	cooldown_teleport_death = -1
+	#Cooldown in minutes to use the command tbbind [-1..1440|default:-1]
+	#Range: -1 ~ 1440
+	cooldown_teleport_bind = -1
+	#Beneficial effects that can't used by certain features such as ankh of prayer, lollipop, scroll of preservation, alchemy perk and magic siphon enchantment
+	unhandled_beneficial_effects = ["astralsorcery:potiontimefreeze"]
+	#Harmful effects that can't used by certain features such as tablet of cupidity and the enchantment plague bringer
+	unhandled_harmful_effects = ["minecraft:nausea"]
+	#Rarity for Easter Eggs to spawn during Easter [1000..100000|default:5000]
+	#Range: 1000 ~ 100000
+	easter_egg_spawn_rarity = 5000
+

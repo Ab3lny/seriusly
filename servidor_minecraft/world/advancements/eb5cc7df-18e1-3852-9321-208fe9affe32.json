@@ -587,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-24 16:34:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-04-23 17:03:55 +0000"
@@ -1341,6 +1347,7 @@
       "minecraft:taiga": "2025-04-23 20:26:58 +0000",
       "minecraft:taiga_hills": "2025-04-23 20:26:49 +0000",
       "minecraft:desert": "2025-04-23 19:24:57 +0000",
+      "minecraft:savanna_plateau": "2025-04-24 16:34:15 +0000",
       "minecraft:dark_forest": "2025-04-23 20:23:50 +0000",
       "minecraft:river": "2025-04-23 17:03:30 +0000",
       "minecraft:wooded_hills": "2025-04-23 19:41:34 +0000",
@@ -1437,6 +1444,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-04-23 20:06:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-24 16:30:57 +0000"
     },
     "done": true
   },

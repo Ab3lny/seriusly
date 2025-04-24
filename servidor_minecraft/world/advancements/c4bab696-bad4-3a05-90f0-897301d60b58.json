@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-24 11:59:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-04-23 20:40:02 +0000"
@@ -750,6 +756,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-24 11:59:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-04-23 20:41:06 +0000"
@@ -953,6 +965,7 @@
       "minecraft:skeleton": "2025-04-23 21:33:20 +0000",
       "minecraft:spider": "2025-04-23 20:58:24 +0000",
       "minecraft:creeper": "2025-04-23 20:58:32 +0000",
+      "minecraft:husk": "2025-04-24 11:58:29 +0000",
       "minecraft:stray": "2025-04-23 21:12:52 +0000",
       "minecraft:zombie": "2025-04-23 20:56:45 +0000"
     },
@@ -991,6 +1004,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-04-23 20:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-24 11:59:18 +0000"
     },
     "done": true
   },
@@ -1081,6 +1100,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_gray_wool": "2025-04-23 20:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-24 11:59:11 +0000"
     },
     "done": true
   },
@@ -1312,6 +1337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-24 11:59:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-04-23 21:07:14 +0000"
@@ -1339,6 +1370,12 @@
   "securitycraft:recipes/securitycraft/username_logger": {
     "criteria": {
       "has_redstone": "2025-04-23 21:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-24 11:59:18 +0000"
     },
     "done": true
   },
@@ -2042,6 +2079,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-04-23 20:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-24 11:59:18 +0000"
     },
     "done": true
   },

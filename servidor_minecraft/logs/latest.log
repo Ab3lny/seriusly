@@ -328,3 +328,14 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 13:11:24.686] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=177, y=87, z=-622} BlockPos{x=177, y=87, z=-623}
 [24Apr2025 13:11:24.735] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=177, y=87, z=-622} BlockPos{x=177, y=87, z=-623}
 [24Apr2025 13:15:27.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has reached the goal [Great minds think alike]
+[24Apr2025 13:16:25.168] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@12644290
+[24Apr2025 13:16:25.175] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Maxibon_08[/10.144.115.47:56340] logged in with entity id 34566 at (-308.13283701931505, 72.0, 653.8926028782488)
+[24Apr2025 13:16:25.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 joined the game
+[24Apr2025 13:16:25.339] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Maxibon_08 (18)
+[24Apr2025 13:16:25.339] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Maxibon_08
+[24Apr2025 13:16:26.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c4bab696-bad4-3a05-90f0-897301d60b58
+[24Apr2025 13:16:27.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c4bab696-bad4-3a05-90f0-897301d60b58
+[24Apr2025 13:16:27.215] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Maxibon_08 (c4bab696-bad4-3a05-90f0-897301d60b58) successfully connected to voice chat
+[24Apr2025 13:21:09.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [Where Is The Stone Pen?]
+[24Apr2025 13:21:28.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 has made the advancement [What a Deal!]
+[24Apr2025 13:21:47.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Where Is The Stone Pen?]

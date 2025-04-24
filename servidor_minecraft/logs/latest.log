@@ -227,3 +227,4 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 20:24:54.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn left the game
 [24Apr2025 20:24:54.212] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4kenyyFn
 [24Apr2025 20:25:10.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 has reached the goal [Bone Crusher]
+[24Apr2025 20:45:12.205] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@289f65e6

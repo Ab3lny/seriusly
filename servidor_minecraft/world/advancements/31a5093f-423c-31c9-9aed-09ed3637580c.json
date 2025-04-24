@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-24 12:06:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-23 19:29:01 +0000"
@@ -428,6 +434,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-23 19:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-24 12:06:24 +0000"
     },
     "done": true
   },
@@ -749,6 +761,12 @@
   "securitycraft:recipes/securitycraft/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-04-23 21:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-24 12:07:08 +0000"
     },
     "done": true
   },
@@ -1109,6 +1127,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-23 18:10:28 +0000",
+      "minecraft:desert_hills": "2025-04-24 12:09:31 +0000",
       "minecraft:desert": "2025-04-23 19:22:29 +0000",
       "minecraft:savanna_plateau": "2025-04-23 21:08:44 +0000",
       "minecraft:river": "2025-04-23 18:21:23 +0000",
@@ -2455,6 +2474,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-23 18:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-24 12:06:24 +0000"
     },
     "done": true
   },

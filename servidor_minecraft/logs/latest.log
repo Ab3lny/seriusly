@@ -157,3 +157,25 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 11:55:34.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> nt
 [24Apr2025 11:59:18.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 has made the advancement [Magic Writing]
 [24Apr2025 12:00:22.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 has made the advancement [Not Today, Thank You]
+[24Apr2025 12:05:43.872] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@772b612b
+[24Apr2025 12:05:43.881] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: 4kenyyFn[/10.144.226.156:61134] logged in with entity id 7624 at (1240.4752352712435, 24.0, 1265.8130487678384)
+[24Apr2025 12:05:43.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn joined the game
+[24Apr2025 12:05:45.687] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 4kenyyFn (18)
+[24Apr2025 12:05:45.688] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 4kenyyFn
+[24Apr2025 12:06:47.628] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 4kenyyFn lost connection: Disconnected
+[24Apr2025 12:06:47.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn left the game
+[24Apr2025 12:06:47.631] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4kenyyFn
+[24Apr2025 12:10:57.865] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@18946e91
+[24Apr2025 12:10:57.874] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: 4kenyyFn[/10.144.226.156:61437] logged in with entity id 10285 at (1240.4752352712435, 24.0, 1265.8130487678384)
+[24Apr2025 12:10:57.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn joined the game
+[24Apr2025 12:10:59.120] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 4kenyyFn (18)
+[24Apr2025 12:10:59.121] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 4kenyyFn
+[24Apr2025 12:10:59.969] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 4kenyyFn lost connection: Disconnected
+[24Apr2025 12:10:59.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn left the game
+[24Apr2025 12:10:59.970] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4kenyyFn
+[24Apr2025 12:11:39.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 has made the advancement [Diamonds!]
+[24Apr2025 12:14:29.412] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@628a864
+[24Apr2025 12:14:29.420] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: 4kenyyFn[/10.144.226.156:61698] logged in with entity id 11940 at (1240.4752352712435, 24.0, 1265.8130487678384)
+[24Apr2025 12:14:29.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn joined the game
+[24Apr2025 12:14:30.724] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 4kenyyFn (18)
+[24Apr2025 12:14:30.725] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 4kenyyFn

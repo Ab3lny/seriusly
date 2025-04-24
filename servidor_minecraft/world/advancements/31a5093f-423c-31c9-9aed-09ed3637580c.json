@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-24 12:33:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-04-23 19:36:16 +0000"
@@ -555,6 +561,7 @@
       "minecraft:cave_spider": "2025-04-23 20:11:37 +0000",
       "minecraft:enderman": "2025-04-23 20:08:11 +0000",
       "minecraft:stray": "2025-04-23 19:39:23 +0000",
+      "minecraft:silverfish": "2025-04-24 12:38:44 +0000",
       "minecraft:zombie": "2025-04-23 18:12:32 +0000",
       "minecraft:zombie_villager": "2025-04-23 20:57:44 +0000"
     },
@@ -683,6 +690,12 @@
   "securitycraft:recipes/securitycraft/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-04-23 21:19:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-24 12:41:42 +0000"
     },
     "done": true
   },
@@ -881,6 +894,12 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2025-04-23 19:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-24 12:33:17 +0000"
     },
     "done": true
   },
@@ -1151,6 +1170,12 @@
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-04-23 18:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-24 12:41:42 +0000"
     },
     "done": true
   },
@@ -1502,6 +1527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-24 12:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-04-23 19:23:19 +0000"
@@ -1761,6 +1792,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-23 19:36:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-24 12:33:17 +0000"
     },
     "done": true
   },
@@ -2136,6 +2173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-24 12:41:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-23 18:11:28 +0000"
@@ -2499,6 +2542,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-23 19:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-24 12:41:42 +0000"
     },
     "done": true
   },

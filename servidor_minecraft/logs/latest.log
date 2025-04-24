@@ -214,3 +214,23 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 15:39:00.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> y el nathan esta cagando
 [24Apr2025 15:57:39.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> dormir
 [24Apr2025 15:57:46.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> tengo pesadillas
+[24Apr2025 15:57:57.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> zzz
+[24Apr2025 15:57:58.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> zzz
+[24Apr2025 15:57:59.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> zzz
+[24Apr2025 15:57:59.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ab3lny11> yo ya estoy zzz
+[24Apr2025 15:58:00.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> zzz
+[24Apr2025 15:58:01.216] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eleamhh lost connection: Disconnected
+[24Apr2025 15:58:01.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh left the game
+[24Apr2025 15:58:01.217] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Eleamhh
+[24Apr2025 15:58:41.870] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of 4kenyyFn) moved wrongly! 0.26736410347523787
+[24Apr2025 15:58:56.570] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@560bcf57
+[24Apr2025 15:58:56.576] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eleamhh[/10.144.215.173:53895] logged in with entity id 18885 at (344.99095407315343, 89.0, 953.5630949791114)
+[24Apr2025 15:58:56.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh joined the game
+[24Apr2025 15:58:56.724] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Eleamhh (18)
+[24Apr2025 15:58:56.724] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Eleamhh
+[24Apr2025 15:58:57.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d672abb-8750-3323-81ed-fa10031483d7
+[24Apr2025 15:58:58.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d672abb-8750-3323-81ed-fa10031483d7
+[24Apr2025 15:58:58.829] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Eleamhh (8d672abb-8750-3323-81ed-fa10031483d7) successfully connected to voice chat
+[24Apr2025 15:59:11.612] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of 4kenyyFn) moved wrongly! 0.464270445511195
+[24Apr2025 15:59:11.645] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of 4kenyyFn) moved wrongly! 0.4371578312594204
+[24Apr2025 15:59:11.712] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of 4kenyyFn) moved wrongly! 0.44193477047499474

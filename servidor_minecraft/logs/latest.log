@@ -140,3 +140,7 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 19:03:19.380] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=-21, y=55, z=384}
 [24Apr2025 19:03:25.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has made the advancement [What a Deal!]
 [24Apr2025 19:05:04.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> DUERME K SINO LA MATAN
+[24Apr2025 19:16:32.861] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KerryCabuela lost connection: Disconnected
+[24Apr2025 19:16:32.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela left the game
+[24Apr2025 19:16:32.865] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KerryCabuela
+[24Apr2025 19:18:37.797] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/347, l='ServerLevel[world]', x=73.03, y=73.00, z=224.64] died, message: 'Farmer hit the ground too hard'

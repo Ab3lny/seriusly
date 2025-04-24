@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-24 20:30:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-04-23 20:46:06 +0000"
@@ -791,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-24 20:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-24 12:01:08 +0000"
@@ -872,6 +884,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_gray_wool": "2025-04-23 20:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-24 20:30:14 +0000"
     },
     "done": true
   },
@@ -1060,6 +1078,12 @@
   "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 20:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2025-04-24 20:29:56 +0000"
     },
     "done": true
   },
@@ -1282,6 +1306,12 @@
   "securitycraft:recipes/securitycraft/panic_button": {
     "criteria": {
       "has_redstone": "2025-04-23 21:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-24 20:30:14 +0000"
     },
     "done": true
   },
@@ -1537,6 +1567,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-04-23 21:30:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-24 20:30:14 +0000"
     },
     "done": true
   },

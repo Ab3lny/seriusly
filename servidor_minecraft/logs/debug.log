@@ -3812,3 +3812,15 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 20:25:10.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 has reached the goal [Bone Crusher]
 [24Apr2025 20:29:38.342] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Apr2025 20:29:38.347] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Apr2025 20:33:03.498] [Worker-Main-72/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-385, y=67, z=1380}
+[24Apr2025 20:33:03.499] [Worker-Main-72/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[24Apr2025 20:33:03.499] [Worker-Main-72/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 5
+[24Apr2025 20:33:03.499] [Worker-Main-72/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJxxxxxOJx6+v06X1pv0hnXbOM79bfkxXn1uLt+vSK+SKxq67
+[24Apr2025 20:33:03.734] [Worker-Main-72/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-530, y=67, z=1384}
+[24Apr2025 20:33:03.734] [Worker-Main-72/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[24Apr2025 20:33:03.734] [Worker-Main-72/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[24Apr2025 20:33:03.734] [Worker-Main-72/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOORJXZJxR+fn0hOJPSJ9pJOJ8
+[24Apr2025 20:34:38.405] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Apr2025 20:34:38.409] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Apr2025 20:39:38.380] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Apr2025 20:39:38.384] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

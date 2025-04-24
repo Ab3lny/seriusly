@@ -359,3 +359,35 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 13:33:50.104] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c4bab696-bad4-3a05-90f0-897301d60b58
 [24Apr2025 13:33:51.104] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c4bab696-bad4-3a05-90f0-897301d60b58
 [24Apr2025 13:33:51.105] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Maxibon_08 (c4bab696-bad4-3a05-90f0-897301d60b58) successfully connected to voice chat
+[24Apr2025 13:36:59.165] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-20, y=68, z=358} BlockPos{x=-20, y=67, z=359}
+[24Apr2025 13:37:04.313] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-27, y=69, z=363} BlockPos{x=-26, y=67, z=363}
+[24Apr2025 13:37:39.423] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-17, y=69, z=347} BlockPos{x=-16, y=69, z=346}
+[24Apr2025 13:37:49.223] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=104, y=23, z=-891} BlockPos{x=106, y=24, z=-894}
+[24Apr2025 13:38:12.785] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=103, y=25, z=-894} BlockPos{x=100, y=24, z=-879}
+[24Apr2025 13:38:55.822] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eleamhh lost connection: Disconnected
+[24Apr2025 13:38:55.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh left the game
+[24Apr2025 13:38:55.822] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Eleamhh
+[24Apr2025 13:42:24.821] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-28, y=67, z=370} BlockPos{x=-28, y=67, z=369}
+[24Apr2025 13:42:24.926] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-28, y=67, z=370} BlockPos{x=-28, y=67, z=369}
+[24Apr2025 13:42:24.928] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-28, y=67, z=370} BlockPos{x=-28, y=67, z=369}
+[24Apr2025 13:42:25.029] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-28, y=67, z=370} BlockPos{x=-28, y=67, z=369}
+[24Apr2025 13:42:25.032] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-28, y=67, z=370} BlockPos{x=-28, y=67, z=369}
+[24Apr2025 13:42:25.039] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-28, y=67, z=370} BlockPos{x=-28, y=67, z=369}
+[24Apr2025 13:42:25.084] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-28, y=67, z=370} BlockPos{x=-28, y=67, z=369}
+[24Apr2025 13:42:34.126] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-40, y=69, z=374} BlockPos{x=-39, y=69, z=374}
+[24Apr2025 13:42:34.221] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-40, y=69, z=374} BlockPos{x=-39, y=69, z=374}
+[24Apr2025 13:42:34.271] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-40, y=69, z=374} BlockPos{x=-39, y=69, z=374}
+[24Apr2025 13:42:34.322] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-40, y=69, z=374} BlockPos{x=-39, y=69, z=374}
+[24Apr2025 13:42:40.585] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-45, y=68, z=374} BlockPos{x=-46, y=68, z=374}
+[24Apr2025 13:45:20.575] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@51e52fb
+[24Apr2025 13:45:20.584] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eleamhh[/10.144.215.173:54088] logged in with entity id 50157 at (101.69999998807907, 23.0, -898.437194902938)
+[24Apr2025 13:45:20.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh joined the game
+[24Apr2025 13:45:20.855] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Eleamhh (18)
+[24Apr2025 13:45:20.856] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Eleamhh
+[24Apr2025 13:45:22.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d672abb-8750-3323-81ed-fa10031483d7
+[24Apr2025 13:45:23.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d672abb-8750-3323-81ed-fa10031483d7
+[24Apr2025 13:45:23.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Eleamhh (8d672abb-8750-3323-81ed-fa10031483d7) successfully connected to voice chat
+[24Apr2025 13:45:39.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> zzz
+[24Apr2025 13:46:00.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <4kenyyFn> ZZZ
+[24Apr2025 13:46:00.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <4kenyyFn> Z
+[24Apr2025 13:46:01.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <4kenyyFn> Z

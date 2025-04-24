@@ -9449,3 +9449,771 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 14:15:02.614] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: KerryCabuela moved too quickly! -6.120122163424526,-2.086296841433274,7.918784398284288
 [24Apr2025 14:15:31.365] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/337, l='ServerLevel[world]', x=26.64, y=33.28, z=326.70] died, message: 'Villager was slain by Zombie'
 [24Apr2025 14:16:58.334] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=141, y=68, z=-318} BlockPos{x=142, y=69, z=-319}
+[24Apr2025 14:17:43.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has fallen
+[24Apr2025 14:17:43.558] [Server thread/WARN] [tombstone/]: The death event of the player Eleamhh was canceled by another mod
+[24Apr2025 14:17:43.575] [Server thread/INFO] [tombstone/]: The player Eleamhh has successfully been saved
+[24Apr2025 14:17:49.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has been revived
+[24Apr2025 14:17:53.730] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of KerryCabuela: {disabled=false, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=null}
+[24Apr2025 14:19:21.557] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,-27]
+[24Apr2025 14:19:21.557] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-27]
+[24Apr2025 14:19:21.587] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,-26]
+[24Apr2025 14:19:21.588] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-26]
+[24Apr2025 14:19:21.590] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,-25]
+[24Apr2025 14:19:21.591] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-25]
+[24Apr2025 14:19:21.595] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,-24]
+[24Apr2025 14:19:21.596] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-275 | 27 | -372)
+[24Apr2025 14:19:21.596] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-275 | 27 | -372)
+[24Apr2025 14:19:21.598] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-275 | 27 | -372)
+[24Apr2025 14:19:21.598] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-275 | 27 | -372)
+[24Apr2025 14:19:21.598] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-276 | 22 | -377)
+[24Apr2025 14:19:21.599] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-276 | 22 | -377)
+[24Apr2025 14:19:21.600] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/crypt_graves at (-276 | 22 | -377)
+[24Apr2025 14:19:21.601] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/crypt_graves at (-276 | 22 | -377)
+[24Apr2025 14:19:21.601] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-269 | 22 | -373)
+[24Apr2025 14:19:21.602] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-269 | 22 | -373)
+[24Apr2025 14:19:21.602] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/crypt_graves at (-269 | 22 | -373)
+[24Apr2025 14:19:21.603] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/crypt_graves at (-269 | 22 | -373)
+[24Apr2025 14:19:21.603] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-281 | 22 | -378)
+[24Apr2025 14:19:21.603] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-281 | 22 | -378)
+[24Apr2025 14:19:21.603] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/crypt_dead_end at (-281 | 22 | -378)
+[24Apr2025 14:19:21.603] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/crypt_dead_end at (-281 | 22 | -378)
+[24Apr2025 14:19:21.603] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-24]
+[24Apr2025 14:19:21.608] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,-23]
+[24Apr2025 14:19:21.608] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-275 | 27 | -372)
+[24Apr2025 14:19:21.608] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-275 | 27 | -372)
+[24Apr2025 14:19:21.608] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-275 | 27 | -372)
+[24Apr2025 14:19:21.609] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-275 | 27 | -372)
+[24Apr2025 14:19:21.609] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-269 | 22 | -373)
+[24Apr2025 14:19:21.609] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-269 | 22 | -373)
+[24Apr2025 14:19:21.610] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/crypt_graves at (-269 | 22 | -373)
+[24Apr2025 14:19:21.610] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/crypt_graves at (-269 | 22 | -373)
+[24Apr2025 14:19:21.610] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-276 | 22 | -366)
+[24Apr2025 14:19:21.611] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-276 | 22 | -366)
+[24Apr2025 14:19:21.611] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/crypt_graves at (-276 | 22 | -366)
+[24Apr2025 14:19:21.611] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/crypt_graves at (-276 | 22 | -366)
+[24Apr2025 14:19:21.612] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-281 | 22 | -378)
+[24Apr2025 14:19:21.612] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-281 | 22 | -378)
+[24Apr2025 14:19:21.612] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/crypt_dead_end at (-281 | 22 | -378)
+[24Apr2025 14:19:21.612] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/crypt_dead_end at (-281 | 22 | -378)
+[24Apr2025 14:19:21.613] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-23]
+[24Apr2025 14:19:23.295] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,-27]
+[24Apr2025 14:19:23.295] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,-27]
+[24Apr2025 14:19:23.298] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,-26]
+[24Apr2025 14:19:23.298] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,-26]
+[24Apr2025 14:19:23.302] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,-25]
+[24Apr2025 14:19:23.302] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,-25]
+[24Apr2025 14:19:23.311] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,-24]
+[24Apr2025 14:19:23.312] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-291 | 22 | -373)
+[24Apr2025 14:19:23.312] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-291 | 22 | -373)
+[24Apr2025 14:19:23.313] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-291 | 22 | -373)
+[24Apr2025 14:19:23.313] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-291 | 22 | -373)
+[24Apr2025 14:19:23.313] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-275 | 27 | -372)
+[24Apr2025 14:19:23.314] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-275 | 27 | -372)
+[24Apr2025 14:19:23.315] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-275 | 27 | -372)
+[24Apr2025 14:19:23.315] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-275 | 27 | -372)
+[24Apr2025 14:19:23.315] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-280 | 22 | -378)
+[24Apr2025 14:19:23.316] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-280 | 22 | -378)
+[24Apr2025 14:19:23.316] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-280 | 22 | -378)
+[24Apr2025 14:19:23.317] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-280 | 22 | -378)
+[24Apr2025 14:19:23.317] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-276 | 22 | -377)
+[24Apr2025 14:19:23.317] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-276 | 22 | -377)
+[24Apr2025 14:19:23.318] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/crypt_graves at (-276 | 22 | -377)
+[24Apr2025 14:19:23.318] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/crypt_graves at (-276 | 22 | -377)
+[24Apr2025 14:19:23.318] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-286 | 22 | -373)
+[24Apr2025 14:19:23.318] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-286 | 22 | -373)
+[24Apr2025 14:19:23.318] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_6 at (-286 | 22 | -373)
+[24Apr2025 14:19:23.318] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_6 at (-286 | 22 | -373)
+[24Apr2025 14:19:23.318] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-281 | 22 | -378)
+[24Apr2025 14:19:23.319] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-281 | 22 | -378)
+[24Apr2025 14:19:23.319] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/crypt_dead_end at (-281 | 22 | -378)
+[24Apr2025 14:19:23.319] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/crypt_dead_end at (-281 | 22 | -378)
+[24Apr2025 14:19:23.320] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,-24]
+[24Apr2025 14:19:23.326] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,-23]
+[24Apr2025 14:19:23.326] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-291 | 22 | -373)
+[24Apr2025 14:19:23.326] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-291 | 22 | -373)
+[24Apr2025 14:19:23.326] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-291 | 22 | -373)
+[24Apr2025 14:19:23.326] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-291 | 22 | -373)
+[24Apr2025 14:19:23.326] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-275 | 27 | -372)
+[24Apr2025 14:19:23.326] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-275 | 27 | -372)
+[24Apr2025 14:19:23.326] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-275 | 27 | -372)
+[24Apr2025 14:19:23.326] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-275 | 27 | -372)
+[24Apr2025 14:19:23.326] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-280 | 22 | -366)
+[24Apr2025 14:19:23.327] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-280 | 22 | -366)
+[24Apr2025 14:19:23.327] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-280 | 22 | -366)
+[24Apr2025 14:19:23.327] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (-280 | 22 | -366)
+[24Apr2025 14:19:23.327] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-276 | 22 | -366)
+[24Apr2025 14:19:23.327] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-276 | 22 | -366)
+[24Apr2025 14:19:23.328] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/crypt_graves at (-276 | 22 | -366)
+[24Apr2025 14:19:23.328] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/crypt_graves at (-276 | 22 | -366)
+[24Apr2025 14:19:23.328] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-286 | 22 | -373)
+[24Apr2025 14:19:23.328] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-286 | 22 | -373)
+[24Apr2025 14:19:23.328] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_6 at (-286 | 22 | -373)
+[24Apr2025 14:19:23.328] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_6 at (-286 | 22 | -373)
+[24Apr2025 14:19:23.328] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-281 | 22 | -378)
+[24Apr2025 14:19:23.328] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-281 | 22 | -378)
+[24Apr2025 14:19:23.328] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/crypt_dead_end at (-281 | 22 | -378)
+[24Apr2025 14:19:23.328] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/crypt_dead_end at (-281 | 22 | -378)
+[24Apr2025 14:19:23.328] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,-23]
+[24Apr2025 14:19:23.570] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-508 | 49 | -940).
+[24Apr2025 14:19:23.570] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[24Apr2025 14:19:23.570] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 5(0) Rooms
+[24Apr2025 14:19:23.570] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[24Apr2025 14:19:23.570] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[24Apr2025 14:19:23.570] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[24Apr2025 14:19:23.571] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 5(5) Nodes and 6(0) Rooms
+[24Apr2025 14:19:23.571] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[24Apr2025 14:19:23.571] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 7(5) Nodes and 4(0) Rooms
+[24Apr2025 14:19:23.571] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[24Apr2025 14:19:23.571] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 5(0) Rooms
+[24Apr2025 14:19:23.573] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Created the dungeon layout for [-27, -54] with a total of 287 pieces.
+[24Apr2025 14:19:23.977] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,-22]
+[24Apr2025 14:19:23.977] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-22]
+[24Apr2025 14:19:23.984] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,-22]
+[24Apr2025 14:19:23.984] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,-22]
+[24Apr2025 14:19:25.422] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-19,-27]
+[24Apr2025 14:19:25.423] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-19,-27]
+[24Apr2025 14:19:25.428] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-19,-26]
+[24Apr2025 14:19:25.428] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-19,-26]
+[24Apr2025 14:19:25.434] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-19,-25]
+[24Apr2025 14:19:25.434] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-19,-25]
+[24Apr2025 14:19:25.439] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-19,-24]
+[24Apr2025 14:19:25.439] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-304 | 49 | -383)
+[24Apr2025 14:19:25.440] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-304 | 49 | -383)
+[24Apr2025 14:19:25.440] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-302 | 29 | -372)
+[24Apr2025 14:19:25.440] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-302 | 29 | -372)
+[24Apr2025 14:19:25.440] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-302 | 29 | -372)
+[24Apr2025 14:19:25.440] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-302 | 29 | -372)
+[24Apr2025 14:19:25.440] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-291 | 22 | -373)
+[24Apr2025 14:19:25.440] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-291 | 22 | -373)
+[24Apr2025 14:19:25.440] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-291 | 22 | -373)
+[24Apr2025 14:19:25.440] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-291 | 22 | -373)
+[24Apr2025 14:19:25.441] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-308 | 22 | -378)
+[24Apr2025 14:19:25.441] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-308 | 22 | -378)
+[24Apr2025 14:19:25.441] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/prison_fork at (-308 | 22 | -378)
+[24Apr2025 14:19:25.442] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/prison_fork at (-308 | 22 | -378)
+[24Apr2025 14:19:25.442] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-19,-24]
+[24Apr2025 14:19:25.447] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-19,-23]
+[24Apr2025 14:19:25.447] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-302 | 29 | -372)
+[24Apr2025 14:19:25.447] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-302 | 29 | -372)
+[24Apr2025 14:19:25.447] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-302 | 29 | -372)
+[24Apr2025 14:19:25.447] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (-302 | 29 | -372)
+[24Apr2025 14:19:25.447] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-291 | 22 | -373)
+[24Apr2025 14:19:25.447] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-291 | 22 | -373)
+[24Apr2025 14:19:25.447] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-291 | 22 | -373)
+[24Apr2025 14:19:25.447] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-291 | 22 | -373)
+[24Apr2025 14:19:25.447] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-303 | 22 | -361)
+[24Apr2025 14:19:25.447] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-303 | 22 | -361)
+[24Apr2025 14:19:25.447] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_2 at (-303 | 22 | -361)
+[24Apr2025 14:19:25.447] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_2 at (-303 | 22 | -361)
+[24Apr2025 14:19:25.447] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-308 | 22 | -378)
+[24Apr2025 14:19:25.448] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-308 | 22 | -378)
+[24Apr2025 14:19:25.449] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/prison_fork at (-308 | 22 | -378)
+[24Apr2025 14:19:25.450] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/prison_fork at (-308 | 22 | -378)
+[24Apr2025 14:19:25.450] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (-303 | 22 | -356)
+[24Apr2025 14:19:25.450] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (-303 | 22 | -356)
+[24Apr2025 14:19:25.450] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_2 at (-303 | 22 | -356)
+[24Apr2025 14:19:25.450] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_2 at (-303 | 22 | -356)
+[24Apr2025 14:19:25.451] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-19,-23]
+[24Apr2025 14:19:25.489] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-19,-22]
+[24Apr2025 14:19:25.489] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-302 | 22 | -351)
+[24Apr2025 14:19:25.489] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-302 | 22 | -351)
+[24Apr2025 14:19:25.489] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/multipart/short_node_connector at (-302 | 22 | -351)
+[24Apr2025 14:19:25.489] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/multipart/short_node_connector at (-302 | 22 | -351)
+[24Apr2025 14:19:25.489] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (-303 | 22 | -356)
+[24Apr2025 14:19:25.489] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (-303 | 22 | -356)
+[24Apr2025 14:19:25.489] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_2 at (-303 | 22 | -356)
+[24Apr2025 14:19:25.489] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_2 at (-303 | 22 | -356)
+[24Apr2025 14:19:25.489] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-307 | 22 | -350)
+[24Apr2025 14:19:25.490] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-307 | 22 | -350)
+[24Apr2025 14:19:25.491] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-307 | 22 | -350)
+[24Apr2025 14:19:25.491] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-307 | 22 | -350)
+[24Apr2025 14:19:25.491] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-19,-22]
+[24Apr2025 14:19:36.186] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,-21]
+[24Apr2025 14:19:36.186] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,-21]
+[24Apr2025 14:19:36.190] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,-21]
+[24Apr2025 14:19:36.190] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-21]
+[24Apr2025 14:19:36.195] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-19,-21]
+[24Apr2025 14:19:36.195] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (-315 | 49 | -322)
+[24Apr2025 14:19:36.195] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (-315 | 49 | -322)
+[24Apr2025 14:19:36.195] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-307 | 22 | -350)
+[24Apr2025 14:19:36.195] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-307 | 22 | -350)
+[24Apr2025 14:19:36.195] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-307 | 22 | -350)
+[24Apr2025 14:19:36.195] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-307 | 22 | -350)
+[24Apr2025 14:19:36.195] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-19,-21]
+[24Apr2025 14:19:38.124] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-20,-27]
+[24Apr2025 14:19:38.124] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-20,-27]
+[24Apr2025 14:19:38.127] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-20,-26]
+[24Apr2025 14:19:38.127] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-20,-26]
+[24Apr2025 14:19:38.133] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-20,-25]
+[24Apr2025 14:19:38.133] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-20,-25]
+[24Apr2025 14:19:38.137] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-20,-24]
+[24Apr2025 14:19:38.137] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-322 | 49 | -382)
+[24Apr2025 14:19:38.138] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-322 | 49 | -382)
+[24Apr2025 14:19:38.138] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-313 | 49 | -382)
+[24Apr2025 14:19:38.138] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-313 | 49 | -382)
+[24Apr2025 14:19:38.138] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-319 | 22 | -372)
+[24Apr2025 14:19:38.138] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-319 | 22 | -372)
+[24Apr2025 14:19:38.138] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/multipart/short_node_connector at (-319 | 22 | -372)
+[24Apr2025 14:19:38.138] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/multipart/short_node_connector at (-319 | 22 | -372)
+[24Apr2025 14:19:38.138] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-318 | 22 | -373)
+[24Apr2025 14:19:38.138] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-318 | 22 | -373)
+[24Apr2025 14:19:38.138] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-318 | 22 | -373)
+[24Apr2025 14:19:38.138] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-318 | 22 | -373)
+[24Apr2025 14:19:38.138] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (-334 | 22 | -377)
+[24Apr2025 14:19:38.139] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (-334 | 22 | -377)
+[24Apr2025 14:19:38.139] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room at (-334 | 22 | -377)
+[24Apr2025 14:19:38.139] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room at (-334 | 22 | -377)
+[24Apr2025 14:19:38.139] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (-313 | 22 | -373)
+[24Apr2025 14:19:38.139] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (-313 | 22 | -373)
+[24Apr2025 14:19:38.139] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-313 | 22 | -373)
+[24Apr2025 14:19:38.139] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-313 | 22 | -373)
+[24Apr2025 14:19:38.139] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-308 | 22 | -378)
+[24Apr2025 14:19:38.139] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-308 | 22 | -378)
+[24Apr2025 14:19:38.139] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/prison_fork at (-308 | 22 | -378)
+[24Apr2025 14:19:38.140] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/prison_fork at (-308 | 22 | -378)
+[24Apr2025 14:19:38.140] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-20,-24]
+[24Apr2025 14:19:38.150] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-20,-23]
+[24Apr2025 14:19:38.150] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-319 | 22 | -372)
+[24Apr2025 14:19:38.150] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-319 | 22 | -372)
+[24Apr2025 14:19:38.150] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/multipart/short_node_connector at (-319 | 22 | -372)
+[24Apr2025 14:19:38.150] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/multipart/short_node_connector at (-319 | 22 | -372)
+[24Apr2025 14:19:38.150] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-318 | 22 | -373)
+[24Apr2025 14:19:38.150] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-318 | 22 | -373)
+[24Apr2025 14:19:38.150] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-318 | 22 | -373)
+[24Apr2025 14:19:38.150] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-318 | 22 | -373)
+[24Apr2025 14:19:38.150] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (-334 | 22 | -377)
+[24Apr2025 14:19:38.151] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (-334 | 22 | -377)
+[24Apr2025 14:19:38.151] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room at (-334 | 22 | -377)
+[24Apr2025 14:19:38.151] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room at (-334 | 22 | -377)
+[24Apr2025 14:19:38.151] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (-313 | 22 | -373)
+[24Apr2025 14:19:38.151] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (-313 | 22 | -373)
+[24Apr2025 14:19:38.151] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-313 | 22 | -373)
+[24Apr2025 14:19:38.151] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-313 | 22 | -373)
+[24Apr2025 14:19:38.151] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-308 | 22 | -378)
+[24Apr2025 14:19:38.151] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-308 | 22 | -378)
+[24Apr2025 14:19:38.152] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/prison_fork at (-308 | 22 | -378)
+[24Apr2025 14:19:38.152] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/prison_fork at (-308 | 22 | -378)
+[24Apr2025 14:19:38.152] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-20,-23]
+[24Apr2025 14:19:38.232] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-20,-22]
+[24Apr2025 14:19:38.233] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-334 | 22 | -350)
+[24Apr2025 14:19:38.234] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-334 | 22 | -350)
+[24Apr2025 14:19:38.234] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-334 | 22 | -350)
+[24Apr2025 14:19:38.234] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-334 | 22 | -350)
+[24Apr2025 14:19:38.234] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-307 | 22 | -350)
+[24Apr2025 14:19:38.235] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-307 | 22 | -350)
+[24Apr2025 14:19:38.235] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-307 | 22 | -350)
+[24Apr2025 14:19:38.236] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-307 | 22 | -350)
+[24Apr2025 14:19:38.236] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-20,-22]
+[24Apr2025 14:19:38.340] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-20,-21]
+[24Apr2025 14:19:38.340] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (-315 | 49 | -322)
+[24Apr2025 14:19:38.340] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (-315 | 49 | -322)
+[24Apr2025 14:19:38.340] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (-324 | 40 | -322)
+[24Apr2025 14:19:38.340] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (-324 | 40 | -322)
+[24Apr2025 14:19:38.340] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-334 | 22 | -350)
+[24Apr2025 14:19:38.340] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-334 | 22 | -350)
+[24Apr2025 14:19:38.340] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-334 | 22 | -350)
+[24Apr2025 14:19:38.340] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-334 | 22 | -350)
+[24Apr2025 14:19:38.340] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-307 | 22 | -350)
+[24Apr2025 14:19:38.340] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-307 | 22 | -350)
+[24Apr2025 14:19:38.340] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-307 | 22 | -350)
+[24Apr2025 14:19:38.340] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-307 | 22 | -350)
+[24Apr2025 14:19:38.340] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-20,-21]
+[24Apr2025 14:19:38.428] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,-20]
+[24Apr2025 14:19:38.428] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-20]
+[24Apr2025 14:19:38.434] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,-20]
+[24Apr2025 14:19:38.434] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,-20]
+[24Apr2025 14:19:38.441] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-19,-20]
+[24Apr2025 14:19:38.441] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (-315 | 49 | -322)
+[24Apr2025 14:19:38.441] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (-315 | 49 | -322)
+[24Apr2025 14:19:38.441] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-19,-20]
+[24Apr2025 14:19:38.478] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-20,-20]
+[24Apr2025 14:19:38.479] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-317 | 49 | -318)
+[24Apr2025 14:19:38.479] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-317 | 49 | -318)
+[24Apr2025 14:19:38.479] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (-322 | 49 | -318)
+[24Apr2025 14:19:38.479] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (-322 | 49 | -318)
+[24Apr2025 14:19:38.479] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (-315 | 49 | -322)
+[24Apr2025 14:19:38.479] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (-315 | 49 | -322)
+[24Apr2025 14:19:38.479] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (-324 | 40 | -322)
+[24Apr2025 14:19:38.480] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (-324 | 40 | -322)
+[24Apr2025 14:19:38.480] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-20,-20]
+[24Apr2025 14:19:40.471] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,-19]
+[24Apr2025 14:19:40.471] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-19]
+[24Apr2025 14:19:40.476] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,-19]
+[24Apr2025 14:19:40.476] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,-19]
+[24Apr2025 14:19:40.481] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-20,-19]
+[24Apr2025 14:19:40.481] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-20,-19]
+[24Apr2025 14:19:40.486] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-19,-19]
+[24Apr2025 14:19:40.486] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-19,-19]
+[24Apr2025 14:19:42.370] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-17,-18]
+[24Apr2025 14:19:42.370] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-17,-18]
+[24Apr2025 14:19:42.376] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-18,-18]
+[24Apr2025 14:19:42.376] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-18,-18]
+[24Apr2025 14:19:42.380] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-19,-18]
+[24Apr2025 14:19:42.380] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-19,-18]
+[24Apr2025 14:19:42.384] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-20,-18]
+[24Apr2025 14:19:42.384] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-20,-18]
+[24Apr2025 14:19:48.645] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-21,-27]
+[24Apr2025 14:19:48.645] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-21,-27]
+[24Apr2025 14:19:48.682] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-21,-26]
+[24Apr2025 14:19:48.683] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-21,-26]
+[24Apr2025 14:19:48.693] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-21,-25]
+[24Apr2025 14:19:48.693] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (-344 | 49 | -387)
+[24Apr2025 14:19:48.693] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (-344 | 49 | -387)
+[24Apr2025 14:19:48.693] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-21,-25]
+[24Apr2025 14:19:48.701] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-21,-24]
+[24Apr2025 14:19:48.702] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-327 | 49 | -382)
+[24Apr2025 14:19:48.702] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-327 | 49 | -382)
+[24Apr2025 14:19:48.702] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-338 | 49 | -370)
+[24Apr2025 14:19:48.702] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-338 | 49 | -370)
+[24Apr2025 14:19:48.702] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (-344 | 49 | -387)
+[24Apr2025 14:19:48.703] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (-344 | 49 | -387)
+[24Apr2025 14:19:48.703] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-322 | 49 | -382)
+[24Apr2025 14:19:48.703] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-322 | 49 | -382)
+[24Apr2025 14:19:48.703] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-335 | 22 | -372)
+[24Apr2025 14:19:48.704] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-335 | 22 | -372)
+[24Apr2025 14:19:48.704] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/multipart/short_node_connector at (-335 | 22 | -372)
+[24Apr2025 14:19:48.704] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/multipart/short_node_connector at (-335 | 22 | -372)
+[24Apr2025 14:19:48.704] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-340 | 22 | -373)
+[24Apr2025 14:19:48.704] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-340 | 22 | -373)
+[24Apr2025 14:19:48.704] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_2 at (-340 | 22 | -373)
+[24Apr2025 14:19:48.704] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_2 at (-340 | 22 | -373)
+[24Apr2025 14:19:48.704] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (-334 | 22 | -377)
+[24Apr2025 14:19:48.705] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (-334 | 22 | -377)
+[24Apr2025 14:19:48.705] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room at (-334 | 22 | -377)
+[24Apr2025 14:19:48.706] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room at (-334 | 22 | -377)
+[24Apr2025 14:19:48.707] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-21,-24]
+[24Apr2025 14:19:48.725] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-21,-23]
+[24Apr2025 14:19:48.725] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-338 | 58 | -354)
+[24Apr2025 14:19:48.726] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-338 | 58 | -354)
+[24Apr2025 14:19:48.726] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-338 | 59 | -354)
+[24Apr2025 14:19:48.727] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-338 | 59 | -354)
+[24Apr2025 14:19:48.727] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-338 | 60 | -354)
+[24Apr2025 14:19:48.727] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-338 | 60 | -354)
+[24Apr2025 14:19:48.728] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-338 | 61 | -354)
+[24Apr2025 14:19:48.728] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-338 | 61 | -354)
+[24Apr2025 14:19:48.728] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-338 | 62 | -354)
+[24Apr2025 14:19:48.729] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-338 | 62 | -354)
+[24Apr2025 14:19:48.730] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-338 | 63 | -354)
+[24Apr2025 14:19:48.730] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-338 | 63 | -354)
+[24Apr2025 14:19:48.730] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-338 | 64 | -354)
+[24Apr2025 14:19:48.731] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-338 | 64 | -354)
+[24Apr2025 14:19:48.732] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-338 | 65 | -354)
+[24Apr2025 14:19:48.732] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-338 | 65 | -354)
+[24Apr2025 14:19:48.732] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-338 | 66 | -354)
+[24Apr2025 14:19:48.732] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-338 | 66 | -354)
+[24Apr2025 14:19:48.732] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-338 | 67 | -354)
+[24Apr2025 14:19:48.732] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-338 | 67 | -354)
+[24Apr2025 14:19:48.732] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/house with rotation CLOCKWISE_180 at (-346 | 68 | -356)
+[24Apr2025 14:19:48.732] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/house with rotation CLOCKWISE_180 at (-346 | 68 | -356)
+[24Apr2025 14:19:48.732] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-338 | 49 | -370)
+[24Apr2025 14:19:48.732] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-338 | 49 | -370)
+[24Apr2025 14:19:48.732] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (-337 | 54 | -362)
+[24Apr2025 14:19:48.732] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (-337 | 54 | -362)
+[24Apr2025 14:19:48.732] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (-338 | 49 | -365)
+[24Apr2025 14:19:48.732] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (-338 | 49 | -365)
+[24Apr2025 14:19:48.733] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_90 at (-338 | 49 | -358)
+[24Apr2025 14:19:48.733] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation CLOCKWISE_90 at (-338 | 49 | -358)
+[24Apr2025 14:19:48.733] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (-333 | 49 | -363)
+[24Apr2025 14:19:48.733] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation NONE at (-333 | 49 | -363)
+[24Apr2025 14:19:48.733] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (-338 | 49 | -363)
+[24Apr2025 14:19:48.733] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (-338 | 49 | -363)
+[24Apr2025 14:19:48.733] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (-340 | 49 | -356)
+[24Apr2025 14:19:48.736] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (-340 | 49 | -356)
+[24Apr2025 14:19:48.737] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/starter_room with rotation NONE at (-331 | 49 | -365)
+[24Apr2025 14:19:48.740] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/starter_room with rotation NONE at (-331 | 49 | -365)
+[24Apr2025 14:19:48.740] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-329 | 22 | -362)
+[24Apr2025 14:19:48.741] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-329 | 22 | -362)
+[24Apr2025 14:19:48.742] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/multipart/short_node_connector at (-329 | 22 | -362)
+[24Apr2025 14:19:48.743] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/multipart/short_node_connector at (-329 | 22 | -362)
+[24Apr2025 14:19:48.743] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-335 | 22 | -372)
+[24Apr2025 14:19:48.744] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-335 | 22 | -372)
+[24Apr2025 14:19:48.744] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/multipart/short_node_connector at (-335 | 22 | -372)
+[24Apr2025 14:19:48.745] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/multipart/short_node_connector at (-335 | 22 | -372)
+[24Apr2025 14:19:48.745] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-330 | 22 | -361)
+[24Apr2025 14:19:48.746] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-330 | 22 | -361)
+[24Apr2025 14:19:48.749] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-330 | 22 | -361)
+[24Apr2025 14:19:48.750] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-330 | 22 | -361)
+[24Apr2025 14:19:48.750] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-340 | 22 | -373)
+[24Apr2025 14:19:48.750] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-340 | 22 | -373)
+[24Apr2025 14:19:48.751] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_2 at (-340 | 22 | -373)
+[24Apr2025 14:19:48.751] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_2 at (-340 | 22 | -373)
+[24Apr2025 14:19:48.751] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (-334 | 22 | -377)
+[24Apr2025 14:19:48.752] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (-334 | 22 | -377)
+[24Apr2025 14:19:48.753] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room at (-334 | 22 | -377)
+[24Apr2025 14:19:48.753] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room at (-334 | 22 | -377)
+[24Apr2025 14:19:48.754] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-330 | 22 | -356)
+[24Apr2025 14:19:48.754] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-330 | 22 | -356)
+[24Apr2025 14:19:48.755] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-330 | 22 | -356)
+[24Apr2025 14:19:48.755] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-330 | 22 | -356)
+[24Apr2025 14:19:48.756] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-21,-23]
+[24Apr2025 14:19:48.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-21,-22]
+[24Apr2025 14:19:48.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-338 | 58 | -354)
+[24Apr2025 14:19:48.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-338 | 58 | -354)
+[24Apr2025 14:19:48.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-338 | 59 | -354)
+[24Apr2025 14:19:48.764] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-338 | 59 | -354)
+[24Apr2025 14:19:48.765] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-338 | 60 | -354)
+[24Apr2025 14:19:48.765] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-338 | 60 | -354)
+[24Apr2025 14:19:48.765] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-338 | 61 | -354)
+[24Apr2025 14:19:48.765] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-338 | 61 | -354)
+[24Apr2025 14:19:48.765] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-338 | 62 | -354)
+[24Apr2025 14:19:48.765] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-338 | 62 | -354)
+[24Apr2025 14:19:48.765] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-338 | 63 | -354)
+[24Apr2025 14:19:48.765] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-338 | 63 | -354)
+[24Apr2025 14:19:48.765] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-338 | 64 | -354)
+[24Apr2025 14:19:48.765] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-338 | 64 | -354)
+[24Apr2025 14:19:48.765] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-338 | 65 | -354)
+[24Apr2025 14:19:48.765] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-338 | 65 | -354)
+[24Apr2025 14:19:48.765] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-338 | 66 | -354)
+[24Apr2025 14:19:48.765] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-338 | 66 | -354)
+[24Apr2025 14:19:48.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-338 | 67 | -354)
+[24Apr2025 14:19:48.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-338 | 67 | -354)
+[24Apr2025 14:19:48.766] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/house with rotation CLOCKWISE_180 at (-346 | 68 | -356)
+[24Apr2025 14:19:48.767] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/house with rotation CLOCKWISE_180 at (-346 | 68 | -356)
+[24Apr2025 14:19:48.768] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (-340 | 49 | -356)
+[24Apr2025 14:19:48.768] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (-340 | 49 | -356)
+[24Apr2025 14:19:48.769] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-334 | 49 | -344)
+[24Apr2025 14:19:48.769] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-334 | 49 | -344)
+[24Apr2025 14:19:48.770] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-339 | 49 | -347)
+[24Apr2025 14:19:48.770] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-339 | 49 | -347)
+[24Apr2025 14:19:48.770] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-339 | 49 | -338)
+[24Apr2025 14:19:48.770] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-339 | 49 | -338)
+[24Apr2025 14:19:48.771] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-329 | 22 | -351)
+[24Apr2025 14:19:48.771] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (-329 | 22 | -351)
+[24Apr2025 14:19:48.771] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/multipart/short_node_connector at (-329 | 22 | -351)
+[24Apr2025 14:19:48.772] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/multipart/short_node_connector at (-329 | 22 | -351)
+[24Apr2025 14:19:48.772] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-330 | 22 | -356)
+[24Apr2025 14:19:48.772] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (-330 | 22 | -356)
+[24Apr2025 14:19:48.773] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-330 | 22 | -356)
+[24Apr2025 14:19:48.773] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:default/node/connector/connector_3 at (-330 | 22 | -356)
+[24Apr2025 14:19:48.773] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-334 | 22 | -350)
+[24Apr2025 14:19:48.775] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-334 | 22 | -350)
+[24Apr2025 14:19:48.775] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-334 | 22 | -350)
+[24Apr2025 14:19:48.778] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-334 | 22 | -350)
+[24Apr2025 14:19:48.778] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-21,-22]
+[24Apr2025 14:19:48.790] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-21,-21]
+[24Apr2025 14:19:48.790] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-334 | 49 | -335)
+[24Apr2025 14:19:48.790] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-334 | 49 | -335)
+[24Apr2025 14:19:48.791] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-339 | 49 | -338)
+[24Apr2025 14:19:48.791] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-339 | 49 | -338)
+[24Apr2025 14:19:48.791] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-338 | 49 | -329)
+[24Apr2025 14:19:48.792] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-338 | 49 | -329)
+[24Apr2025 14:19:48.793] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation NONE at (-344 | 49 | -324)
+[24Apr2025 14:19:48.795] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation NONE at (-344 | 49 | -324)
+[24Apr2025 14:19:48.796] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (-324 | 40 | -322)
+[24Apr2025 14:19:48.796] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (-324 | 40 | -322)
+[24Apr2025 14:19:48.796] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-334 | 22 | -350)
+[24Apr2025 14:19:48.797] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (-334 | 22 | -350)
+[24Apr2025 14:19:48.798] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-334 | 22 | -350)
+[24Apr2025 14:19:48.798] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@12f01c0 for dungeoncrawl:catacombs/node/room_2 at (-334 | 22 | -350)
+[24Apr2025 14:19:48.798] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-21,-21]
+[24Apr2025 14:19:49.474] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-21,-20]
+[24Apr2025 14:19:49.475] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (-327 | 49 | -318)
+[24Apr2025 14:19:49.475] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (-327 | 49 | -318)
+[24Apr2025 14:19:49.476] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (-338 | 49 | -307)
+[24Apr2025 14:19:49.476] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (-338 | 49 | -307)
+[24Apr2025 14:19:49.477] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation NONE at (-344 | 49 | -324)
+[24Apr2025 14:19:49.479] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation NONE at (-344 | 49 | -324)
+[24Apr2025 14:19:49.480] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (-322 | 49 | -318)
+[24Apr2025 14:19:49.480] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (-322 | 49 | -318)
+[24Apr2025 14:19:49.480] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-336 | 40 | -319)
+[24Apr2025 14:19:49.480] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-336 | 40 | -319)
+[24Apr2025 14:19:49.480] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-326 | 40 | -318)
+[24Apr2025 14:19:49.480] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-326 | 40 | -318)
+[24Apr2025 14:19:49.480] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-331 | 40 | -319)
+[24Apr2025 14:19:49.480] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-331 | 40 | -319)
+[24Apr2025 14:19:49.480] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (-324 | 40 | -322)
+[24Apr2025 14:19:49.481] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (-324 | 40 | -322)
+[24Apr2025 14:19:49.481] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-21,-20]
+[24Apr2025 14:19:49.537] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-21,-19]
+[24Apr2025 14:19:49.537] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (-338 | 49 | -307)
+[24Apr2025 14:19:49.537] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (-338 | 49 | -307)
+[24Apr2025 14:19:49.537] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (-334 | 49 | -299)
+[24Apr2025 14:19:49.537] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (-334 | 49 | -299)
+[24Apr2025 14:19:49.537] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-339 | 49 | -302)
+[24Apr2025 14:19:49.538] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-339 | 49 | -302)
+[24Apr2025 14:19:49.538] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (-334 | 49 | -290)
+[24Apr2025 14:19:49.538] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (-334 | 49 | -290)
+[24Apr2025 14:19:49.538] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-339 | 49 | -293)
+[24Apr2025 14:19:49.538] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-339 | 49 | -293)
+[24Apr2025 14:19:49.538] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-21,-19]
+[24Apr2025 14:19:49.969] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [-21,-18]
+[24Apr2025 14:19:49.969] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (-334 | 49 | -290)
+[24Apr2025 14:19:49.969] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (-334 | 49 | -290)
+[24Apr2025 14:19:49.969] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-339 | 49 | -293)
+[24Apr2025 14:19:49.970] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-339 | 49 | -293)
+[24Apr2025 14:19:49.970] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-340 | 49 | -284)
+[24Apr2025 14:19:49.971] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-340 | 49 | -284)
+[24Apr2025 14:19:49.971] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [-21,-18]
+[24Apr2025 14:20:00.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[24Apr2025 14:20:05.542] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Apr2025 14:20:05.547] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Apr2025 14:20:05.592] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Eleamhh moved too quickly! 0.32498665105646296,5.48566139125731,8.503873574344937
+[24Apr2025 14:20:22.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[24Apr2025 14:21:10.473] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Eleamhh was kicked for floating too long!
+[24Apr2025 14:21:10.511] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eleamhh lost connection: Flying is not enabled on this server
+[24Apr2025 14:21:10.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh left the game
+[24Apr2025 14:21:10.511] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Eleamhh
+[24Apr2025 14:21:10.511] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Eleamhh
+[24Apr2025 14:21:10.528] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.545] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.566] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.589] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.604] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.625] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.647] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.668] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.684] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.704] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.725] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.746] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.768] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.784] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.805] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.827] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.848] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.864] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.885] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.906] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.928] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.944] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.965] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:10.986] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.007] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.023] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.044] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.065] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.087] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.108] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.124] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.145] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.166] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.188] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.208] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.224] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.245] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.266] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.288] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.304] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.326] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.361] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.369] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.386] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.405] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.427] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.448] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.464] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.486] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.507] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.528] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.544] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.565] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.586] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.608] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.628] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.644] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.666] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.687] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.703] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.725] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.746] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.768] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.784] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.805] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.828] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.844] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.866] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.886] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.907] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.923] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.946] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.967] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:11.988] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.004] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.024] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.046] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.068] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.088] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.105] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.126] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.147] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.168] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.185] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.205] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.227] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.248] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.264] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.285] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.306] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.327] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:12.354] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 14:21:20.685] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 27 messages to dispatch.
+[24Apr2025 14:21:20.717] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.fml.network.FMLHandshakeMessages$S2CModList' to 'fml:handshake' sequence 0
+[24Apr2025 14:21:20.760] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[24Apr2025 14:21:20.760] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SModListReply
+[24Apr2025 14:21:20.760] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, voicechat, tombstone, dungeoncrawl, sophisticatedbackpacks, jei, cloth-config, betterf3, invocore, goblintraders, forge, expandability, curios, dynamictrees, xaerominimap, refinedstorage, reviveme, xaeroworldmap, ironchest, comforts, securitycraft, artifacts]
+[24Apr2025 14:21:20.760] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[24Apr2025 14:21:20.760] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 14:21:20.760] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 14:21:20.760] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 14:21:20.760] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[24Apr2025 14:21:20.760] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML2' from client : ACCEPTED
+[24Apr2025 14:21:20.760] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[24Apr2025 14:21:20.760] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[24Apr2025 14:21:20.760] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'reviveme:network' : Version test of '1.6.0' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12.1' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Version test of '1.1' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML2' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-6.9.6' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML2' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Version test of '1' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML2' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'ironchest:network' : Version test of '1' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML2' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.0' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'refinedstorage:main_channel' : Version test of '1' from client : ACCEPTED
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[24Apr2025 14:21:20.761] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[24Apr2025 14:21:20.761] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 1
+[24Apr2025 14:21:20.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[24Apr2025 14:21:20.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:20.803] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:20.812] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 2
+[24Apr2025 14:21:20.869] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 3
+[24Apr2025 14:21:20.896] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[24Apr2025 14:21:20.896] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:20.896] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:20.910] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[24Apr2025 14:21:20.910] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:20.910] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:20.913] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 4
+[24Apr2025 14:21:20.954] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[24Apr2025 14:21:20.955] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:20.955] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:20.957] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 5
+[24Apr2025 14:21:21.007] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 6
+[24Apr2025 14:21:21.040] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[24Apr2025 14:21:21.041] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:21.041] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:21.049] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[24Apr2025 14:21:21.049] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:21.049] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:21.060] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 7
+[24Apr2025 14:21:21.101] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[24Apr2025 14:21:21.101] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:21.101] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:21.109] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 8
+[24Apr2025 14:21:21.152] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[24Apr2025 14:21:21.153] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:21.153] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:21.158] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 9
+[24Apr2025 14:21:21.202] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[24Apr2025 14:21:21.203] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:21.203] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:21.211] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 10
+[24Apr2025 14:21:21.253] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[24Apr2025 14:21:21.253] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:21.253] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:21.259] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 11
+[24Apr2025 14:21:21.300] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[24Apr2025 14:21:21.300] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:21.300] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:21.319] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 12
+[24Apr2025 14:21:21.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[24Apr2025 14:21:21.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:21.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:21.365] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 13
+[24Apr2025 14:21:21.406] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[24Apr2025 14:21:21.406] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:21.406] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:21.416] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 14
+[24Apr2025 14:21:21.457] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[24Apr2025 14:21:21.457] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:21.457] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:21.472] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 15
+[24Apr2025 14:21:21.513] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[24Apr2025 14:21:21.513] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:21.513] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:21.515] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 16
+[24Apr2025 14:21:21.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[24Apr2025 14:21:21.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:21.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:21.558] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 17
+[24Apr2025 14:21:21.613] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 18
+[24Apr2025 14:21:21.659] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 19
+[24Apr2025 14:21:21.710] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config artifacts-server.toml' to 'fml:handshake' sequence 20
+[24Apr2025 14:21:21.759] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 21
+[24Apr2025 14:21:21.811] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config dynamictrees-server.toml' to 'fml:handshake' sequence 22
+[24Apr2025 14:21:21.858] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config refinedstorage-server.toml' to 'fml:handshake' sequence 23
+[24Apr2025 14:21:21.911] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config comforts-server.toml' to 'fml:handshake' sequence 24
+[24Apr2025 14:21:21.956] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 25
+[24Apr2025 14:21:22.009] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 26
+[24Apr2025 14:21:22.369] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[24Apr2025 14:21:22.370] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:22.370] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:22.370] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[24Apr2025 14:21:22.370] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:22.370] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:22.370] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[24Apr2025 14:21:22.370] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:22.370] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:22.371] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[24Apr2025 14:21:22.371] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:22.371] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:22.372] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[24Apr2025 14:21:22.372] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:22.372] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:22.372] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[24Apr2025 14:21:22.372] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:22.372] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:22.372] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[24Apr2025 14:21:22.373] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:22.373] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:22.373] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[24Apr2025 14:21:22.373] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:22.373] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:22.374] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[24Apr2025 14:21:22.374] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:22.374] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:22.374] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[24Apr2025 14:21:22.374] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 14:21:22.374] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 14:21:22.416] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[24Apr2025 14:21:22.467] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7420657f
+[24Apr2025 14:21:22.475] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eleamhh[/10.144.215.173:58546] logged in with entity id 70555 at (68.778206874164, 86.93279561135998, 114.90354418668308)
+[24Apr2025 14:21:22.478] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@7c29ceda into net.minecraft.network.NetworkManager@5729345b
+[24Apr2025 14:21:22.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh joined the game
+[24Apr2025 14:21:22.525] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Eleamhh: {disabled=false, disconnected=true, uuid=8d672abb-8750-3323-81ed-fa10031483d7, name=Eleamhh, group=null}
+[24Apr2025 14:21:22.643] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Eleamhh (18)
+[24Apr2025 14:21:22.643] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Eleamhh
+[24Apr2025 14:21:22.643] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Eleamhh
+[24Apr2025 14:21:22.643] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Eleamhh
+[24Apr2025 14:21:22.644] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Eleamhh
+[24Apr2025 14:21:23.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d672abb-8750-3323-81ed-fa10031483d7
+[24Apr2025 14:21:24.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d672abb-8750-3323-81ed-fa10031483d7
+[24Apr2025 14:21:24.659] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Eleamhh to connected: {disabled=false, disconnected=false, uuid=8d672abb-8750-3323-81ed-fa10031483d7, name=Eleamhh, group=null}
+[24Apr2025 14:21:24.660] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Eleamhh (8d672abb-8750-3323-81ed-fa10031483d7) successfully connected to voice chat
+[24Apr2025 14:21:24.721] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Eleamhh: {disabled=false, disconnected=false, uuid=8d672abb-8750-3323-81ed-fa10031483d7, name=Eleamhh, group=null}
+[24Apr2025 14:24:29.285] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 4kenyyFn: {disabled=true, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=null}
+[24Apr2025 14:24:32.766] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 4kenyyFn: {disabled=false, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=null}
+[24Apr2025 14:25:03.387] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 4kenyyFn: {disabled=true, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=null}
+[24Apr2025 14:25:03.883] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 4kenyyFn: {disabled=false, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=null}
+[24Apr2025 14:25:04.831] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 4kenyyFn: {disabled=true, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=null}
+[24Apr2025 14:25:05.781] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Apr2025 14:25:05.784] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Apr2025 14:25:05.797] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 4kenyyFn: {disabled=false, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=null}
+[24Apr2025 14:25:49.482] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Eleamhh: {disabled=true, disconnected=false, uuid=8d672abb-8750-3323-81ed-fa10031483d7, name=Eleamhh, group=null}
+[24Apr2025 14:25:49.876] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Eleamhh: {disabled=false, disconnected=false, uuid=8d672abb-8750-3323-81ed-fa10031483d7, name=Eleamhh, group=null}
+[24Apr2025 14:27:07.478] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of 4kenyyFn: {disabled=false, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=8e0ebfdd-4cb0-4ab3-b8dd-038d7a097596}
+[24Apr2025 14:27:09.411] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of 4kenyyFn: {disabled=false, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=null}

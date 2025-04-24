@@ -475,3 +475,22 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 14:15:02.614] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: KerryCabuela moved too quickly! -6.120122163424526,-2.086296841433274,7.918784398284288
 [24Apr2025 14:15:31.365] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/337, l='ServerLevel[world]', x=26.64, y=33.28, z=326.70] died, message: 'Villager was slain by Zombie'
 [24Apr2025 14:16:58.334] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=141, y=68, z=-318} BlockPos{x=142, y=69, z=-319}
+[24Apr2025 14:17:43.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has fallen
+[24Apr2025 14:17:43.558] [Server thread/WARN] [tombstone/]: The death event of the player Eleamhh was canceled by another mod
+[24Apr2025 14:17:43.575] [Server thread/INFO] [tombstone/]: The player Eleamhh has successfully been saved
+[24Apr2025 14:17:49.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has been revived
+[24Apr2025 14:20:00.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[24Apr2025 14:20:05.592] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Eleamhh moved too quickly! 0.32498665105646296,5.48566139125731,8.503873574344937
+[24Apr2025 14:20:22.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[24Apr2025 14:21:10.473] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Eleamhh was kicked for floating too long!
+[24Apr2025 14:21:10.511] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eleamhh lost connection: Flying is not enabled on this server
+[24Apr2025 14:21:10.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh left the game
+[24Apr2025 14:21:10.511] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Eleamhh
+[24Apr2025 14:21:22.467] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7420657f
+[24Apr2025 14:21:22.475] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eleamhh[/10.144.215.173:58546] logged in with entity id 70555 at (68.778206874164, 86.93279561135998, 114.90354418668308)
+[24Apr2025 14:21:22.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh joined the game
+[24Apr2025 14:21:22.643] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Eleamhh (18)
+[24Apr2025 14:21:22.644] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Eleamhh
+[24Apr2025 14:21:23.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d672abb-8750-3323-81ed-fa10031483d7
+[24Apr2025 14:21:24.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d672abb-8750-3323-81ed-fa10031483d7
+[24Apr2025 14:21:24.660] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Eleamhh (8d672abb-8750-3323-81ed-fa10031483d7) successfully connected to voice chat

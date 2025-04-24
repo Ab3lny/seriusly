@@ -2813,6 +2813,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 14:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-23 19:25:07 +0000"

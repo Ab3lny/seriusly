@@ -466,3 +466,12 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 14:04:22.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eb5cc7df-18e1-3852-9321-208fe9affe32
 [24Apr2025 14:04:23.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eb5cc7df-18e1-3852-9321-208fe9affe32
 [24Apr2025 14:04:23.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4kenyyFn (eb5cc7df-18e1-3852-9321-208fe9affe32) successfully connected to voice chat
+[24Apr2025 14:08:53.538] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=368, y=66, z=-694} BlockPos{x=368, y=65, z=-694}
+[24Apr2025 14:08:54.182] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=367, y=66, z=-694} BlockPos{x=370, y=66, z=-695}
+[24Apr2025 14:08:54.218] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=367, y=66, z=-694} BlockPos{x=372, y=66, z=-695}
+[24Apr2025 14:08:56.018] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=369, y=67, z=-696} BlockPos{x=369, y=68, z=-695}
+[24Apr2025 14:08:57.374] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=370, y=69, z=-696} BlockPos{x=371, y=68, z=-694}
+[24Apr2025 14:10:18.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has reached the goal [Greed may lead to loss]
+[24Apr2025 14:15:02.614] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: KerryCabuela moved too quickly! -6.120122163424526,-2.086296841433274,7.918784398284288
+[24Apr2025 14:15:31.365] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/337, l='ServerLevel[world]', x=26.64, y=33.28, z=326.70] died, message: 'Villager was slain by Zombie'
+[24Apr2025 14:16:58.334] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=141, y=68, z=-318} BlockPos{x=142, y=69, z=-319}

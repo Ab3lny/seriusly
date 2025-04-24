@@ -634,6 +634,7 @@
       "minecraft:skeleton": "2025-04-23 19:49:01 +0000",
       "minecraft:spider": "2025-04-23 19:23:49 +0000",
       "minecraft:creeper": "2025-04-23 20:56:24 +0000",
+      "minecraft:slime": "2025-04-24 13:31:01 +0000",
       "minecraft:witch": "2025-04-23 21:10:05 +0000",
       "minecraft:wither_skeleton": "2025-04-23 19:54:01 +0000",
       "minecraft:husk": "2025-04-24 12:17:17 +0000",
@@ -783,6 +784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-24 13:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-04-23 19:26:21 +0000"
@@ -792,6 +799,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-23 19:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-24 13:30:06 +0000"
     },
     "done": true
   },
@@ -948,6 +961,12 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-04-24 12:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-24 13:26:51 +0000"
     },
     "done": true
   },
@@ -2340,6 +2359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-24 13:30:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-04-23 20:51:42 +0000"
@@ -2373,6 +2398,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-04-23 19:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-24 13:30:06 +0000"
     },
     "done": true
   },
@@ -2865,6 +2896,12 @@
   "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2025-04-23 19:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-24 13:26:51 +0000"
     },
     "done": true
   },

@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-04-24 13:32:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2025-04-23 20:42:19 +0000"
@@ -125,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-24 13:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-04-23 20:41:06 +0000"
@@ -158,6 +170,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-23 20:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-24 13:32:19 +0000"
     },
     "done": true
   },
@@ -311,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-24 13:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 20:46:06 +0000"
@@ -446,6 +470,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-23 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-24 13:32:19 +0000"
     },
     "done": true
   },
@@ -826,6 +856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-04-24 13:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-04-23 20:41:06 +0000"
@@ -976,6 +1012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-04-24 13:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-23 20:34:39 +0000",
@@ -983,6 +1025,7 @@
       "minecraft:desert": "2025-04-23 20:39:34 +0000",
       "minecraft:savanna_plateau": "2025-04-23 20:56:59 +0000",
       "minecraft:river": "2025-04-23 20:39:31 +0000",
+      "minecraft:wooded_hills": "2025-04-24 13:26:00 +0000",
       "minecraft:swamp": "2025-04-23 21:50:42 +0000",
       "minecraft:savanna": "2025-04-23 20:34:59 +0000",
       "minecraft:plains": "2025-04-23 20:32:56 +0000"
@@ -1046,6 +1089,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 20:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-04-24 13:32:19 +0000"
     },
     "done": true
   },
@@ -1259,6 +1308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-04-24 13:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 20:46:06 +0000"
@@ -1268,6 +1323,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-23 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-24 13:32:19 +0000"
     },
     "done": true
   },
@@ -1897,6 +1958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-24 13:32:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-04-23 21:33:01 +0000"
@@ -1984,6 +2051,12 @@
   "ironchest:recipes/ironchest/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2025-04-24 12:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-04-24 13:32:19 +0000"
     },
     "done": true
   },
@@ -2257,6 +2330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-24 13:32:19 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 20:46:06 +0000"
@@ -2320,6 +2399,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-24 12:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-04-24 13:32:19 +0000"
     },
     "done": true
   },

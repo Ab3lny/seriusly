@@ -4585,3 +4585,280 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 16:02:39.350] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [24Apr2025 16:07:39.200] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Apr2025 16:07:39.204] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Apr2025 16:09:54.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> zzz
+[24Apr2025 16:10:02.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> avisar cuando esteis
+[24Apr2025 16:10:04.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> zzz
+[24Apr2025 16:10:31.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ab3lny11> nostros ya estamos
+[24Apr2025 16:10:33.968] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eleamhh lost connection: Disconnected
+[24Apr2025 16:10:33.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh left the game
+[24Apr2025 16:10:33.969] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Eleamhh
+[24Apr2025 16:10:33.969] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Eleamhh
+[24Apr2025 16:10:33.981] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.003] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.019] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.040] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.061] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.078] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.099] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.119] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.141] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.163] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.178] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.200] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.220] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.242] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.258] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.280] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.301] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.323] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.338] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.359] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.380] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.402] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.419] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.439] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.460] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.481] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.502] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.519] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.540] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.561] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.582] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.598] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.620] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.641] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.662] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.678] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.699] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.720] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.741] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.764] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.779] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.801] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.821] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.843] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.859] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.879] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.901] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:34.929] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:10:52.960] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 27 messages to dispatch.
+[24Apr2025 16:10:52.965] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.fml.network.FMLHandshakeMessages$S2CModList' to 'fml:handshake' sequence 0
+[24Apr2025 16:10:53.004] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SModListReply
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, voicechat, tombstone, dungeoncrawl, sophisticatedbackpacks, jei, cloth-config, betterf3, invocore, goblintraders, forge, expandability, curios, dynamictrees, xaerominimap, refinedstorage, reviveme, xaeroworldmap, ironchest, comforts, securitycraft, artifacts]
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML2' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'reviveme:network' : Version test of '1.6.0' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12.1' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Version test of '1.1' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 16:10:53.005] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML2' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-6.9.6' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML2' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Version test of '1' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML2' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'ironchest:network' : Version test of '1' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML2' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.0' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'refinedstorage:main_channel' : Version test of '1' from client : ACCEPTED
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[24Apr2025 16:10:53.006] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[24Apr2025 16:10:53.018] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 1
+[24Apr2025 16:10:53.056] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[24Apr2025 16:10:53.057] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.057] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.065] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 2
+[24Apr2025 16:10:53.119] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 3
+[24Apr2025 16:10:53.140] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[24Apr2025 16:10:53.140] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.141] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.157] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[24Apr2025 16:10:53.158] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.158] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.167] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 4
+[24Apr2025 16:10:53.205] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[24Apr2025 16:10:53.205] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.205] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.216] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 5
+[24Apr2025 16:10:53.265] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 6
+[24Apr2025 16:10:53.292] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[24Apr2025 16:10:53.292] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.292] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.304] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[24Apr2025 16:10:53.304] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.304] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.314] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 7
+[24Apr2025 16:10:53.352] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[24Apr2025 16:10:53.352] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.352] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.365] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 8
+[24Apr2025 16:10:53.405] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[24Apr2025 16:10:53.405] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.405] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.416] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 9
+[24Apr2025 16:10:53.453] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[24Apr2025 16:10:53.453] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.453] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.464] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 10
+[24Apr2025 16:10:53.503] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[24Apr2025 16:10:53.503] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.503] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.517] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 11
+[24Apr2025 16:10:53.554] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[24Apr2025 16:10:53.555] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.555] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.572] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 12
+[24Apr2025 16:10:53.611] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[24Apr2025 16:10:53.612] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.612] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.617] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 13
+[24Apr2025 16:10:53.656] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[24Apr2025 16:10:53.657] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.657] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.671] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 14
+[24Apr2025 16:10:53.708] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[24Apr2025 16:10:53.709] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.709] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.714] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 15
+[24Apr2025 16:10:53.751] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[24Apr2025 16:10:53.752] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.752] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.766] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 16
+[24Apr2025 16:10:53.803] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[24Apr2025 16:10:53.803] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:53.803] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:53.815] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 17
+[24Apr2025 16:10:53.866] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 18
+[24Apr2025 16:10:53.913] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 19
+[24Apr2025 16:10:53.965] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config artifacts-server.toml' to 'fml:handshake' sequence 20
+[24Apr2025 16:10:54.017] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 21
+[24Apr2025 16:10:54.066] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config dynamictrees-server.toml' to 'fml:handshake' sequence 22
+[24Apr2025 16:10:54.116] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config refinedstorage-server.toml' to 'fml:handshake' sequence 23
+[24Apr2025 16:10:54.164] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config comforts-server.toml' to 'fml:handshake' sequence 24
+[24Apr2025 16:10:54.215] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 25
+[24Apr2025 16:10:54.264] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 26
+[24Apr2025 16:10:54.651] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[24Apr2025 16:10:54.652] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:54.652] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:54.652] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[24Apr2025 16:10:54.652] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:54.652] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:54.652] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[24Apr2025 16:10:54.652] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:54.652] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:54.653] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[24Apr2025 16:10:54.653] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:54.653] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:54.653] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[24Apr2025 16:10:54.653] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:54.653] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:54.654] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[24Apr2025 16:10:54.654] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:54.654] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:54.654] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[24Apr2025 16:10:54.654] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:54.654] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:54.654] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[24Apr2025 16:10:54.654] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:54.655] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:54.655] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[24Apr2025 16:10:54.655] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:54.655] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:54.655] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[24Apr2025 16:10:54.655] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[24Apr2025 16:10:54.655] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[24Apr2025 16:10:54.667] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[24Apr2025 16:10:54.720] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ca71d73
+[24Apr2025 16:10:54.726] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eleamhh[/10.144.215.173:55343] logged in with entity id 23562 at (296.3398297376019, 90.0, 979.3000000119209)
+[24Apr2025 16:10:54.727] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@76f3a118 into net.minecraft.network.NetworkManager@23b75dc5
+[24Apr2025 16:10:54.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh joined the game
+[24Apr2025 16:10:54.765] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Eleamhh: {disabled=false, disconnected=true, uuid=8d672abb-8750-3323-81ed-fa10031483d7, name=Eleamhh, group=null}
+[24Apr2025 16:10:54.901] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Eleamhh (18)
+[24Apr2025 16:10:54.901] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Eleamhh
+[24Apr2025 16:10:54.901] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Eleamhh
+[24Apr2025 16:10:54.902] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Eleamhh
+[24Apr2025 16:10:54.902] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Eleamhh
+[24Apr2025 16:10:55.938] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d672abb-8750-3323-81ed-fa10031483d7
+[24Apr2025 16:10:56.938] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d672abb-8750-3323-81ed-fa10031483d7
+[24Apr2025 16:10:56.939] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Eleamhh to connected: {disabled=false, disconnected=false, uuid=8d672abb-8750-3323-81ed-fa10031483d7, name=Eleamhh, group=null}
+[24Apr2025 16:10:56.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Eleamhh (8d672abb-8750-3323-81ed-fa10031483d7) successfully connected to voice chat
+[24Apr2025 16:10:56.977] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Eleamhh: {disabled=false, disconnected=false, uuid=8d672abb-8750-3323-81ed-fa10031483d7, name=Eleamhh, group=null}
+[24Apr2025 16:11:22.578] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of KerryCabuela: {disabled=false, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=741a4b0a-cad4-4238-b661-eabd66a76fd6}
+[24Apr2025 16:11:24.736] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Eleamhh: {disabled=false, disconnected=false, uuid=8d672abb-8750-3323-81ed-fa10031483d7, name=Eleamhh, group=741a4b0a-cad4-4238-b661-eabd66a76fd6}
+[24Apr2025 16:12:39.277] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Apr2025 16:12:39.281] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Apr2025 16:13:06.934] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/24604, l='ServerLevel[world]', x=-41.52, y=55.00, z=367.13]
+[24Apr2025 16:16:40.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> va los chavales q vaya bien
+[24Apr2025 16:16:44.063] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eleamhh lost connection: Disconnected
+[24Apr2025 16:16:44.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh left the game
+[24Apr2025 16:16:44.064] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Eleamhh
+[24Apr2025 16:16:44.064] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Eleamhh
+[24Apr2025 16:16:44.079] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.095] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.116] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.137] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.158] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.175] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.198] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.220] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.235] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.257] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.279] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.299] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.316] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.337] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.357] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.378] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.400] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.416] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.437] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.458] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.480] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.496] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.517] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.538] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.559] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.579] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.595] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.616] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.637] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.658] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.680] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.696] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.717] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <4kenyyFn> VAA
+[24Apr2025 16:16:44.738] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.760] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.776] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.797] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.817] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.838] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.860] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.876] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.897] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.918] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.940] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.957] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:44.980] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:45.002] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:45.016] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8d672abb-8750-3323-81ed-fa10031483d7 does not have a secret
+[24Apr2025 16:16:47.832] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of KerryCabuela: {disabled=false, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=null}
+[24Apr2025 16:17:39.306] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Apr2025 16:17:39.310] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

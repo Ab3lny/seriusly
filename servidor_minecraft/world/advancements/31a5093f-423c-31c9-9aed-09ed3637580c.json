@@ -777,6 +777,8 @@
     "criteria": {
       "minecraft:pillager": "2025-04-24 21:46:12 +0000",
       "minecraft:skeleton": "2025-04-23 19:38:12 +0000",
+      "minecraft:ravager": "2025-04-24 21:51:04 +0000",
+      "minecraft:vindicator": "2025-04-24 21:49:46 +0000",
       "minecraft:spider": "2025-04-23 19:57:30 +0000",
       "minecraft:creeper": "2025-04-23 19:40:52 +0000",
       "minecraft:witch": "2025-04-23 20:11:04 +0000",
@@ -2488,6 +2490,7 @@
       "golden_apple": "2025-04-23 20:31:21 +0000",
       "golden_carrot": "2025-04-23 20:33:29 +0000",
       "cooked_rabbit": "2025-04-24 15:22:16 +0000",
+      "cooked_chicken": "2025-04-24 21:57:44 +0000",
       "cooked_salmon": "2025-04-23 21:18:33 +0000",
       "carrot": "2025-04-23 19:42:15 +0000"
     },
@@ -2628,6 +2631,12 @@
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 21:50:31 +0000"
     },
     "done": true
   },

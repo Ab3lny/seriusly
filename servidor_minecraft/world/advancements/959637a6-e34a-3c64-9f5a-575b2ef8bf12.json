@@ -775,9 +775,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-24 21:50:31 +0000",
       "minecraft:skeleton": "2025-04-23 18:11:57 +0000",
+      "minecraft:vindicator": "2025-04-24 21:50:13 +0000",
       "minecraft:spider": "2025-04-23 19:42:14 +0000",
       "minecraft:creeper": "2025-04-23 19:37:43 +0000",
+      "minecraft:witch": "2025-04-24 21:52:13 +0000",
       "minecraft:husk": "2025-04-24 14:43:32 +0000",
       "minecraft:zombie": "2025-04-23 17:38:57 +0000"
     },
@@ -870,6 +873,12 @@
   "mcwbridges:recipes/balustrade_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-04-24 21:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-24 21:50:13 +0000"
     },
     "done": true
   },
@@ -1239,6 +1248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-24 21:52:29 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-04-23 16:59:13 +0000"
@@ -1368,6 +1383,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
       "has_leather": "2025-04-23 19:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-24 21:53:35 +0000"
     },
     "done": true
   },
@@ -1917,6 +1938,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 21:50:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-04-23 19:40:29 +0000"
@@ -2364,6 +2391,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 21:53:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-23 19:43:19 +0000"
@@ -2721,6 +2754,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-04-23 19:45:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-24 21:52:29 +0000"
     },
     "done": true
   },
@@ -3489,6 +3528,12 @@
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-24 15:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-24 21:52:39 +0000"
     },
     "done": true
   },

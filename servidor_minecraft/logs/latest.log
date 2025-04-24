@@ -314,3 +314,8 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 12:49:16.825] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
 [24Apr2025 12:49:22.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela was doomed to fall by Skeleton
 [24Apr2025 12:49:22.274] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[24Apr2025 12:56:58.632] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=22, z=-365} BlockPos{x=196, y=24, z=-365}
+[24Apr2025 12:58:15.826] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=144, y=23, z=-383} BlockPos{x=144, y=23, z=-382}
+[24Apr2025 12:58:29.924] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=147, y=24, z=-373} BlockPos{x=143, y=23, z=-367}
+[24Apr2025 12:58:42.473] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=142, y=23, z=-365} BlockPos{x=146, y=23, z=-324}
+[24Apr2025 13:00:06.772] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=151, y=23, z=-297} BlockPos{x=152, y=22, z=-298}

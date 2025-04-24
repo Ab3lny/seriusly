@@ -6114,3 +6114,16 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 12:54:53.575] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [24Apr2025 12:54:53.592] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 22erix: {disabled=true, disconnected=false, uuid=dd5f4bc0-47fa-3451-9a84-5d37a5fab84c, name=22erix, group=2d05adce-8ddc-47c8-ae8a-1905f5ebf6b4}
 [24Apr2025 12:54:53.812] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 22erix: {disabled=false, disconnected=false, uuid=dd5f4bc0-47fa-3451-9a84-5d37a5fab84c, name=22erix, group=2d05adce-8ddc-47c8-ae8a-1905f5ebf6b4}
+[24Apr2025 12:56:58.632] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=203, y=22, z=-365} BlockPos{x=196, y=24, z=-365}
+[24Apr2025 12:58:04.809] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 22erix: {disabled=true, disconnected=false, uuid=dd5f4bc0-47fa-3451-9a84-5d37a5fab84c, name=22erix, group=2d05adce-8ddc-47c8-ae8a-1905f5ebf6b4}
+[24Apr2025 12:58:05.361] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 22erix: {disabled=false, disconnected=false, uuid=dd5f4bc0-47fa-3451-9a84-5d37a5fab84c, name=22erix, group=2d05adce-8ddc-47c8-ae8a-1905f5ebf6b4}
+[24Apr2025 12:58:05.940] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 22erix: {disabled=true, disconnected=false, uuid=dd5f4bc0-47fa-3451-9a84-5d37a5fab84c, name=22erix, group=2d05adce-8ddc-47c8-ae8a-1905f5ebf6b4}
+[24Apr2025 12:58:06.665] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 22erix: {disabled=false, disconnected=false, uuid=dd5f4bc0-47fa-3451-9a84-5d37a5fab84c, name=22erix, group=2d05adce-8ddc-47c8-ae8a-1905f5ebf6b4}
+[24Apr2025 12:58:15.826] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=144, y=23, z=-383} BlockPos{x=144, y=23, z=-382}
+[24Apr2025 12:58:29.924] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=147, y=24, z=-373} BlockPos{x=143, y=23, z=-367}
+[24Apr2025 12:58:42.473] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=142, y=23, z=-365} BlockPos{x=146, y=23, z=-324}
+[24Apr2025 12:59:53.570] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Apr2025 12:59:53.574] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Apr2025 13:00:06.772] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=151, y=23, z=-297} BlockPos{x=152, y=22, z=-298}
+[24Apr2025 13:04:53.645] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Apr2025 13:04:53.648] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

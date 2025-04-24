@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 12:45:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-04-23 20:06:19 +0000"
@@ -1759,6 +1765,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-04-24 12:48:49 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 19:22:13 +0000"
@@ -1883,6 +1895,7 @@
       "minecraft:dark_forest": "2025-04-23 20:23:50 +0000",
       "minecraft:river": "2025-04-23 17:03:30 +0000",
       "minecraft:wooded_hills": "2025-04-23 19:41:34 +0000",
+      "minecraft:swamp": "2025-04-24 12:46:56 +0000",
       "minecraft:savanna": "2025-04-23 17:03:26 +0000",
       "minecraft:plains": "2025-04-23 16:55:51 +0000"
     },
@@ -2101,6 +2114,12 @@
   "securitycraft:recipes/securitycraft/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-04-23 20:35:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 12:45:31 +0000"
     },
     "done": true
   },

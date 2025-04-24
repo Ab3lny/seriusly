@@ -6082,3 +6082,35 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 12:42:23.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
 [24Apr2025 12:44:53.571] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Apr2025 12:44:53.575] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Apr2025 12:45:20.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has reached the goal [Great minds think alike]
+[24Apr2025 12:45:31.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has made the advancement [Knowledge raises the soul]
+[24Apr2025 12:46:11.681] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=200, y=21, z=-320} BlockPos{x=199, y=21, z=-319}
+[24Apr2025 12:46:40.064] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=198, y=23, z=-338} BlockPos{x=206, y=23, z=-338}
+[24Apr2025 12:47:33.880] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=198, y=23, z=-352} BlockPos{x=197, y=24, z=-359}
+[24Apr2025 12:47:35.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
+[24Apr2025 12:47:35.610] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
+[24Apr2025 12:47:35.616] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[24Apr2025 12:47:58.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has fallen
+[24Apr2025 12:47:58.313] [Server thread/WARN] [tombstone/]: The death event of the player 22erix was canceled by another mod
+[24Apr2025 12:47:58.315] [Server thread/INFO] [tombstone/]: The player 22erix has successfully been saved
+[24Apr2025 12:48:06.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has reached the goal [Strong or Careful]
+[24Apr2025 12:48:06.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela was slain by Cave Spider
+[24Apr2025 12:48:06.585] [Server thread/DEBUG] [tombstone/]: A new grave of the player KerryCabuela was created at position [x:192, y:23, z:-319, dim:minecraft:overworld]
+[24Apr2025 12:48:06.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Your First Grave]
+[24Apr2025 12:48:06.590] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[24Apr2025 12:48:14.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 22erix has been revived
+[24Apr2025 12:48:49.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has made the advancement [Where Is The Stone Pen?]
+[24Apr2025 12:49:16.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
+[24Apr2025 12:49:16.824] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
+[24Apr2025 12:49:16.825] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[24Apr2025 12:49:22.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela was doomed to fall by Skeleton
+[24Apr2025 12:49:22.273] [Server thread/DEBUG] [tombstone/]: A new grave of the player KerryCabuela was created at position [x:-18, y:43, z:608, dim:minecraft:overworld]
+[24Apr2025 12:49:22.274] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[24Apr2025 12:49:53.517] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Apr2025 12:49:53.520] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Apr2025 12:53:48.162] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 22erix: {disabled=true, disconnected=false, uuid=dd5f4bc0-47fa-3451-9a84-5d37a5fab84c, name=22erix, group=2d05adce-8ddc-47c8-ae8a-1905f5ebf6b4}
+[24Apr2025 12:53:48.912] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 22erix: {disabled=false, disconnected=false, uuid=dd5f4bc0-47fa-3451-9a84-5d37a5fab84c, name=22erix, group=2d05adce-8ddc-47c8-ae8a-1905f5ebf6b4}
+[24Apr2025 12:54:53.572] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Apr2025 12:54:53.575] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Apr2025 12:54:53.592] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 22erix: {disabled=true, disconnected=false, uuid=dd5f4bc0-47fa-3451-9a84-5d37a5fab84c, name=22erix, group=2d05adce-8ddc-47c8-ae8a-1905f5ebf6b4}
+[24Apr2025 12:54:53.812] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 22erix: {disabled=false, disconnected=false, uuid=dd5f4bc0-47fa-3451-9a84-5d37a5fab84c, name=22erix, group=2d05adce-8ddc-47c8-ae8a-1905f5ebf6b4}

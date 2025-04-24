@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-24 14:37:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-04-24 14:31:24 +0000"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-24 14:40:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-04-23 19:35:02 +0000"
@@ -242,6 +254,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 19:31:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-24 14:38:21 +0000"
     },
     "done": true
   },
@@ -478,6 +496,7 @@
       "minecraft:skeleton": "2025-04-23 18:11:57 +0000",
       "minecraft:spider": "2025-04-23 19:42:14 +0000",
       "minecraft:creeper": "2025-04-23 19:37:43 +0000",
+      "minecraft:husk": "2025-04-24 14:43:32 +0000",
       "minecraft:zombie": "2025-04-23 17:38:57 +0000"
     },
     "done": false
@@ -491,6 +510,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-04-23 19:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-24 14:38:20 +0000"
     },
     "done": true
   },
@@ -1364,6 +1389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-24 14:38:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-04-23 19:31:58 +0000"
@@ -2006,6 +2037,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-23 20:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-24 14:38:20 +0000"
     },
     "done": true
   },

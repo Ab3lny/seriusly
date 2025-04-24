@@ -505,3 +505,26 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 14:28:36.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> KerryCabuela la granja la hacemos nosotros
 [24Apr2025 14:35:03.010] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/3328, l='ServerLevel[world]', x=25.70, y=51.00, z=350.08] died, message: 'Farmer was slain by Zombie'
 [24Apr2025 14:37:38.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Cover Me With Diamonds]
+[24Apr2025 14:39:51.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <4kenyyFn> KerryCabuela dale
+[24Apr2025 14:40:11.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> ./msg kerrycabuela
+[24Apr2025 14:40:15.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> se pone asi
+[24Apr2025 14:40:18.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> cara polla
+[24Apr2025 14:42:25.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> ZZZ
+[24Apr2025 14:43:50.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ab3lny11> desensonodeceros todos
+[24Apr2025 14:43:53.272] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 4kenyyFn lost connection: Disconnected
+[24Apr2025 14:43:53.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn left the game
+[24Apr2025 14:43:53.272] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4kenyyFn
+[24Apr2025 14:43:55.461] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KerryCabuela lost connection: Disconnected
+[24Apr2025 14:43:55.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela left the game
+[24Apr2025 14:43:55.462] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KerryCabuela
+[24Apr2025 14:44:14.823] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@913df15
+[24Apr2025 14:44:14.829] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KerryCabuela[/10.144.230.62:50412] logged in with entity id 79281 at (362.10156133583166, 88.0, 880.7587357761454)
+[24Apr2025 14:44:14.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela joined the game
+[24Apr2025 14:44:15.323] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KerryCabuela (18)
+[24Apr2025 14:44:15.324] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KerryCabuela
+[24Apr2025 14:44:17.129] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31a5093f-423c-31c9-9aed-09ed3637580c
+[24Apr2025 14:44:18.127] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31a5093f-423c-31c9-9aed-09ed3637580c
+[24Apr2025 14:44:18.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c) successfully connected to voice chat
+[24Apr2025 14:46:58.315] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxibon_08 lost connection: Disconnected
+[24Apr2025 14:46:58.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 left the game
+[24Apr2025 14:46:58.316] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Maxibon_08

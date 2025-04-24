@@ -293,9 +293,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/gold_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-24 11:56:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
     },
     "done": true
   },
@@ -539,9 +551,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 19:36:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/quartz_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/gravel_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
     },
     "done": true
   },
@@ -606,6 +636,7 @@
       "minecraft:creeper": "2025-04-23 19:40:52 +0000",
       "minecraft:witch": "2025-04-23 20:11:04 +0000",
       "minecraft:wither_skeleton": "2025-04-23 19:57:20 +0000",
+      "minecraft:husk": "2025-04-24 14:35:31 +0000",
       "minecraft:cave_spider": "2025-04-23 20:11:37 +0000",
       "minecraft:enderman": "2025-04-23 20:08:11 +0000",
       "minecraft:stray": "2025-04-23 19:39:23 +0000",
@@ -648,6 +679,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-23 19:22:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/iron_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
     },
     "done": true
   },
@@ -789,6 +826,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/stone_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-04-23 19:32:26 +0000"
@@ -882,6 +925,18 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-04-23 20:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-04-24 14:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-04-24 14:43:21 +0000"
     },
     "done": true
   },
@@ -1041,6 +1096,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/sand_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-04-24 13:14:16 +0000"
@@ -1140,6 +1201,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-23 20:55:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
     },
     "done": true
   },
@@ -1560,6 +1627,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/diamond_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-23 18:19:30 +0000"
@@ -1635,6 +1708,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-23 21:56:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
     },
     "done": true
   },
@@ -1848,6 +1927,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/dirt_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-04-23 18:19:26 +0000"
@@ -1997,6 +2082,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/coal_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-04-23 21:19:19 +0000"
@@ -2087,6 +2178,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-23 19:25:07 +0000"
@@ -2120,6 +2217,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-04-24 12:54:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/smoker_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
     },
     "done": true
   },
@@ -2309,6 +2412,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/wire_cutters": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-23 19:22:55 +0000"
@@ -2378,6 +2487,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-24 13:14:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
     },
     "done": true
   },
@@ -2453,6 +2568,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/redstone_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-23 19:22:55 +0000"
@@ -2486,6 +2607,12 @@
   "securitycraft:recipes/securitycraft/claymore": {
     "criteria": {
       "has_redstone": "2025-04-23 21:19:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
     },
     "done": true
   },
@@ -2594,6 +2721,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-04-24 12:29:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
     },
     "done": true
   },
@@ -2933,6 +3066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-04-24 14:43:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-04-23 21:19:19 +0000"
@@ -2954,6 +3093,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-24 13:14:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/cobblestone_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
     },
     "done": true
   },
@@ -3119,6 +3264,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-04-24 13:25:47 +0000"
@@ -3140,6 +3291,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-04-23 20:11:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/remote_access_mine": {
+    "criteria": {
+      "has_mine": "2025-04-24 14:35:47 +0000"
     },
     "done": true
   },

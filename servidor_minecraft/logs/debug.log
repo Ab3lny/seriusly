@@ -4862,3 +4862,38 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 16:16:47.832] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of KerryCabuela: {disabled=false, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=null}
 [24Apr2025 16:17:39.306] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Apr2025 16:17:39.310] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Apr2025 16:21:39.662] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
+[24Apr2025 16:21:39.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
+[24Apr2025 16:21:39.662] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Ab3lny11
+[24Apr2025 16:21:39.662] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11
+[24Apr2025 16:21:39.673] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 959637a6-e34a-3c64-9f5a-575b2ef8bf12 does not have a secret
+[24Apr2025 16:21:39.690] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 959637a6-e34a-3c64-9f5a-575b2ef8bf12 does not have a secret
+[24Apr2025 16:21:40.516] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 959637a6-e34a-3c64-9f5a-575b2ef8bf12 does not have a secret
+[24Apr2025 16:21:40.516] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 959637a6-e34a-3c64-9f5a-575b2ef8bf12 does not have a secret
+[24Apr2025 16:21:40.531] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 959637a6-e34a-3c64-9f5a-575b2ef8bf12 does not have a secret
+[24Apr2025 16:21:40.556] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 959637a6-e34a-3c64-9f5a-575b2ef8bf12 does not have a secret
+[24Apr2025 16:21:40.571] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 959637a6-e34a-3c64-9f5a-575b2ef8bf12 does not have a secret
+[24Apr2025 16:21:40.594] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 959637a6-e34a-3c64-9f5a-575b2ef8bf12 does not have a secret
+[24Apr2025 16:21:40.611] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 959637a6-e34a-3c64-9f5a-575b2ef8bf12 does not have a secret
+[24Apr2025 16:21:40.630] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 959637a6-e34a-3c64-9f5a-575b2ef8bf12 does not have a secret
+[24Apr2025 16:21:40.664] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 959637a6-e34a-3c64-9f5a-575b2ef8bf12 does not have a secret
+[24Apr2025 16:21:57.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <4kenyyFn> bro
+[24Apr2025 16:22:01.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> hi
+[24Apr2025 16:22:09.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <4kenyyFn> cakll
+[24Apr2025 16:22:15.786] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of KerryCabuela: {disabled=false, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=969c4518-39d4-48b0-9dc3-4b3f11cabacc}
+[24Apr2025 16:22:22.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> metete
+[24Apr2025 16:22:38.232] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of KerryCabuela: {disabled=false, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=null}
+[24Apr2025 16:22:39.218] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Apr2025 16:22:39.222] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Apr2025 16:22:46.845] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of KerryCabuela: {disabled=false, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=d83611e2-53b9-4874-9953-d3fa583a1d90}
+[24Apr2025 16:23:08.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> METETE GURPO
+[24Apr2025 16:23:13.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> BRUPO*
+[24Apr2025 16:23:19.346] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of 4kenyyFn: {disabled=false, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=null}
+[24Apr2025 16:23:19.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> TUS MUERTOS
+[24Apr2025 16:23:20.062] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of 4kenyyFn: {disabled=false, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=d83611e2-53b9-4874-9953-d3fa583a1d90}
+[24Apr2025 16:23:41.721] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of KerryCabuela: {disabled=true, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=d83611e2-53b9-4874-9953-d3fa583a1d90}
+[24Apr2025 16:23:42.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of KerryCabuela: {disabled=false, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=d83611e2-53b9-4874-9953-d3fa583a1d90}
+[24Apr2025 16:24:41.194] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 4kenyyFn: {disabled=true, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=d83611e2-53b9-4874-9953-d3fa583a1d90}
+[24Apr2025 16:24:41.567] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of 4kenyyFn: {disabled=false, disconnected=false, uuid=eb5cc7df-18e1-3852-9321-208fe9affe32, name=4kenyyFn, group=d83611e2-53b9-4874-9953-d3fa583a1d90}
+[24Apr2025 16:27:39.146] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Apr2025 16:27:39.150] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

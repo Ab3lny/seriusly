@@ -183,3 +183,16 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 21:35:18.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ab3lny11 (959637a6-e34a-3c64-9f5a-575b2ef8bf12) successfully connected to voice chat
 [24Apr2025 21:35:47.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Neighborhood Brawl]
 [24Apr2025 21:40:00.612] [Server thread/INFO] [morpheus/]: KerryCabuela is now sleeping. 1/2 (50%)
+[24Apr2025 21:46:12.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Ambush]
+[24Apr2025 21:46:12.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Voluntary Exile]
+[24Apr2025 21:49:23.458] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/6324, l='ServerLevel[world]', x=-228.30, y=66.42, z=36.52] died, message: 'Farmer was slain by Vindicator'
+[24Apr2025 21:49:35.858] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/6323, l='ServerLevel[world]', x=-258.50, y=63.00, z=41.45] died, message: 'Villager was slain by Vindicator'
+[24Apr2025 21:50:13.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Ambush]
+[24Apr2025 21:50:13.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Voluntary Exile]
+[24Apr2025 21:50:31.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has reached the goal [Fortuitous Militia]
+[24Apr2025 21:51:42.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
+[24Apr2025 21:51:42.371] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
+[24Apr2025 21:51:42.378] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[24Apr2025 21:51:52.755] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/6328, l='ServerLevel[world]', x=-188.30, y=71.00, z=23.50] died, message: 'Farmer was slain by Zombie'
+[24Apr2025 21:51:57.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
+[24Apr2025 21:52:39.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Ol' Betsy]

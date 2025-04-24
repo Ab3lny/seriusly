@@ -3050,3 +3050,22 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 21:38:13.774] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Apr2025 21:38:13.779] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [24Apr2025 21:40:00.612] [Server thread/INFO] [morpheus/]: KerryCabuela is now sleeping. 1/2 (50%)
+[24Apr2025 21:43:13.910] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Apr2025 21:43:13.914] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Apr2025 21:46:12.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Ambush]
+[24Apr2025 21:46:12.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Voluntary Exile]
+[24Apr2025 21:47:41.923] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of KerryCabuela: {disabled=true, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=1a8a137a-a037-4154-aa15-38ee8d17e842}
+[24Apr2025 21:48:13.601] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Apr2025 21:48:13.606] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Apr2025 21:48:20.564] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of KerryCabuela: {disabled=false, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=1a8a137a-a037-4154-aa15-38ee8d17e842}
+[24Apr2025 21:49:23.458] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/6324, l='ServerLevel[world]', x=-228.30, y=66.42, z=36.52] died, message: 'Farmer was slain by Vindicator'
+[24Apr2025 21:49:35.858] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/6323, l='ServerLevel[world]', x=-258.50, y=63.00, z=41.45] died, message: 'Villager was slain by Vindicator'
+[24Apr2025 21:50:13.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Ambush]
+[24Apr2025 21:50:13.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Voluntary Exile]
+[24Apr2025 21:50:31.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has reached the goal [Fortuitous Militia]
+[24Apr2025 21:51:42.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
+[24Apr2025 21:51:42.371] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
+[24Apr2025 21:51:42.378] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[24Apr2025 21:51:52.755] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/6328, l='ServerLevel[world]', x=-188.30, y=71.00, z=23.50] died, message: 'Farmer was slain by Zombie'
+[24Apr2025 21:51:57.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
+[24Apr2025 21:52:39.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Ol' Betsy]

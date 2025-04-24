@@ -775,6 +775,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-24 21:46:12 +0000",
       "minecraft:skeleton": "2025-04-23 19:38:12 +0000",
       "minecraft:spider": "2025-04-23 19:57:30 +0000",
       "minecraft:creeper": "2025-04-23 19:40:52 +0000",
@@ -895,6 +896,12 @@
   "mcwbridges:recipes/balustrade_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-24 21:46:12 +0000"
     },
     "done": true
   },
@@ -2081,6 +2088,12 @@
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2025-04-23 19:29:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 21:46:12 +0000"
     },
     "done": true
   },

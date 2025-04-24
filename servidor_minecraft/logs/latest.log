@@ -265,3 +265,15 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 22:40:40.505] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
 [24Apr2025 22:40:58.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Made Ab3lny11 no longer a server operator]
 [24Apr2025 22:41:08.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Ab3lny11 a server operator
+[24Apr2025 22:44:16.634] [Server thread/INFO] [STDOUT/]: [net.razorplay.invview_forge.container.PlayerInventoryScreenHandler:func_82846_b:94]: Invalid slotIndex:77
+[24Apr2025 22:44:29.926] [Server thread/INFO] [STDOUT/]: [net.razorplay.invview_forge.container.PlayerInventoryScreenHandler:func_82846_b:94]: Invalid slotIndex:77
+[24Apr2025 22:44:56.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to KerryCabuela]
+[24Apr2025 22:45:26.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to -38.5, 55.5, 381.5]
+[24Apr2025 22:46:16.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to KerryCabuela]
+[24Apr2025 22:51:00.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to -38.5, 55.5, 381.5]
+[24Apr2025 22:51:00.046] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 moved too quickly! -406.19811057607615,-32.5,-511.134118649922
+[24Apr2025 22:51:05.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Made Ab3lny11 no longer a server operator]
+[24Apr2025 22:51:21.611] [Server thread/INFO] [morpheus/]: Ab3lny11 is now sleeping. 1/2 (50%)
+[24Apr2025 22:51:26.462] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
+[24Apr2025 22:51:26.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
+[24Apr2025 22:51:26.463] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11

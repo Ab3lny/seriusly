@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_jungle_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 19:36:16 +0000"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sentry": {
     "criteria": {
       "has_iron": "2025-04-23 19:36:16 +0000"
@@ -68,6 +80,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-23 21:56:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/end_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -98,6 +116,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-04-23 19:32:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -161,6 +185,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-04-23 19:29:01 +0000"
@@ -212,6 +242,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-23 19:49:01 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -275,6 +311,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 19:36:16 +0000"
@@ -284,6 +326,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-23 19:29:28 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -317,6 +365,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-23 21:56:19 +0000"
@@ -335,9 +389,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/diorite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2025-04-24 14:53:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -407,9 +473,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/jungle_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2025-04-23 18:11:28 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -482,6 +560,18 @@
   "securitycraft:recipes/securitycraft/portable_radar": {
     "criteria": {
       "has_redstone": "2025-04-23 21:19:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -611,6 +701,24 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/jungle_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2025-04-23 19:36:16 +0000"
@@ -629,6 +737,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/brick_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-23 20:00:44 +0000"
@@ -638,6 +758,18 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-04-23 20:11:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -664,9 +796,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/jungle_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-04-23 21:19:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/end_stone_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -679,6 +829,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-04-23 19:36:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -706,9 +862,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/granite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_helmet": "2025-04-23 19:42:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -721,6 +889,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-04-23 21:21:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -838,9 +1012,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-24 13:14:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -853,6 +1039,18 @@
   "securitycraft:recipes/securitycraft/stone_mine": {
     "criteria": {
       "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 21:35:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -874,6 +1072,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/acacia_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-23 20:55:24 +0000"
@@ -883,6 +1087,18 @@
   "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-04-24 14:53:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -916,6 +1132,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-23 20:24:02 +0000"
@@ -940,6 +1162,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-23 21:21:11 +0000"
@@ -961,6 +1189,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-04-23 20:16:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -1042,6 +1276,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/crimson_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2025-04-23 19:36:16 +0000"
@@ -1090,9 +1336,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/prismarine_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-04-24 12:26:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -1120,6 +1378,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-23 19:36:52 +0000"
@@ -1138,6 +1402,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-04-24 13:14:16 +0000"
@@ -1147,6 +1417,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-23 21:56:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -1204,6 +1480,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/red_sandstone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2025-04-23 19:25:07 +0000"
@@ -1240,6 +1522,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/end_stone_mine": {
     "criteria": {
       "has_mine": "2025-04-24 14:35:47 +0000"
@@ -1249,6 +1537,12 @@
   "comforts:rope_and_nail": {
     "criteria": {
       "has_iron": "2025-04-23 19:36:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -1360,6 +1654,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-24 11:56:38 +0000"
@@ -1400,9 +1700,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/whitelist_module": {
     "criteria": {
       "has_iron": "2025-04-23 19:36:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -1448,15 +1766,33 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-04-23 19:29:28 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 19:36:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -1514,6 +1850,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_prismarine_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-04-24 12:29:29 +0000"
@@ -1562,6 +1904,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-04-23 21:12:35 +0000"
@@ -1583,6 +1931,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-23 19:29:01 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -1619,6 +1973,12 @@
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-04-23 20:28:48 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -1664,6 +2024,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/iron_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/alarm": {
     "criteria": {
       "has_redstone": "2025-04-23 21:19:19 +0000"
@@ -1703,6 +2069,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-04-23 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -1826,6 +2198,24 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-04-24 14:28:29 +0000"
@@ -1844,6 +2234,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-04-23 19:22:39 +0000"
@@ -1853,6 +2249,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-23 20:24:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -1946,6 +2348,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/acacia_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/blacklist_module": {
     "criteria": {
       "has_iron": "2025-04-23 19:36:16 +0000"
@@ -1970,6 +2378,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-04-23 19:36:16 +0000"
@@ -1991,6 +2405,12 @@
   "securitycraft:recipes/securitycraft/dirt_mine": {
     "criteria": {
       "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -2078,6 +2498,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-04-23 21:12:35 +0000"
@@ -2114,6 +2540,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/red_sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-24 13:14:16 +0000"
@@ -2135,6 +2567,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-04-23 20:09:28 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -2174,6 +2612,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-23 21:56:19 +0000"
@@ -2207,6 +2651,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-04-23 19:32:42 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -2297,6 +2747,12 @@
   "securitycraft:recipes/securitycraft/smoker_mine": {
     "criteria": {
       "has_mine": "2025-04-24 14:35:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -2450,6 +2906,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-04-23 19:29:01 +0000"
@@ -2516,6 +2978,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/acacia_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-04-23 19:29:28 +0000"
@@ -2549,6 +3023,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-04-23 20:11:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/orange_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -2666,6 +3146,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-23 21:56:19 +0000"
@@ -2720,6 +3206,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_orange_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-23 20:12:14 +0000"
@@ -2768,6 +3260,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-04-23 18:19:26 +0000"
@@ -2780,15 +3278,33 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-04-23 20:11:57 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-23 19:36:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -2822,9 +3338,33 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/iron_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/pliers": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-23 18:19:26 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -2918,9 +3458,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-23 19:29:28 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -2939,6 +3491,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-23 20:12:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -2972,6 +3536,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-04-23 19:29:28 +0000"
@@ -2984,9 +3554,39 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
     "criteria": {
       "has_redstone": "2025-04-23 21:19:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -2999,6 +3599,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-04-23 20:24:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/end_stone_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -3050,6 +3656,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_brick_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-23 19:25:07 +0000"
@@ -3068,9 +3680,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/warped_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-04-24 11:49:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -3128,9 +3752,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/diorite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-04-24 12:06:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -3173,6 +3815,12 @@
   "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-04-24 14:53:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -3224,6 +3872,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-04-23 18:11:28 +0000"
@@ -3233,6 +3893,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2025-04-23 21:21:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -3272,9 +3938,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 19:36:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/prismarine_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -3314,6 +3992,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_end_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2025-04-23 21:21:11 +0000"
@@ -3323,6 +4013,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-23 19:22:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_crimson_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -3380,6 +4076,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/acacia_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-04-23 19:17:26 +0000"
@@ -3395,6 +4097,18 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-04-23 20:11:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/prismarine_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },
@@ -3440,6 +4154,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_warped_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-23 19:22:55 +0000"
@@ -3449,6 +4175,18 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-24 13:14:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-24 21:32:10 +0000"
     },
     "done": true
   },

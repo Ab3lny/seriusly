@@ -157,3 +157,29 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 21:32:12.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31a5093f-423c-31c9-9aed-09ed3637580c
 [24Apr2025 21:32:13.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31a5093f-423c-31c9-9aed-09ed3637580c
 [24Apr2025 21:32:13.610] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c) successfully connected to voice chat
+[24Apr2025 21:32:37.012] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
+[24Apr2025 21:32:37.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
+[24Apr2025 21:32:37.017] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11
+[24Apr2025 21:33:15.756] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KerryCabuela lost connection: Disconnected
+[24Apr2025 21:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela left the game
+[24Apr2025 21:33:15.757] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KerryCabuela
+[24Apr2025 21:33:26.064] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@a332bb1
+[24Apr2025 21:33:26.075] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KerryCabuela[/10.144.230.62:53765] logged in with entity id 2293 at (327.3104521258015, 88.0, 965.4200813676308)
+[24Apr2025 21:33:26.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela joined the game
+[24Apr2025 21:33:26.091] [Server thread/INFO] [Waila/]: Syncing config to KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c)
+[24Apr2025 21:33:26.305] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KerryCabuela (18)
+[24Apr2025 21:33:26.305] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KerryCabuela
+[24Apr2025 21:33:27.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31a5093f-423c-31c9-9aed-09ed3637580c
+[24Apr2025 21:33:28.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31a5093f-423c-31c9-9aed-09ed3637580c
+[24Apr2025 21:33:28.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c) successfully connected to voice chat
+[24Apr2025 21:35:15.366] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3937b9ae
+[24Apr2025 21:35:15.374] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ab3lny11[/10.144.187.49:55126] logged in with entity id 2677 at (-56.52494795177868, 55.0, 394.3709256389042)
+[24Apr2025 21:35:15.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 joined the game
+[24Apr2025 21:35:15.384] [Server thread/INFO] [Waila/]: Syncing config to Ab3lny11 (959637a6-e34a-3c64-9f5a-575b2ef8bf12)
+[24Apr2025 21:35:16.096] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ab3lny11 (18)
+[24Apr2025 21:35:16.097] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ab3lny11
+[24Apr2025 21:35:17.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
+[24Apr2025 21:35:18.745] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
+[24Apr2025 21:35:18.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ab3lny11 (959637a6-e34a-3c64-9f5a-575b2ef8bf12) successfully connected to voice chat
+[24Apr2025 21:35:47.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Neighborhood Brawl]
+[24Apr2025 21:40:00.612] [Server thread/INFO] [morpheus/]: KerryCabuela is now sleeping. 1/2 (50%)

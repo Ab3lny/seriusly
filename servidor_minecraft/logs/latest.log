@@ -158,3 +158,11 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 19:39:01.053] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KerryCabuela lost connection: Disconnected
 [24Apr2025 19:39:01.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela left the game
 [24Apr2025 19:39:01.054] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KerryCabuela
+[24Apr2025 19:46:05.653] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@166abedb
+[24Apr2025 19:46:05.661] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KerryCabuela[/10.144.230.62:52651] logged in with entity id 7154 at (338.6702054247503, 87.0, 872.655719502019)
+[24Apr2025 19:46:05.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela joined the game
+[24Apr2025 19:46:08.379] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KerryCabuela (18)
+[24Apr2025 19:46:08.379] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KerryCabuela
+[24Apr2025 19:46:12.752] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31a5093f-423c-31c9-9aed-09ed3637580c
+[24Apr2025 19:46:13.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31a5093f-423c-31c9-9aed-09ed3637580c
+[24Apr2025 19:46:13.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c) successfully connected to voice chat

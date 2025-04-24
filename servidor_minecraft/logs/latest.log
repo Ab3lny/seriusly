@@ -319,3 +319,12 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 12:58:29.924] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=147, y=24, z=-373} BlockPos{x=143, y=23, z=-367}
 [24Apr2025 12:58:42.473] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=142, y=23, z=-365} BlockPos{x=146, y=23, z=-324}
 [24Apr2025 13:00:06.772] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=151, y=23, z=-297} BlockPos{x=152, y=22, z=-298}
+[24Apr2025 13:07:24.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
+[24Apr2025 13:07:24.464] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
+[24Apr2025 13:07:24.466] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[24Apr2025 13:07:34.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
+[24Apr2025 13:08:30.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> zzz
+[24Apr2025 13:08:33.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KerryCabuela> dormir
+[24Apr2025 13:11:24.686] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=177, y=87, z=-622} BlockPos{x=177, y=87, z=-623}
+[24Apr2025 13:11:24.735] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=177, y=87, z=-622} BlockPos{x=177, y=87, z=-623}
+[24Apr2025 13:15:27.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has reached the goal [Great minds think alike]

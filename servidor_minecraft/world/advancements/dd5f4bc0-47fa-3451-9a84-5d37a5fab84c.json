@@ -479,6 +479,7 @@
       "minecraft:spider": "2025-04-23 19:54:19 +0000",
       "minecraft:creeper": "2025-04-23 20:35:43 +0000",
       "minecraft:wither_skeleton": "2025-04-23 19:54:35 +0000",
+      "minecraft:husk": "2025-04-24 13:08:06 +0000",
       "minecraft:cave_spider": "2025-04-23 19:59:15 +0000",
       "minecraft:enderman": "2025-04-23 20:06:46 +0000",
       "minecraft:stray": "2025-04-23 20:08:15 +0000",
@@ -1006,11 +1007,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-23 19:22:04 +0000",
+      "minecraft:mountains": "2025-04-24 13:11:10 +0000",
       "minecraft:desert_hills": "2025-04-24 12:15:57 +0000",
       "minecraft:desert": "2025-04-23 19:22:32 +0000",
       "minecraft:savanna_plateau": "2025-04-24 12:21:19 +0000",
       "minecraft:river": "2025-04-23 19:22:13 +0000",
       "minecraft:wooded_hills": "2025-04-23 19:42:44 +0000",
+      "minecraft:swamp": "2025-04-24 13:12:19 +0000",
       "minecraft:savanna": "2025-04-23 17:55:36 +0000",
       "minecraft:plains": "2025-04-23 17:55:03 +0000"
     },

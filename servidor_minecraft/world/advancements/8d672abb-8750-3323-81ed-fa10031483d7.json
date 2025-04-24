@@ -1302,11 +1302,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-23 18:18:04 +0000",
+      "minecraft:mountains": "2025-04-24 13:06:20 +0000",
       "minecraft:desert_hills": "2025-04-24 12:15:54 +0000",
       "minecraft:desert": "2025-04-23 19:24:49 +0000",
       "minecraft:savanna_plateau": "2025-04-23 21:09:01 +0000",
       "minecraft:river": "2025-04-23 19:19:30 +0000",
       "minecraft:wooded_hills": "2025-04-23 19:47:30 +0000",
+      "minecraft:swamp": "2025-04-24 13:08:28 +0000",
       "minecraft:savanna": "2025-04-23 19:19:39 +0000",
       "minecraft:plains": "2025-04-23 18:18:09 +0000"
     },

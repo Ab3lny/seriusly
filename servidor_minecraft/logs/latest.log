@@ -246,3 +246,6 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 22:16:46.619] [Server thread/WARN] [tombstone/]: The death event of the player Ab3lny11 was canceled by another mod
 [24Apr2025 22:16:46.621] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
 [24Apr2025 22:17:16.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has been revived
+[24Apr2025 22:31:56.321] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
+[24Apr2025 22:31:56.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
+[24Apr2025 22:31:56.322] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11

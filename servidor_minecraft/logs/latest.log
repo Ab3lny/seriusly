@@ -429,3 +429,40 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 13:49:21.204] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=129, y=15, z=-940} BlockPos{x=116, y=13, z=-936}
 [24Apr2025 13:49:27.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
 [24Apr2025 13:49:47.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4474ms or 89 ticks behind
+[24Apr2025 14:02:03.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> zzz
+[24Apr2025 14:02:10.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> zzz
+[24Apr2025 14:02:11.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> zzz
+[24Apr2025 14:02:11.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> zz
+[24Apr2025 14:02:11.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> z
+[24Apr2025 14:02:12.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> z
+[24Apr2025 14:02:27.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <4kenyyFn> ZZZZ
+[24Apr2025 14:02:28.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <4kenyyFn> Z
+[24Apr2025 14:02:28.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <4kenyyFn> ZZ
+[24Apr2025 14:02:28.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <4kenyyFn> Z
+[24Apr2025 14:02:53.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> z
+[24Apr2025 14:02:53.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> z
+[24Apr2025 14:02:54.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> z
+[24Apr2025 14:02:54.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> z
+[24Apr2025 14:02:54.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> z
+[24Apr2025 14:02:54.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> z
+[24Apr2025 14:02:55.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> zzz
+[24Apr2025 14:03:03.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> spamea mas
+[24Apr2025 14:03:14.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> quien queda
+[24Apr2025 14:03:16.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> z
+[24Apr2025 14:03:16.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> z
+[24Apr2025 14:03:17.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> z
+[24Apr2025 14:03:17.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> z
+[24Apr2025 14:03:17.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> z
+[24Apr2025 14:03:17.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> z
+[24Apr2025 14:03:26.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> bro va cbrns
+[24Apr2025 14:03:46.076] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 4kenyyFn lost connection: Disconnected
+[24Apr2025 14:03:46.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn left the game
+[24Apr2025 14:03:46.080] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 4kenyyFn
+[24Apr2025 14:04:18.464] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1ad3c160
+[24Apr2025 14:04:18.471] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: 4kenyyFn[/10.144.226.156:60275] logged in with entity id 59231 at (-45.24726084587285, 67.0, 352.69999998807907)
+[24Apr2025 14:04:18.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn joined the game
+[24Apr2025 14:04:18.948] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 4kenyyFn (18)
+[24Apr2025 14:04:18.949] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 4kenyyFn
+[24Apr2025 14:04:22.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eb5cc7df-18e1-3852-9321-208fe9affe32
+[24Apr2025 14:04:23.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eb5cc7df-18e1-3852-9321-208fe9affe32
+[24Apr2025 14:04:23.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4kenyyFn (eb5cc7df-18e1-3852-9321-208fe9affe32) successfully connected to voice chat

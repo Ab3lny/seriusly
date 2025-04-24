@@ -2539,6 +2539,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-24 19:03:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-04-23 19:37:36 +0000"
@@ -2812,6 +2818,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-04-24 13:25:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-04-24 18:43:59 +0000"
     },
     "done": true
   },

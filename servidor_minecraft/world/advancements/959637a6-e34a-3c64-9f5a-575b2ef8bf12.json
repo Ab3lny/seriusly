@@ -1178,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-24 15:17:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-04-23 19:49:16 +0000"
@@ -2031,6 +2037,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-23 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-24 15:17:59 +0000"
     },
     "done": true
   },

@@ -190,3 +190,22 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 15:22:33.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Ab3lny11 a server operator
 [24Apr2025 15:22:35.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
 [24Apr2025 15:22:39.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Made Ab3lny11 no longer a server operator]
+[24Apr2025 15:27:19.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> abel
+[24Apr2025 15:27:22.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eleamhh> habla disc
+[24Apr2025 15:29:40.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has made the advancement [Hot Stuff]
+[24Apr2025 15:31:21.361] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3e4f964
+[24Apr2025 15:31:58.622] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
+[24Apr2025 15:31:58.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
+[24Apr2025 15:31:58.625] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11
+[24Apr2025 15:34:20.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has fallen
+[24Apr2025 15:34:20.255] [Server thread/WARN] [tombstone/]: The death event of the player Eleamhh was canceled by another mod
+[24Apr2025 15:34:20.258] [Server thread/INFO] [tombstone/]: The player Eleamhh has successfully been saved
+[24Apr2025 15:34:33.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh has been revived
+[24Apr2025 15:34:52.173] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@76a0b86d
+[24Apr2025 15:34:52.180] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ab3lny11[/10.144.187.49:55113] logged in with entity id 11338 at (-39.011551417312035, 67.0, 362.94013952821246)
+[24Apr2025 15:34:52.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 joined the game
+[24Apr2025 15:34:52.364] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ab3lny11 (18)
+[24Apr2025 15:34:52.365] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ab3lny11
+[24Apr2025 15:34:53.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
+[24Apr2025 15:34:54.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
+[24Apr2025 15:34:54.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ab3lny11 (959637a6-e34a-3c64-9f5a-575b2ef8bf12) successfully connected to voice chat

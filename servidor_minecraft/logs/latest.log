@@ -149,3 +149,26 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [24Apr2025 14:58:36.954] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4kenyyFn (eb5cc7df-18e1-3852-9321-208fe9affe32) successfully connected to voice chat
 [24Apr2025 15:01:39.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to Eleamhh]
 [24Apr2025 15:03:24.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Amateur Archaeologist]
+[24Apr2025 15:06:53.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to 4kenyyFn]
+[24Apr2025 15:07:54.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to Eleamhh]
+[24Apr2025 15:08:28.333] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2da7d0b3
+[24Apr2025 15:08:28.345] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KerryCabuela[/10.144.230.62:50536] logged in with entity id 3011 at (392.27936226375004, 88.0, 898.1280447699191)
+[24Apr2025 15:08:28.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela joined the game
+[24Apr2025 15:08:28.635] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KerryCabuela (18)
+[24Apr2025 15:08:28.636] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KerryCabuela
+[24Apr2025 15:08:30.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31a5093f-423c-31c9-9aed-09ed3637580c
+[24Apr2025 15:08:31.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31a5093f-423c-31c9-9aed-09ed3637580c
+[24Apr2025 15:08:31.070] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c) successfully connected to voice chat
+[24Apr2025 15:09:22.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
+[24Apr2025 15:09:48.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Creative Mode]
+[24Apr2025 15:13:27.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to 4kenyyFn]
+[24Apr2025 15:14:13.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to Eleamhh]
+[24Apr2025 15:14:40.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
+[24Apr2025 15:14:53.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Creative Mode]
+[24Apr2025 15:15:19.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Spectator Mode]
+[24Apr2025 15:15:50.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to 4kenyyFn]
+[24Apr2025 15:16:37.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to Eleamhh]
+[24Apr2025 15:16:44.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to 4kenyyFn]
+[24Apr2025 15:16:50.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Eleamhh to Ab3lny11]
+[24Apr2025 15:17:02.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
+[24Apr2025 15:17:03.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Creative Mode]

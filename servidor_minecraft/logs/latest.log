@@ -242,3 +242,38 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [25Apr2025 13:35:05.497] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11
 [25Apr2025 13:35:08.839] [Server thread/INFO] [morpheus/]: Maxibon_08 is now sleeping. 1/2 (50%)
 [25Apr2025 13:46:23.839] [Server thread/INFO] [morpheus/]: Maxibon_08 is now sleeping. 1/2 (50%)
+[25Apr2025 13:54:18.287] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets] rejected their client side version number
+[25Apr2025 13:54:18.287] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25Apr2025 13:54:18.336] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@3779c79a[id=<null>,name=KerryCabuela,properties={},legacy=false] (/10.144.230.62:56102) lost connection: Connection closed - mismatched mod channel list
+[25Apr2025 13:54:27.952] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets] rejected their client side version number
+[25Apr2025 13:54:27.953] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25Apr2025 13:54:27.985] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@a38bab0[id=<null>,name=KerryCabuela,properties={},legacy=false] (/10.144.230.62:56103) lost connection: Connection closed - mismatched mod channel list
+[25Apr2025 13:57:27.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxibon_08> PPP
+[25Apr2025 13:57:30.835] [Server thread/INFO] [morpheus/]: Maxibon_08 is now sleeping. 1/2 (50%)
+[25Apr2025 13:58:24.238] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eleamhh lost connection: Disconnected
+[25Apr2025 13:58:24.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh left the game
+[25Apr2025 13:58:24.238] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Eleamhh
+[25Apr2025 13:58:45.791] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@303483e
+[25Apr2025 13:58:45.801] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KerryCabuela[/10.144.230.62:56212] logged in with entity id 36885 at (146.30000001192093, 43.7531999805212, 916.65783745674)
+[25Apr2025 13:58:45.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela joined the game
+[25Apr2025 13:58:45.819] [Server thread/INFO] [Waila/]: Syncing config to KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c)
+[25Apr2025 13:58:47.485] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KerryCabuela (18)
+[25Apr2025 13:58:47.486] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KerryCabuela
+[25Apr2025 13:58:50.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31a5093f-423c-31c9-9aed-09ed3637580c
+[25Apr2025 13:58:54.801] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31a5093f-423c-31c9-9aed-09ed3637580c
+[25Apr2025 13:58:54.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c) successfully connected to voice chat
+[25Apr2025 13:59:00.436] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KerryCabuela lost connection: Disconnected
+[25Apr2025 13:59:00.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela left the game
+[25Apr2025 13:59:00.437] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KerryCabuela
+[25Apr2025 13:59:39.183] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@48cb749
+[25Apr2025 13:59:39.187] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: soykraatos[/10.144.141.63:52132] logged in with entity id 37212 at (204.5, 72.0, 140.5)
+[25Apr2025 13:59:39.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: soykraatos joined the game
+[25Apr2025 13:59:39.230] [Server thread/INFO] [Waila/]: Syncing config to soykraatos (0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89)
+[25Apr2025 13:59:40.033] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of soykraatos (18)
+[25Apr2025 13:59:40.034] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to soykraatos
+[25Apr2025 13:59:41.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89
+[25Apr2025 13:59:42.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89
+[25Apr2025 13:59:42.510] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player soykraatos (0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89) successfully connected to voice chat
+[25Apr2025 13:59:55.032] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxibon_08 lost connection: Disconnected
+[25Apr2025 13:59:55.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 left the game
+[25Apr2025 13:59:55.033] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Maxibon_08

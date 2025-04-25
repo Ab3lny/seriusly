@@ -1,4 +1,15 @@
 
+#Allows to enable some features related to others mods
+[compatibility]
+	#Allows to provide a magic book slot in Curio mod used to enchant with a soul [false/true|default:true]
+	curio_magic_book_support = true
+	#Allows to auto-equip the slots from Curio mod [false/true|default:true]
+	curio_auto_equip = true
+	#Keeps the cosmetic armor when you die [false/true|default:true]
+	keep_cosmetic_armor = true
+	#Ensure the potion effects to stay on the player after returning from end conquered [false/true|default:true]
+	preserve_effects_on_return_end_conquered = true
+
 #Options related to player's death
 [player_death]
 	#Prevents death outside the borders of the world [false/true|default:true]
@@ -222,15 +233,4 @@
 	#Maximum xp rewarded with a Lost Page of Erdös [1..200000|default:2000]
 	#Range: 1 ~ 200000
 	max_xp_lost_page = 2000
-
-#Allows to enable some features related to others mods
-[compatibility]
-	#Allows to provide a magic book slot in Curio mod used to enchant with a soul [false/true|default:true]
-	curio_magic_book_support = true
-	#Allows to auto-equip the slots from Curio mod [false/true|default:true]
-	curio_auto_equip = true
-	#Keeps the cosmetic armor when you die [false/true|default:true]
-	keep_cosmetic_armor = true
-	#Ensure the potion effects to stay on the player after returning from end conquered [false/true|default:true]
-	preserve_effects_on_return_end_conquered = true
 

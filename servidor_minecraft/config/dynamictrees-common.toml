@@ -1,4 +1,11 @@
 
+#World Generation Settings
+[world]
+	#World Generation produces Dynamic Trees instead of Vanilla trees.
+	worldGen = true
+	#Blacklist of dimension registry names for disabling Dynamic Tree worldgen (tree cancellers need to be configured individually for biomes in dynamictrees/tree_canceller.json)
+	dimensionsBlacklist = []
+
 #Vanilla Trees Settings
 [vanilla]
 	#Right clicking with a vanilla sapling places a dynamic sapling instead.
@@ -12,13 +19,6 @@
 [misc]
 	#If enabled, dirt bucket recipes will be automatically generated.
 	generateDirtBucketRecipes = true
-
-#World Generation Settings
-[world]
-	#World Generation produces Dynamic Trees instead of Vanilla trees.
-	worldGen = true
-	#Blacklist of dimension registry names for disabling Dynamic Tree worldgen (tree cancellers need to be configured individually for biomes in dynamictrees/tree_canceller.json)
-	dimensionsBlacklist = []
 
 #Mod Integration Settings
 [integration]

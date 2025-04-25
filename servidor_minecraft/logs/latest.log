@@ -1,65 +1,65 @@
-[24Apr2025 21:22:22.315] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[24Apr2025 21:22:22.318] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
-[24Apr2025 21:22:22.700] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[24Apr2025 21:22:22.781] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/seriusly/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[24Apr2025 21:22:23.452] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24Apr2025 21:22:23.556] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24Apr2025 21:22:23.564] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24Apr2025 21:22:23.570] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24Apr2025 21:22:23.577] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24Apr2025 21:22:25.012] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[24Apr2025 21:22:35.615] [modloading-worker-3/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
-[24Apr2025 21:22:35.771] [modloading-worker-2/INFO] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Starting...
-[24Apr2025 21:22:35.773] [modloading-worker-2/WARN] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Not supported on dedicated server!
-[24Apr2025 21:22:35.784] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[24Apr2025 21:22:35.784] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[24Apr2025 21:22:36.331] [modloading-worker-2/INFO] [expandability/]: ExpandAbility here, who dis?
-[24Apr2025 21:22:37.037] [modloading-worker-3/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
-[24Apr2025 21:22:41.583] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[24Apr2025 21:22:41.593] [modloading-worker-2/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:goblin_trader, use EntityAttributeCreationEvent instead.
-[24Apr2025 21:22:41.594] [modloading-worker-2/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:vein_goblin_trader, use EntityAttributeCreationEvent instead.
-[24Apr2025 21:22:41.724] [modloading-worker-0/WARN] [morpheus/]: New day handler for dimension ResourceKey[minecraft:dimension / minecraft:overworld] has been replaced
-[24Apr2025 21:22:41.836] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[24Apr2025 21:22:41.859] [modloading-worker-0/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
-[24Apr2025 21:22:41.860] [modloading-worker-0/INFO] [Dungeon Crawl/]: minecraft:overworld
-[24Apr2025 21:22:41.869] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Loading plugins
-[24Apr2025 21:22:41.890] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[24Apr2025 21:22:41.891] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Initializing plugins
-[24Apr2025 21:22:41.891] [modloading-worker-3/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[24Apr2025 21:22:41.957] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[24Apr2025 21:22:42.244] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[24Apr2025 21:22:42.287] [modloading-worker-2/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[24Apr2025 21:22:42.288] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[24Apr2025 21:22:42.298] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[24Apr2025 21:22:42.298] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[24Apr2025 21:22:42.463] [modloading-worker-1/INFO] [Waila/]: Registered plugin at snownee.jade.JadePlugin
-[24Apr2025 21:22:42.475] [modloading-worker-1/INFO] [Waila/]: Registered plugin at snownee.jade.JadeClientPlugin
-[24Apr2025 21:22:42.488] [modloading-worker-1/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[24Apr2025 21:22:42.500] [modloading-worker-1/INFO] [Waila/]: Registered plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[24Apr2025 21:22:42.512] [modloading-worker-1/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[24Apr2025 21:22:42.529] [modloading-worker-1/INFO] [Waila/]: Registered plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
-[24Apr2025 21:22:42.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: AHEAD Current: 3.0.1 Target: null
-[24Apr2025 21:22:42.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[24Apr2025 21:22:42.768] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[25Apr2025 08:04:29.043] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[25Apr2025 08:04:29.049] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
+[25Apr2025 08:04:29.421] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[25Apr2025 08:04:29.506] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/seriusly/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[25Apr2025 08:04:30.171] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[25Apr2025 08:04:30.272] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[25Apr2025 08:04:30.279] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[25Apr2025 08:04:30.286] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[25Apr2025 08:04:30.295] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[25Apr2025 08:04:31.608] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[25Apr2025 08:04:41.651] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[25Apr2025 08:04:41.851] [modloading-worker-2/INFO] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Starting...
+[25Apr2025 08:04:41.852] [modloading-worker-2/WARN] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Not supported on dedicated server!
+[25Apr2025 08:04:41.881] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[25Apr2025 08:04:41.881] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[25Apr2025 08:04:42.558] [modloading-worker-0/INFO] [expandability/]: ExpandAbility here, who dis?
+[25Apr2025 08:04:43.410] [modloading-worker-2/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[25Apr2025 08:04:48.505] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[25Apr2025 08:04:48.516] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:goblin_trader, use EntityAttributeCreationEvent instead.
+[25Apr2025 08:04:48.527] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for goblintraders:vein_goblin_trader, use EntityAttributeCreationEvent instead.
+[25Apr2025 08:04:48.627] [modloading-worker-0/WARN] [morpheus/]: New day handler for dimension ResourceKey[minecraft:dimension / minecraft:overworld] has been replaced
+[25Apr2025 08:04:48.749] [modloading-worker-1/INFO] [Dungeon Crawl/]: Common Setup
+[25Apr2025 08:04:48.758] [modloading-worker-1/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
+[25Apr2025 08:04:48.764] [modloading-worker-1/INFO] [Dungeon Crawl/]: minecraft:overworld
+[25Apr2025 08:04:48.801] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Loading plugins
+[25Apr2025 08:04:48.833] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[25Apr2025 08:04:48.834] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Initializing plugins
+[25Apr2025 08:04:48.834] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[25Apr2025 08:04:48.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[25Apr2025 08:04:49.062] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[25Apr2025 08:04:49.104] [modloading-worker-3/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[25Apr2025 08:04:49.104] [modloading-worker-2/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[25Apr2025 08:04:49.108] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[25Apr2025 08:04:49.108] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[25Apr2025 08:04:49.292] [modloading-worker-1/INFO] [Waila/]: Registered plugin at snownee.jade.JadePlugin
+[25Apr2025 08:04:49.294] [modloading-worker-1/INFO] [Waila/]: Registered plugin at snownee.jade.JadeClientPlugin
+[25Apr2025 08:04:49.304] [modloading-worker-1/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[25Apr2025 08:04:49.317] [modloading-worker-1/INFO] [Waila/]: Registered plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[25Apr2025 08:04:49.323] [modloading-worker-1/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[25Apr2025 08:04:49.338] [modloading-worker-1/INFO] [Waila/]: Registered plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
+[25Apr2025 08:04:49.486] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: AHEAD Current: 3.0.1 Target: null
+[25Apr2025 08:04:49.486] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[25Apr2025 08:04:49.656] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[24Apr2025 21:22:42.771] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[24Apr2025 21:22:43.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.7.3 Target: 1.7.3
-[24Apr2025 21:22:43.814] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[24Apr2025 21:22:44.080] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.9.12.1 Target: null
-[24Apr2025 21:22:44.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[24Apr2025 21:22:44.093] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 6.9.6 Target: null
-[24Apr2025 21:22:44.093] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Starting version check at https://api.modrinth.com/updates/betterf3/forge_updates.json
-[24Apr2025 21:22:44.306] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Found status: UP_TO_DATE Current: 1.5.0 Target: null
-[24Apr2025 21:22:44.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Apr2025 21:22:44.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[24Apr2025 21:22:44.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[24Apr2025 21:22:44.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: UP_TO_DATE Current: 1.16.5-0.10.5 Target: null
-[24Apr2025 21:22:44.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refinedstorage] Starting version check at https://refinedmods.com/refined-storage/update.json
-[24Apr2025 21:22:44.834] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[25Apr2025 08:04:49.662] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[25Apr2025 08:04:50.703] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.7.3 Target: 1.7.3
+[25Apr2025 08:04:50.707] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[25Apr2025 08:04:51.008] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.9.12.1 Target: null
+[25Apr2025 08:04:51.011] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[25Apr2025 08:04:51.023] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 6.9.6 Target: null
+[25Apr2025 08:04:51.023] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Starting version check at https://api.modrinth.com/updates/betterf3/forge_updates.json
+[25Apr2025 08:04:51.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Found status: UP_TO_DATE Current: 1.5.0 Target: null
+[25Apr2025 08:04:51.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[25Apr2025 08:04:51.612] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[25Apr2025 08:04:51.612] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[25Apr2025 08:04:51.936] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: UP_TO_DATE Current: 1.16.5-0.10.5 Target: null
+[25Apr2025 08:04:51.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refinedstorage] Starting version check at https://refinedmods.com/refined-storage/update.json
+[25Apr2025 08:04:52.011] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.io.FileNotFoundException: https://refinedmods.com/refined-storage/update.json
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
@@ -83,197 +83,58 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334) ~[?:?]
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:145) ~[forge:?]
 	... 3 more
-[24Apr2025 21:22:52.600] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24Apr2025 21:22:54.112] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[24Apr2025 21:22:54.113] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24Apr2025 21:22:54.115] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24Apr2025 21:22:54.116] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[24Apr2025 21:22:54.117] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24Apr2025 21:22:54.119] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[24Apr2025 21:22:54.128] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, voicechat-forge-1.16.5-2.5.30.jar, tombstone-1.16.5-6.9.6.jar, DungeonCrawl-1.16.5-2.3.12 (1).jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, jei-1.16.5-7.8.0.1009.jar, cloth-config-4.17.132-forge.jar, BetterF3-1.5.0-Forge-1.16.5.jar, invocore-1.16.5-1.9.26.jar, goblintraders-1.7.3-1.16.5.jar, expandability-2.0.1-forge.jar, curios-forge-1.16.5-4.1.0.0.jar, DynamicTrees-1.16.5-0.10.5.jar, Xaeros_Minimap_25.2.0_Forge_1.16.5.jar, refinedstorage-1.9.18.jar, revive-me-1.16.5-1.11.2.jar, XaerosWorldMap_1.39.4_Forge_1.16.5.jar, ironchest-1.16.5-11.2.21.jar, [1.16.5] SecurityCraft v1.9.12.1.jar, Artifacts-1.16.5-2.10.5.jar, comforts-forge-1.16.5-4.0.1.5.jar, mcw-bridges-3.0.1-mc1.16.5forge.jar, Jade-1.16.4-2.8.3.jar, InvView_Forge-1.3.0-1.16.5.jar, elevatorid-1.16.5-1.7.13.jar, Morpheus-1.16.5-4.2.70.jar, appleskin-forge-mc1.16.x-2.5.1.jar, PlayerTrade-1.16.5-1.1.jar
-[24Apr2025 21:22:57.168] [Worker-Main-6/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load block tag minecraft:combination_step_sound_blocks as it is missing following references: #minecraft:wool_carpets (from Default),minecraft:moss_carpet (from Default),#minecraft:wool_carpets (from mcw-bridges-3.0.1-mc1.16.5forge.jar),minecraft:moss_carpet (from mcw-bridges-3.0.1-mc1.16.5forge.jar)
-[24Apr2025 21:22:57.213] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:chests/iron_silver_chest as it's serializer returned null
-[24Apr2025 21:22:57.230] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:upgrades/copper_to_iron_chest_upgrade as it's serializer returned null
-[24Apr2025 21:22:57.248] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:chests/silver_diamond_chest as it's serializer returned null
-[24Apr2025 21:22:57.272] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:chests/vanilla_copper_chest as it's serializer returned null
-[24Apr2025 21:22:57.305] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:upgrades/silver_to_gold_chest_upgrade as it's serializer returned null
-[24Apr2025 21:22:57.307] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:chests/copper_iron_chest as it's serializer returned null
-[24Apr2025 21:22:57.322] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:chests/silver_gold_chest as it's serializer returned null
-[24Apr2025 21:22:57.325] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:upgrades/copper_to_silver_chest_upgrade as it's serializer returned null
-[24Apr2025 21:22:57.337] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:chests/copper_silver_chest as it's serializer returned null
-[24Apr2025 21:22:57.341] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:upgrades/wood_to_copper_chest_upgrade as it's serializer returned null
-[24Apr2025 21:22:57.346] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
-[24Apr2025 21:22:59.521] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2234 advancements
-[24Apr2025 21:22:59.531] [Worker-Main-6/INFO] [Dungeon Crawl/]: Loading data...
-[24Apr2025 21:23:00.722] [Worker-Main-6/INFO] [Dungeon Crawl/]: Done.
-[24Apr2025 21:23:06.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[24Apr2025 21:23:06.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Apr2025 21:23:06.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Apr2025 21:23:06.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Apr2025 21:23:07.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Apr2025 21:23:07.084] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[24Apr2025 21:23:07.285] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Apr2025 21:23:07.286] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Apr2025 21:23:07.286] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Apr2025 21:23:07.286] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Apr2025 21:23:07.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Apr2025 21:23:08.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Apr2025 21:23:11.969] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Apr2025 21:23:11.971] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Apr2025 21:23:11.971] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Apr2025 21:23:11.971] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Apr2025 21:23:11.973] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Apr2025 21:23:11.973] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Apr2025 21:23:11.973] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Apr2025 21:23:11.974] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Apr2025 21:23:12.461] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Apr2025 21:23:12.780] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 46%
-[24Apr2025 21:23:13.029] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4934 ms
-[24Apr2025 21:23:13.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.690s)! For help, type "help"
-[24Apr2025 21:23:13.157] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[24Apr2025 21:23:13.205] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[24Apr2025 21:23:41.792] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@618219b1
-[24Apr2025 21:23:41.833] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ab3lny11[/10.144.187.49:54403] logged in with entity id 364 at (-37.27195303587245, 67.79673560066871, 344.9486927508921)
-[24Apr2025 21:23:41.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 joined the game
-[24Apr2025 21:23:42.023] [Server thread/INFO] [Waila/]: Syncing config to Ab3lny11 (959637a6-e34a-3c64-9f5a-575b2ef8bf12)
-[24Apr2025 21:23:42.095] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ab3lny11 (18)
-[24Apr2025 21:23:42.098] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ab3lny11
-[24Apr2025 21:23:43.071] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
-[24Apr2025 21:23:44.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
-[24Apr2025 21:23:44.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ab3lny11 (959637a6-e34a-3c64-9f5a-575b2ef8bf12) successfully connected to voice chat
-[24Apr2025 21:24:03.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Ab3lny11 a server operator
-[24Apr2025 21:24:10.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Creative Mode]
-[24Apr2025 21:24:19.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Ice Bucket Challenge]
-[24Apr2025 21:24:24.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
-[24Apr2025 21:25:00.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Creative Mode]
-[24Apr2025 21:25:11.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
-[24Apr2025 21:25:14.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Made Ab3lny11 no longer a server operator]
-[24Apr2025 21:32:10.673] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7aff888e
-[24Apr2025 21:32:10.683] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KerryCabuela[/10.144.230.62:53740] logged in with entity id 1416 at (387.1891538874959, 88.0, 906.4921333171202)
-[24Apr2025 21:32:10.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela joined the game
-[24Apr2025 21:32:10.851] [Server thread/INFO] [Waila/]: Syncing config to KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c)
-[24Apr2025 21:32:11.171] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KerryCabuela (18)
-[24Apr2025 21:32:11.172] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KerryCabuela
-[24Apr2025 21:32:12.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31a5093f-423c-31c9-9aed-09ed3637580c
-[24Apr2025 21:32:13.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31a5093f-423c-31c9-9aed-09ed3637580c
-[24Apr2025 21:32:13.610] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c) successfully connected to voice chat
-[24Apr2025 21:32:37.012] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
-[24Apr2025 21:32:37.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
-[24Apr2025 21:32:37.017] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11
-[24Apr2025 21:33:15.756] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KerryCabuela lost connection: Disconnected
-[24Apr2025 21:33:15.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela left the game
-[24Apr2025 21:33:15.757] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KerryCabuela
-[24Apr2025 21:33:26.064] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@a332bb1
-[24Apr2025 21:33:26.075] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KerryCabuela[/10.144.230.62:53765] logged in with entity id 2293 at (327.3104521258015, 88.0, 965.4200813676308)
-[24Apr2025 21:33:26.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela joined the game
-[24Apr2025 21:33:26.091] [Server thread/INFO] [Waila/]: Syncing config to KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c)
-[24Apr2025 21:33:26.305] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KerryCabuela (18)
-[24Apr2025 21:33:26.305] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KerryCabuela
-[24Apr2025 21:33:27.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31a5093f-423c-31c9-9aed-09ed3637580c
-[24Apr2025 21:33:28.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31a5093f-423c-31c9-9aed-09ed3637580c
-[24Apr2025 21:33:28.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c) successfully connected to voice chat
-[24Apr2025 21:35:15.366] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3937b9ae
-[24Apr2025 21:35:15.374] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ab3lny11[/10.144.187.49:55126] logged in with entity id 2677 at (-56.52494795177868, 55.0, 394.3709256389042)
-[24Apr2025 21:35:15.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 joined the game
-[24Apr2025 21:35:15.384] [Server thread/INFO] [Waila/]: Syncing config to Ab3lny11 (959637a6-e34a-3c64-9f5a-575b2ef8bf12)
-[24Apr2025 21:35:16.096] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ab3lny11 (18)
-[24Apr2025 21:35:16.097] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ab3lny11
-[24Apr2025 21:35:17.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
-[24Apr2025 21:35:18.745] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
-[24Apr2025 21:35:18.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ab3lny11 (959637a6-e34a-3c64-9f5a-575b2ef8bf12) successfully connected to voice chat
-[24Apr2025 21:35:47.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Neighborhood Brawl]
-[24Apr2025 21:40:00.612] [Server thread/INFO] [morpheus/]: KerryCabuela is now sleeping. 1/2 (50%)
-[24Apr2025 21:46:12.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Ambush]
-[24Apr2025 21:46:12.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [Voluntary Exile]
-[24Apr2025 21:49:23.458] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/6324, l='ServerLevel[world]', x=-228.30, y=66.42, z=36.52] died, message: 'Farmer was slain by Vindicator'
-[24Apr2025 21:49:35.858] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/6323, l='ServerLevel[world]', x=-258.50, y=63.00, z=41.45] died, message: 'Villager was slain by Vindicator'
-[24Apr2025 21:50:13.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Ambush]
-[24Apr2025 21:50:13.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Voluntary Exile]
-[24Apr2025 21:50:31.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has reached the goal [Fortuitous Militia]
-[24Apr2025 21:51:42.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
-[24Apr2025 21:51:42.371] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
-[24Apr2025 21:51:42.378] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
-[24Apr2025 21:51:52.755] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/6328, l='ServerLevel[world]', x=-188.30, y=71.00, z=23.50] died, message: 'Farmer was slain by Zombie'
-[24Apr2025 21:51:57.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
-[24Apr2025 21:52:39.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Ol' Betsy]
-[24Apr2025 21:52:59.607] [Server thread/INFO] [morpheus/]: KerryCabuela is now sleeping. 1/2 (50%)
-[24Apr2025 21:53:15.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
-[24Apr2025 21:53:15.811] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
-[24Apr2025 21:53:15.815] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
-[24Apr2025 21:53:29.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
-[24Apr2025 21:53:31.811] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/6269, l='ServerLevel[world]', x=-266.60, y=69.00, z=29.40] died, message: 'Villager was slain by Vindicator'
-[24Apr2025 21:53:33.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has reached the goal [Fortuitous Militia]
-[24Apr2025 21:53:35.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has reached the goal [Postmortal]
-[24Apr2025 21:53:35.660] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
-[24Apr2025 21:53:36.473] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7b71a673
-[24Apr2025 21:53:36.485] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Maxibon_08[/10.144.115.47:50781] logged in with entity id 7668 at (-487.4462919370982, 64.875, 914.3000000119209)
-[24Apr2025 21:53:36.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 joined the game
-[24Apr2025 21:53:36.562] [Server thread/INFO] [Waila/]: Syncing config to Maxibon_08 (c4bab696-bad4-3a05-90f0-897301d60b58)
-[24Apr2025 21:53:37.195] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Maxibon_08 (18)
-[24Apr2025 21:53:37.196] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Maxibon_08
-[24Apr2025 21:53:38.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c4bab696-bad4-3a05-90f0-897301d60b58
-[24Apr2025 21:53:39.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c4bab696-bad4-3a05-90f0-897301d60b58
-[24Apr2025 21:53:39.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Maxibon_08 (c4bab696-bad4-3a05-90f0-897301d60b58) successfully connected to voice chat
-[24Apr2025 21:53:39.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has fallen
-[24Apr2025 21:53:39.809] [Server thread/WARN] [tombstone/]: The death event of the player Ab3lny11 was canceled by another mod
-[24Apr2025 21:53:39.819] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
-[24Apr2025 21:53:40.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
-[24Apr2025 21:53:40.158] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
-[24Apr2025 21:53:40.174] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
-[24Apr2025 21:53:48.006] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/6270, l='ServerLevel[world]', x=-275.37, y=70.00, z=28.03] died, message: 'Villager was slain by Vindicator'
-[24Apr2025 21:54:00.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has been revived
-[24Apr2025 21:54:04.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela was slain by Iron Golem
-[24Apr2025 21:54:04.180] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
-[24Apr2025 21:55:23.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has fallen
-[24Apr2025 21:55:23.186] [Server thread/WARN] [tombstone/]: The death event of the player Ab3lny11 was canceled by another mod
-[24Apr2025 21:55:23.188] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
-[24Apr2025 21:55:42.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has been revived
-[24Apr2025 21:56:44.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has fallen
-[24Apr2025 21:56:44.907] [Server thread/WARN] [tombstone/]: The death event of the player Ab3lny11 was canceled by another mod
-[24Apr2025 21:56:44.909] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
-[24Apr2025 21:56:52.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has been revived
-[24Apr2025 21:58:23.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has completed the challenge [Hero of the Village]
-[24Apr2025 21:58:23.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has completed the challenge [Hero of the Village]
-[24Apr2025 22:03:55.616] [Server thread/INFO] [morpheus/]: Maxibon_08 is now sleeping. 1/3 (33%)
-[24Apr2025 22:04:06.615] [Server thread/INFO] [morpheus/]: Maxibon_08 has left their bed. 0/3 (0%)
-[24Apr2025 22:04:09.612] [Server thread/INFO] [morpheus/]: KerryCabuela is now sleeping. 1/3 (33%)
-[24Apr2025 22:04:17.611] [Server thread/INFO] [morpheus/]: Maxibon_08 is now sleeping. 2/3 (66%)
-[24Apr2025 22:05:05.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has made the advancement [What a Deal!]
-[24Apr2025 22:13:55.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [What a Deal!]
-[24Apr2025 22:14:55.614] [Server thread/INFO] [morpheus/]: KerryCabuela is now sleeping. 1/3 (33%)
-[24Apr2025 22:14:59.613] [Server thread/INFO] [morpheus/]: Maxibon_08 is now sleeping. 2/3 (66%)
-[24Apr2025 22:16:46.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has fallen
-[24Apr2025 22:16:46.619] [Server thread/WARN] [tombstone/]: The death event of the player Ab3lny11 was canceled by another mod
-[24Apr2025 22:16:46.621] [Server thread/INFO] [tombstone/]: The player Ab3lny11 has successfully been saved
-[24Apr2025 22:17:16.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has been revived
-[24Apr2025 22:31:56.321] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
-[24Apr2025 22:31:56.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
-[24Apr2025 22:31:56.322] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11
-[24Apr2025 22:36:53.764] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxibon_08 lost connection: Disconnected
-[24Apr2025 22:36:53.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 left the game
-[24Apr2025 22:36:53.765] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Maxibon_08
-[24Apr2025 22:38:05.670] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7ff01d3b
-[24Apr2025 22:38:05.679] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ab3lny11[/10.144.187.49:58768] logged in with entity id 24044 at (-48.5, 55.0, 386.5)
-[24Apr2025 22:38:05.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 joined the game
-[24Apr2025 22:38:05.687] [Server thread/INFO] [Waila/]: Syncing config to Ab3lny11 (959637a6-e34a-3c64-9f5a-575b2ef8bf12)
-[24Apr2025 22:38:06.390] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ab3lny11 (18)
-[24Apr2025 22:38:06.391] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ab3lny11
-[24Apr2025 22:38:08.116] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
-[24Apr2025 22:38:09.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
-[24Apr2025 22:38:09.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ab3lny11 (959637a6-e34a-3c64-9f5a-575b2ef8bf12) successfully connected to voice chat
-[24Apr2025 22:38:19.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Ab3lny11 a server operator
-[24Apr2025 22:40:40.505] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
-[24Apr2025 22:40:58.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Made Ab3lny11 no longer a server operator]
-[24Apr2025 22:41:08.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Ab3lny11 a server operator
-[24Apr2025 22:44:16.634] [Server thread/INFO] [STDOUT/]: [net.razorplay.invview_forge.container.PlayerInventoryScreenHandler:func_82846_b:94]: Invalid slotIndex:77
-[24Apr2025 22:44:29.926] [Server thread/INFO] [STDOUT/]: [net.razorplay.invview_forge.container.PlayerInventoryScreenHandler:func_82846_b:94]: Invalid slotIndex:77
-[24Apr2025 22:44:56.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to KerryCabuela]
-[24Apr2025 22:45:26.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to -38.5, 55.5, 381.5]
-[24Apr2025 22:46:16.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to KerryCabuela]
-[24Apr2025 22:51:00.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to -38.5, 55.5, 381.5]
-[24Apr2025 22:51:00.046] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 moved too quickly! -406.19811057607615,-32.5,-511.134118649922
-[24Apr2025 22:51:05.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Made Ab3lny11 no longer a server operator]
-[24Apr2025 22:51:21.611] [Server thread/INFO] [morpheus/]: Ab3lny11 is now sleeping. 1/2 (50%)
-[24Apr2025 22:51:26.462] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
-[24Apr2025 22:51:26.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
-[24Apr2025 22:51:26.463] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11
+[25Apr2025 08:05:00.221] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[25Apr2025 08:05:01.643] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[25Apr2025 08:05:01.650] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[25Apr2025 08:05:01.652] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[25Apr2025 08:05:01.658] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[25Apr2025 08:05:01.663] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[25Apr2025 08:05:01.666] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[25Apr2025 08:05:01.689] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, voicechat-forge-1.16.5-2.5.30.jar, tombstone-1.16.5-6.9.6.jar, DungeonCrawl-1.16.5-2.3.12 (1).jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, jei-1.16.5-7.8.0.1009.jar, cloth-config-4.17.132-forge.jar, BetterF3-1.5.0-Forge-1.16.5.jar, invocore-1.16.5-1.9.26.jar, goblintraders-1.7.3-1.16.5.jar, expandability-2.0.1-forge.jar, curios-forge-1.16.5-4.1.0.0.jar, DynamicTrees-1.16.5-0.10.5.jar, Xaeros_Minimap_25.2.0_Forge_1.16.5.jar, refinedstorage-1.9.18.jar, revive-me-1.16.5-1.11.2.jar, XaerosWorldMap_1.39.4_Forge_1.16.5.jar, ironchest-1.16.5-11.2.21.jar, [1.16.5] SecurityCraft v1.9.12.1.jar, Artifacts-1.16.5-2.10.5.jar, comforts-forge-1.16.5-4.0.1.5.jar, mcw-bridges-3.0.1-mc1.16.5forge.jar, Jade-1.16.4-2.8.3.jar, InvView_Forge-1.3.0-1.16.5.jar, elevatorid-1.16.5-1.7.13.jar, Morpheus-1.16.5-4.2.70.jar, appleskin-forge-mc1.16.x-2.5.1.jar, PlayerTrade-1.16.5-1.1.jar
+[25Apr2025 08:05:04.397] [Worker-Main-4/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load block tag minecraft:combination_step_sound_blocks as it is missing following references: #minecraft:wool_carpets (from Default),minecraft:moss_carpet (from Default),#minecraft:wool_carpets (from mcw-bridges-3.0.1-mc1.16.5forge.jar),minecraft:moss_carpet (from mcw-bridges-3.0.1-mc1.16.5forge.jar)
+[25Apr2025 08:05:04.428] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:chests/iron_silver_chest as it's serializer returned null
+[25Apr2025 08:05:04.442] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:upgrades/copper_to_iron_chest_upgrade as it's serializer returned null
+[25Apr2025 08:05:04.447] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:chests/silver_diamond_chest as it's serializer returned null
+[25Apr2025 08:05:04.484] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:chests/vanilla_copper_chest as it's serializer returned null
+[25Apr2025 08:05:04.532] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:upgrades/silver_to_gold_chest_upgrade as it's serializer returned null
+[25Apr2025 08:05:04.540] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:chests/copper_iron_chest as it's serializer returned null
+[25Apr2025 08:05:04.577] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:chests/silver_gold_chest as it's serializer returned null
+[25Apr2025 08:05:04.579] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:upgrades/copper_to_silver_chest_upgrade as it's serializer returned null
+[25Apr2025 08:05:04.600] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:chests/copper_silver_chest as it's serializer returned null
+[25Apr2025 08:05:04.606] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe ironchest:upgrades/wood_to_copper_chest_upgrade as it's serializer returned null
+[25Apr2025 08:05:04.620] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[25Apr2025 08:05:06.526] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2234 advancements
+[25Apr2025 08:05:06.535] [Worker-Main-4/INFO] [Dungeon Crawl/]: Loading data...
+[25Apr2025 08:05:08.023] [Worker-Main-4/INFO] [Dungeon Crawl/]: Done.
+[25Apr2025 08:05:14.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[25Apr2025 08:05:14.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[25Apr2025 08:05:14.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[25Apr2025 08:05:14.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[25Apr2025 08:05:14.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[25Apr2025 08:05:14.588] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[25Apr2025 08:05:14.937] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[25Apr2025 08:05:14.938] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[25Apr2025 08:05:14.939] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[25Apr2025 08:05:14.939] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[25Apr2025 08:05:15.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[25Apr2025 08:05:16.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[25Apr2025 08:05:18.746] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[25Apr2025 08:05:18.747] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[25Apr2025 08:05:18.749] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[25Apr2025 08:05:18.749] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[25Apr2025 08:05:18.750] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[25Apr2025 08:05:19.253] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[25Apr2025 08:05:19.578] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 44%
+[25Apr2025 08:05:19.935] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3400 ms
+[25Apr2025 08:05:19.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.938s)! For help, type "help"
+[25Apr2025 08:05:20.106] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[25Apr2025 08:05:20.164] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[25Apr2025 08:05:31.481] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@25796301
+[25Apr2025 08:05:31.521] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KerryCabuela[/10.144.230.62:55398] logged in with entity id 363 at (392.4767532041955, 88.0, 904.4006569450061)
+[25Apr2025 08:05:31.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela joined the game
+[25Apr2025 08:05:31.812] [Server thread/INFO] [Waila/]: Syncing config to KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c)
+[25Apr2025 08:05:32.061] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KerryCabuela (18)
+[25Apr2025 08:05:32.064] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KerryCabuela
+[25Apr2025 08:05:33.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31a5093f-423c-31c9-9aed-09ed3637580c
+[25Apr2025 08:05:34.776] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31a5093f-423c-31c9-9aed-09ed3637580c
+[25Apr2025 08:05:34.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c) successfully connected to voice chat

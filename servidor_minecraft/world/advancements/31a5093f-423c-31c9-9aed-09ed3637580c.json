@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-04-24 22:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-23 19:49:01 +0000"
@@ -973,6 +979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-04-24 22:56:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-23 20:06:27 +0000"
@@ -988,6 +1000,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2025-04-24 16:06:58 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-04-24 22:56:56 +0000"
     },
     "done": true
   },
@@ -1102,6 +1120,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-23 20:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-04-24 22:56:12 +0000"
     },
     "done": true
   },
@@ -2099,6 +2123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-04-24 22:56:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
       "has_iron": "2025-04-23 19:36:16 +0000"
@@ -2180,6 +2210,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-23 21:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-04-24 22:56:56 +0000"
     },
     "done": true
   },
@@ -2348,6 +2384,12 @@
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2025-04-23 19:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-04-24 22:56:12 +0000"
     },
     "done": true
   },
@@ -3910,6 +3952,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-24 13:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2025-04-24 22:56:12 +0000"
     },
     "done": true
   },

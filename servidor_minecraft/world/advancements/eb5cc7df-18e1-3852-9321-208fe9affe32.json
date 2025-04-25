@@ -896,6 +896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-25 14:58:38 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/end_stone_bricks_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-25 14:47:41 +0000"
@@ -995,6 +1001,12 @@
   "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-23 19:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-25 14:58:38 +0000"
     },
     "done": true
   },
@@ -1952,6 +1964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-25 14:58:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-04-24 13:28:37 +0000"
@@ -2370,6 +2388,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-04-23 19:40:56 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-25 14:58:38 +0000"
     },
     "done": true
   },
@@ -3630,6 +3654,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-04-23 17:00:43 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-25 14:58:38 +0000"
     },
     "done": true
   },

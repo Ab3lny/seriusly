@@ -200,3 +200,21 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [25Apr2025 14:50:41.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 31a5093f-423c-31c9-9aed-09ed3637580c
 [25Apr2025 14:50:42.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 31a5093f-423c-31c9-9aed-09ed3637580c
 [25Apr2025 14:50:42.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KerryCabuela (31a5093f-423c-31c9-9aed-09ed3637580c) successfully connected to voice chat
+[25Apr2025 14:53:54.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 timed out
+[25Apr2025 14:53:54.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player soykraatos
+[25Apr2025 14:53:54.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to soykraatos
+[25Apr2025 14:53:55.029] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: soykraatos was kicked for floating too long!
+[25Apr2025 14:53:55.064] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: soykraatos lost connection: Flying is not enabled on this server
+[25Apr2025 14:53:55.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: soykraatos left the game
+[25Apr2025 14:53:55.065] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client soykraatos
+[25Apr2025 14:54:20.555] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3ede28f9
+[25Apr2025 14:54:20.565] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: soykraatos[/10.144.141.63:57111] logged in with entity id 13565 at (976.468454915392, 75.17675927506424, 1307.5272500203812)
+[25Apr2025 14:54:20.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: soykraatos joined the game
+[25Apr2025 14:54:20.588] [Server thread/INFO] [Waila/]: Syncing config to soykraatos (0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89)
+[25Apr2025 14:54:20.723] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of soykraatos (18)
+[25Apr2025 14:54:20.724] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to soykraatos
+[25Apr2025 14:54:21.822] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89
+[25Apr2025 14:54:22.827] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89
+[25Apr2025 14:54:22.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player soykraatos (0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89) successfully connected to voice chat
+[25Apr2025 14:54:32.009] [Server thread/INFO] [morpheus/]: soykraatos is now sleeping. 1/3 (33%)
+[25Apr2025 14:54:46.011] [Server thread/INFO] [morpheus/]: soykraatos has left their bed. 0/3 (0%)

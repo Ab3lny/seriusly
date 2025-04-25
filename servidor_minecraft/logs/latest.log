@@ -325,3 +325,10 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [25Apr2025 16:42:18.300] [Server thread/WARN] [tombstone/]: The death event of the player soykraatos was canceled by another mod
 [25Apr2025 16:42:18.301] [Server thread/INFO] [tombstone/]: The player soykraatos has successfully been saved
 [25Apr2025 16:42:33.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: soykraatos has been revived
+[25Apr2025 16:52:14.442] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Shepherd'/58857, l='ServerLevel[world]', x=-478.70, y=64.00, z=915.04] died, message: 'Shepherd was slain by Husk'
+[25Apr2025 16:52:22.541] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/58853, l='ServerLevel[world]', x=-477.81, y=64.00, z=914.32] died, message: 'Villager was slain by Husk'
+[25Apr2025 16:52:26.895] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/58854, l='ServerLevel[world]', x=-477.83, y=64.00, z=915.67] died, message: 'Nitwit was slain by Husk'
+[25Apr2025 16:52:29.743] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/58856, l='ServerLevel[world]', x=-477.79, y=64.00, z=914.70] died, message: 'Villager was slain by Husk'
+[25Apr2025 16:52:34.694] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/58852, l='ServerLevel[world]', x=-477.93, y=64.00, z=914.47] died, message: 'Librarian was slain by Husk'
+[25Apr2025 16:52:36.498] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/58855, l='ServerLevel[world]', x=-478.53, y=64.00, z=914.39] died, message: 'Villager was slain by Zombie Villager'
+[25Apr2025 16:53:31.844] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/58578, l='ServerLevel[world]', x=-511.89, y=65.00, z=904.50] died, message: 'Nitwit was slain by Husk'

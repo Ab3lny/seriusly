@@ -178,3 +178,26 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [25Apr2025 12:09:54.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
 [25Apr2025 12:09:55.220] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 959637a6-e34a-3c64-9f5a-575b2ef8bf12
 [25Apr2025 12:09:55.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ab3lny11 (959637a6-e34a-3c64-9f5a-575b2ef8bf12) successfully connected to voice chat
+[25Apr2025 12:30:37.509] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@cf7b76c
+[25Apr2025 12:30:37.523] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eleamhh[/10.144.215.173:50974] logged in with entity id 4682 at (394.519058667533, 88.0, 898.7111263572963)
+[25Apr2025 12:30:37.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eleamhh joined the game
+[25Apr2025 12:30:37.632] [Server thread/INFO] [Waila/]: Syncing config to Eleamhh (8d672abb-8750-3323-81ed-fa10031483d7)
+[25Apr2025 12:30:38.444] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Eleamhh (18)
+[25Apr2025 12:30:38.445] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Eleamhh
+[25Apr2025 12:30:40.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d672abb-8750-3323-81ed-fa10031483d7
+[25Apr2025 12:30:41.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d672abb-8750-3323-81ed-fa10031483d7
+[25Apr2025 12:30:41.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Eleamhh (8d672abb-8750-3323-81ed-fa10031483d7) successfully connected to voice chat
+[25Apr2025 12:33:28.780] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets] rejected their client side version number
+[25Apr2025 12:33:28.781] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25Apr2025 12:33:28.793] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@77f82644[id=<null>,name=Maxibon_08,properties={},legacy=false] (/10.144.115.47:50148) lost connection: Connection closed - mismatched mod channel list
+[25Apr2025 12:34:30.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has reached the goal [Bone Crusher]
+[25Apr2025 12:37:06.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 has made the advancement [Chest Slayer]
+[25Apr2025 12:37:08.300] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@48c89c58
+[25Apr2025 12:37:08.307] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Maxibon_08[/10.144.115.47:50655] logged in with entity id 8796 at (-466.1964463792217, 59.0, 814.6999999880791)
+[25Apr2025 12:37:08.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 joined the game
+[25Apr2025 12:37:08.329] [Server thread/INFO] [Waila/]: Syncing config to Maxibon_08 (c4bab696-bad4-3a05-90f0-897301d60b58)
+[25Apr2025 12:37:08.963] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Maxibon_08 (18)
+[25Apr2025 12:37:08.964] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Maxibon_08
+[25Apr2025 12:37:10.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c4bab696-bad4-3a05-90f0-897301d60b58
+[25Apr2025 12:37:11.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c4bab696-bad4-3a05-90f0-897301d60b58
+[25Apr2025 12:37:11.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Maxibon_08 (c4bab696-bad4-3a05-90f0-897301d60b58) successfully connected to voice chat

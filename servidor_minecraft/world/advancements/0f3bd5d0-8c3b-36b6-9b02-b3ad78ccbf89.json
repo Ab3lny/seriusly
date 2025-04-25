@@ -5,6 +5,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-25 14:02:08 +0000"
@@ -29,9 +41,21 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
     },
     "done": true
   },
@@ -47,9 +71,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-25 14:28:05 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/brick_bridge": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-25 14:28:08 +0000"
     },
     "done": true
   },
@@ -80,6 +116,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-25 14:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
     },
     "done": true
   },
@@ -125,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:41 +0000"
@@ -137,9 +185,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-25 14:27:07 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_rail_bridge": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-25 14:28:08 +0000"
     },
     "done": true
   },
@@ -161,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-25 14:00:50 +0000"
@@ -175,7 +241,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "porkchop": "2025-04-25 14:16:37 +0000"
+      "cooked_mutton": "2025-04-25 14:26:17 +0000",
+      "porkchop": "2025-04-25 14:16:37 +0000",
+      "cooked_chicken": "2025-04-25 14:21:41 +0000"
     },
     "done": false
   },
@@ -215,6 +283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-25 14:28:08 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/red_sandstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
@@ -239,9 +313,21 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
     },
     "done": true
   },
@@ -311,6 +397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-25 14:00:50 +0000"
@@ -359,6 +451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-04-25 14:00:50 +0000"
@@ -383,6 +481,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-25 14:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-25 14:27:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/eat_easter_egg_food": {
     "criteria": {
       "coded_trigger": "2025-04-25 14:16:37 +0000"
@@ -404,6 +514,12 @@
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-04-25 14:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-25 14:27:07 +0000"
     },
     "done": true
   },
@@ -515,6 +631,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-25 14:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-25 14:16:40 +0000"
@@ -533,9 +661,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
     },
     "done": true
   },
@@ -563,6 +703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-25 14:27:07 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
@@ -584,6 +730,12 @@
   "mcwbridges:recipes/diorite_bridge": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-25 14:28:05 +0000"
     },
     "done": true
   },
@@ -611,6 +763,12 @@
     },
     "done": true
   },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
@@ -623,9 +781,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_orange_sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
     },
     "done": true
   },
@@ -641,6 +811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
@@ -650,6 +826,18 @@
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
     },
     "done": true
   },
@@ -665,9 +853,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-25 14:28:08 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/crimson_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-25 14:28:08 +0000"
     },
     "done": true
   },
@@ -692,6 +898,12 @@
   "mcwbridges:recipes/pliers": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-25 14:22:09 +0000"
     },
     "done": true
   },
@@ -731,6 +943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/crimson_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
@@ -764,6 +982,12 @@
   "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
     },
     "done": true
   },
@@ -833,6 +1057,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-04-25 14:00:29 +0000"
@@ -860,6 +1090,12 @@
   "mcwbridges:recipes/stone_brick_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
     },
     "done": true
   },
@@ -911,6 +1147,19 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-25 14:22:41 +0000",
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-25 14:00:29 +0000"
@@ -932,6 +1181,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
     },
     "done": true
   },
@@ -995,6 +1250,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2025-04-25 14:16:32 +0000"
@@ -1013,6 +1274,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
@@ -1027,8 +1294,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-04-25 14:24:42 +0000",
       "minecraft:desert": "2025-04-25 14:16:46 +0000",
+      "minecraft:savanna_plateau": "2025-04-25 14:22:20 +0000",
       "minecraft:river": "2025-04-25 14:16:45 +0000",
+      "minecraft:savanna": "2025-04-25 14:21:59 +0000",
       "minecraft:plains": "2025-04-25 13:59:39 +0000"
     },
     "done": false
@@ -1036,6 +1306,13 @@
   "mcwbridges:recipes/birch_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-25 14:22:41 +0000",
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
     },
     "done": true
   },
@@ -1135,9 +1412,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-04-25 14:27:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-25 14:02:08 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
     },
     "done": true
   },
@@ -1150,6 +1439,24 @@
   "mcwbridges:recipes/prismarine_bricks_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-25 14:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
     },
     "done": true
   },
@@ -1207,6 +1514,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
@@ -1231,9 +1544,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-04-25 14:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-25 14:22:09 +0000"
     },
     "done": true
   },
@@ -1252,6 +1577,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-04-25 14:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-25 14:22:09 +0000"
     },
     "done": true
   },

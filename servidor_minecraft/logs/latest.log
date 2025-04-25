@@ -274,3 +274,14 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [25Apr2025 16:00:45.220] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
 [25Apr2025 16:00:54.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
 [25Apr2025 16:01:01.348] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/12875, l='ServerLevel[world]', x=285.54, y=70.00, z=670.50] died, message: 'Nitwit was slain by Zombie'
+[25Apr2025 16:05:28.862] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-545, y=64, z=944} BlockPos{x=-545, y=63, z=945}
+[25Apr2025 16:05:28.913] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-545, y=64, z=944} BlockPos{x=-545, y=63, z=945}
+[25Apr2025 16:05:28.963] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-545, y=64, z=944} BlockPos{x=-545, y=63, z=945}
+[25Apr2025 16:05:29.013] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-545, y=64, z=944} BlockPos{x=-545, y=63, z=945}
+[25Apr2025 16:09:30.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: soykraatos has fallen
+[25Apr2025 16:09:30.450] [Server thread/WARN] [tombstone/]: The death event of the player soykraatos was canceled by another mod
+[25Apr2025 16:09:30.453] [Server thread/INFO] [tombstone/]: The player soykraatos has successfully been saved
+[25Apr2025 16:09:44.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: soykraatos has been revived
+[25Apr2025 16:15:06.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
+[25Apr2025 16:15:06.764] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
+[25Apr2025 16:15:06.766] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved

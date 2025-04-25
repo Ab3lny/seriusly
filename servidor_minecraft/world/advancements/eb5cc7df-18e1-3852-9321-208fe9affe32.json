@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-25 16:57:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-23 20:28:50 +0000"
@@ -1671,6 +1677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-25 16:57:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-04-23 19:20:06 +0000"
@@ -2635,6 +2647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-25 16:57:53 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-04-25 14:47:41 +0000"
@@ -3223,6 +3241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-25 16:57:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-23 20:08:30 +0000"
@@ -3448,6 +3472,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-23 20:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-25 16:54:18 +0000"
     },
     "done": true
   },

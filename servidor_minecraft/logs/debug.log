@@ -13492,3 +13492,69 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [25Apr2025 16:53:31.844] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/58578, l='ServerLevel[world]', x=-511.89, y=65.00, z=904.50] died, message: 'Nitwit was slain by Husk'
 [25Apr2025 16:53:53.342] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [25Apr2025 16:53:53.346] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Apr2025 16:56:27.803] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxibon_08 lost connection: Disconnected
+[25Apr2025 16:56:27.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 left the game
+[25Apr2025 16:56:27.804] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Maxibon_08
+[25Apr2025 16:56:27.804] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Maxibon_08
+[25Apr2025 16:56:27.830] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player c4bab696-bad4-3a05-90f0-897301d60b58 does not have a secret
+[25Apr2025 16:57:41.547] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/58577, l='ServerLevel[world]', x=-523.50, y=66.00, z=878.31] died, message: 'Farmer was blown up by Creeper'
+[25Apr2025 16:57:41.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has fallen
+[25Apr2025 16:57:41.549] [Server thread/WARN] [tombstone/]: The death event of the player 4kenyyFn was canceled by another mod
+[25Apr2025 16:57:41.561] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[25Apr2025 16:57:48.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has been revived
+[25Apr2025 16:58:53.292] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Apr2025 16:58:53.296] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Apr2025 17:03:27.765] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of KerryCabuela: {disabled=true, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=eaaf95ef-41f7-471f-8ed0-d8b3dbbd34a5}
+[25Apr2025 17:03:42.324] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [6,104]
+[25Apr2025 17:03:42.324] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [6,104]
+[25Apr2025 17:03:42.327] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [6,103]
+[25Apr2025 17:03:42.327] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [6,103]
+[25Apr2025 17:03:42.331] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [6,100]
+[25Apr2025 17:03:42.331] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (111 | 49 | 1598)
+[25Apr2025 17:03:42.331] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (111 | 49 | 1598)
+[25Apr2025 17:03:42.331] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (90 | 31 | 1595)
+[25Apr2025 17:03:42.332] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (90 | 31 | 1595)
+[25Apr2025 17:03:42.332] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [6,100]
+[25Apr2025 17:03:42.336] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [6,101]
+[25Apr2025 17:03:42.336] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (111 | 40 | 1625)
+[25Apr2025 17:03:42.336] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (111 | 40 | 1625)
+[25Apr2025 17:03:42.336] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [6,101]
+[25Apr2025 17:03:42.341] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [6,102]
+[25Apr2025 17:03:42.341] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (111 | 40 | 1625)
+[25Apr2025 17:03:42.341] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (111 | 40 | 1625)
+[25Apr2025 17:03:42.341] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [6,102]
+[25Apr2025 17:03:53.357] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Apr2025 17:03:53.361] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Apr2025 17:03:55.814] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of KerryCabuela: {disabled=false, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=eaaf95ef-41f7-471f-8ed0-d8b3dbbd34a5}
+[25Apr2025 17:04:16.715] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,103]
+[25Apr2025 17:04:16.715] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,103]
+[25Apr2025 17:04:16.720] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,102]
+[25Apr2025 17:04:16.720] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,102]
+[25Apr2025 17:04:16.723] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,101]
+[25Apr2025 17:04:16.723] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,101]
+[25Apr2025 17:04:16.727] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,100]
+[25Apr2025 17:04:16.727] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (90 | 31 | 1595)
+[25Apr2025 17:04:16.727] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (90 | 31 | 1595)
+[25Apr2025 17:04:16.727] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,100]
+[25Apr2025 17:04:16.732] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,99]
+[25Apr2025 17:04:16.732] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (94 | 31 | 1584)
+[25Apr2025 17:04:16.732] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (94 | 31 | 1584)
+[25Apr2025 17:04:16.732] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (95 | 31 | 1594)
+[25Apr2025 17:04:16.732] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (95 | 31 | 1594)
+[25Apr2025 17:04:16.732] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (94 | 31 | 1589)
+[25Apr2025 17:04:16.732] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (94 | 31 | 1589)
+[25Apr2025 17:04:16.732] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (90 | 31 | 1595)
+[25Apr2025 17:04:16.732] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_90 at (90 | 31 | 1595)
+[25Apr2025 17:04:16.732] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,99]
+[25Apr2025 17:04:16.738] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,98]
+[25Apr2025 17:04:16.738] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation COUNTERCLOCKWISE_90 at (89 | 30 | 1567)
+[25Apr2025 17:04:16.739] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation COUNTERCLOCKWISE_90 at (89 | 30 | 1567)
+[25Apr2025 17:04:16.739] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,98]
+[25Apr2025 17:04:16.743] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,97]
+[25Apr2025 17:04:16.744] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (90 | 31 | 1541)
+[25Apr2025 17:04:16.744] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (90 | 31 | 1541)
+[25Apr2025 17:04:16.744] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation COUNTERCLOCKWISE_90 at (89 | 30 | 1567)
+[25Apr2025 17:04:16.744] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation COUNTERCLOCKWISE_90 at (89 | 30 | 1567)
+[25Apr2025 17:04:16.744] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,97]
+[25Apr2025 17:04:16.776] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [5,104]
+[25Apr2025 17:04:16.776] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [5,104]

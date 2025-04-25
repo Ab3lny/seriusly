@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-25 15:21:33 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-04-24 12:43:00 +0000"
@@ -941,6 +947,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-24 15:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-25 15:21:33 +0000"
     },
     "done": true
   },
@@ -1747,6 +1759,7 @@
       "minecraft:savanna_plateau": "2025-04-24 16:34:15 +0000",
       "minecraft:dark_forest": "2025-04-23 20:23:50 +0000",
       "minecraft:river": "2025-04-23 17:03:30 +0000",
+      "minecraft:wooded_mountains": "2025-04-25 15:23:46 +0000",
       "minecraft:wooded_hills": "2025-04-23 19:41:34 +0000",
       "minecraft:swamp": "2025-04-24 12:46:56 +0000",
       "minecraft:savanna": "2025-04-23 17:03:26 +0000",
@@ -2205,6 +2218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-25 15:22:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-23 19:32:23 +0000"
@@ -2415,6 +2434,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-25 15:19:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2025-04-23 19:19:48 +0000"
@@ -2561,6 +2586,7 @@
       "mutton": "2025-04-23 19:24:46 +0000",
       "bread": "2025-04-23 19:26:42 +0000",
       "golden_apple": "2025-04-23 20:35:16 +0000",
+      "melon_slice": "2025-04-25 15:22:56 +0000",
       "golden_carrot": "2025-04-23 21:15:06 +0000"
     },
     "done": false
@@ -2568,6 +2594,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-04-23 19:19:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-04-25 15:19:14 +0000"
     },
     "done": true
   },
@@ -2682,6 +2714,12 @@
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2025-04-23 19:22:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-25 15:19:12 +0000"
     },
     "done": true
   },
@@ -2886,6 +2924,12 @@
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-24 13:47:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-04-25 15:19:12 +0000"
     },
     "done": true
   },
@@ -4320,6 +4364,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-23 19:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-25 15:21:33 +0000"
     },
     "done": true
   },

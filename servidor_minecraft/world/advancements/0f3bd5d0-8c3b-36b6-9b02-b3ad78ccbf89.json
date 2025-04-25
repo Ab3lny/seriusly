@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-25 15:31:18 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
@@ -77,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-25 15:31:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-04-25 14:42:29 +0000"
@@ -101,6 +113,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-25 15:17:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-25 14:00:50 +0000"
@@ -116,6 +134,12 @@
   "mcwbridges:recipes/mossy_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-25 15:31:18 +0000"
     },
     "done": true
   },
@@ -649,6 +673,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-25 15:17:36 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
@@ -682,6 +712,12 @@
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-04-25 15:33:06 +0000"
     },
     "done": true
   },
@@ -881,6 +917,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-25 15:31:18 +0000"
     },
     "done": true
   },
@@ -1124,6 +1166,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-04-25 14:42:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-25 15:14:56 +0000"
     },
     "done": true
   },
@@ -1460,6 +1508,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-04-25 14:26:17 +0000",
+      "cooked_beef": "2025-04-25 15:32:04 +0000",
       "beef": "2025-04-25 14:45:21 +0000",
       "porkchop": "2025-04-25 14:16:37 +0000",
       "apple": "2025-04-25 15:03:25 +0000",
@@ -1619,6 +1668,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-25 15:26:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-25 14:00:29 +0000"
@@ -1715,6 +1770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-25 15:31:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-04-25 14:39:13 +0000"
@@ -1748,6 +1809,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-25 15:31:18 +0000"
     },
     "done": true
   },
@@ -1808,6 +1875,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-04-25 14:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-25 15:31:18 +0000"
     },
     "done": true
   },
@@ -2018,6 +2091,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-04-25 13:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-25 15:31:18 +0000"
     },
     "done": true
   },
@@ -2330,6 +2409,12 @@
   "securitycraft:recipes/securitycraft/briefcase": {
     "criteria": {
       "has_iron": "2025-04-25 14:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-25 15:31:18 +0000"
     },
     "done": true
   },

@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 15:17:05 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bamboo_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-24 21:32:10 +0000"
@@ -1142,6 +1148,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 15:17:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-04-24 14:53:53 +0000"
@@ -1334,6 +1346,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 15:17:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/cage_trap": {
     "criteria": {
       "has_redstone": "2025-04-23 21:19:19 +0000"
@@ -1391,6 +1409,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-04-23 20:11:04 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 15:17:05 +0000"
     },
     "done": true
   },
@@ -1493,6 +1517,13 @@
   "mcwbridges:recipes/rope_dark_oak_bridge": {
     "criteria": {
       "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-25 15:17:05 +0000",
+      "has_sleeping_bag": "2025-04-25 15:17:05 +0000"
     },
     "done": true
   },
@@ -1712,6 +1743,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 15:17:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-04-23 18:11:30 +0000"
@@ -1773,6 +1810,13 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-04-23 19:40:08 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-25 15:17:05 +0000",
+      "has_sleeping_bag": "2025-04-25 15:17:05 +0000"
     },
     "done": true
   },
@@ -1908,6 +1952,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 15:17:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-04-24 13:04:20 +0000"
@@ -1923,6 +1973,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-23 20:11:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 15:17:05 +0000"
     },
     "done": true
   },
@@ -2019,6 +2075,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-04-24 12:54:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 15:17:05 +0000"
     },
     "done": true
   },
@@ -2253,6 +2315,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-04-23 19:23:19 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 15:17:05 +0000"
     },
     "done": true
   },
@@ -3206,6 +3274,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 15:17:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-23 18:11:28 +0000"
@@ -3413,6 +3487,12 @@
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_planks": "2025-04-24 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 15:17:05 +0000"
     },
     "done": true
   },
@@ -3935,6 +4015,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-04-23 21:19:19 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-04-25 15:17:05 +0000"
     },
     "done": true
   },

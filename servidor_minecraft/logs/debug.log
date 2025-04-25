@@ -3432,3 +3432,18 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [25Apr2025 13:25:22.303] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [7,96]
 [25Apr2025 13:28:36.737] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [25Apr2025 13:28:36.740] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Apr2025 13:29:59.393] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [6,95]
+[25Apr2025 13:29:59.393] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [6,95]
+[25Apr2025 13:30:46.683] [Worker-Main-4/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=94, y=65, z=1286}
+[25Apr2025 13:30:46.683] [Worker-Main-4/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:dark_oak}
+[25Apr2025 13:30:46.683] [Worker-Main-4/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 8
+[25Apr2025 13:30:46.683] [Worker-Main-4/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJxxOOOOL+S8nzervmfnvSyuS9vkyXnkmbzvk8ntzebz99rvtyV9fkzb6kUyWXnn
+[25Apr2025 13:33:36.945] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Apr2025 13:33:36.949] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Apr2025 13:35:05.493] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
+[25Apr2025 13:35:05.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
+[25Apr2025 13:35:05.496] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Ab3lny11
+[25Apr2025 13:35:05.497] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11
+[25Apr2025 13:35:08.839] [Server thread/INFO] [morpheus/]: Maxibon_08 is now sleeping. 1/2 (50%)
+[25Apr2025 13:38:36.753] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Apr2025 13:38:36.757] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

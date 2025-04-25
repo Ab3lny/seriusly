@@ -237,3 +237,7 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [25Apr2025 13:23:50.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ab3lny11> zzzzzzzzzzzz
 [25Apr2025 13:23:51.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ab3lny11> zzzzzzzzzzz
 [25Apr2025 13:23:51.849] [Server thread/INFO] [morpheus/]: Maxibon_08 is now sleeping. 2/3 (66%)
+[25Apr2025 13:35:05.493] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ab3lny11 lost connection: Disconnected
+[25Apr2025 13:35:05.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ab3lny11 left the game
+[25Apr2025 13:35:05.497] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ab3lny11
+[25Apr2025 13:35:08.839] [Server thread/INFO] [morpheus/]: Maxibon_08 is now sleeping. 1/2 (50%)

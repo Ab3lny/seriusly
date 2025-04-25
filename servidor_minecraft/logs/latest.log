@@ -304,3 +304,8 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [25Apr2025 16:19:51.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player soykraatos (0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89) successfully connected to voice chat
 [25Apr2025 16:20:06.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
 [25Apr2025 16:21:55.947] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5536c25f
+[25Apr2025 16:31:23.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has fallen
+[25Apr2025 16:31:23.149] [Server thread/WARN] [tombstone/]: The death event of the player KerryCabuela was canceled by another mod
+[25Apr2025 16:31:23.151] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
+[25Apr2025 16:31:39.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
+[25Apr2025 16:31:45.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: soykraatos has made the advancement [Where Is The Stone Pen?]

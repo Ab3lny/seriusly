@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-25 16:31:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-25 14:00:50 +0000"
@@ -2215,6 +2221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-25 16:31:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-04-25 14:39:13 +0000"
@@ -2791,6 +2803,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-04-25 16:31:45 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-04-25 14:47:00 +0000"
@@ -2866,6 +2884,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2025-04-25 16:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-25 16:31:27 +0000"
     },
     "done": true
   },

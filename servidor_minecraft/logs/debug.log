@@ -13581,3 +13581,63 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [25Apr2025 17:16:10.239] [Worker-Main-6/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:dark_oak}
 [25Apr2025 17:16:10.239] [Worker-Main-6/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 7
 [25Apr2025 17:16:10.239] [Worker-Main-6/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJxOOOJxnS+tfkjz87eefnvtzrz96uSXt+bkbj+S1VWUU9uXviiyvkz88imXkU
+[25Apr2025 17:18:53.259] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Apr2025 17:18:53.262] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Apr2025 17:19:36.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has fallen
+[25Apr2025 17:19:36.298] [Server thread/WARN] [tombstone/]: The death event of the player 4kenyyFn was canceled by another mod
+[25Apr2025 17:19:36.300] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[25Apr2025 17:19:40.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has been revived
+[25Apr2025 17:20:41.393] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: soykraatos lost connection: Disconnected
+[25Apr2025 17:20:41.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: soykraatos left the game
+[25Apr2025 17:20:41.393] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of soykraatos
+[25Apr2025 17:20:41.393] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client soykraatos
+[25Apr2025 17:20:41.394] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:41.412] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:41.436] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:41.458] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:41.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:41.496] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:41.518] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.659] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.659] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.673] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.694] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.716] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.731] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.755] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.779] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.796] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.817] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.833] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.855] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.877] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.898] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.913] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.935] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.955] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.972] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:42.995] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:43.017] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:43.037] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:43.050] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:43.075] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:43.096] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:43.117] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:43.133] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:43.155] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:43.175] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89 does not have a secret
+[25Apr2025 17:20:59.756] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of KerryCabuela: {disabled=false, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=null}
+[25Apr2025 17:21:07.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has fallen
+[25Apr2025 17:21:07.498] [Server thread/WARN] [tombstone/]: The death event of the player 4kenyyFn was canceled by another mod
+[25Apr2025 17:21:07.499] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[25Apr2025 17:21:11.547] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of KerryCabuela: {disabled=true, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=null}
+[25Apr2025 17:21:28.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn was slain by Zombie
+[25Apr2025 17:21:28.603] [Server thread/DEBUG] [tombstone/]: A new grave of the player 4kenyyFn was created at position [x:-443, y:14, z:1177, dim:minecraft:overworld]
+[25Apr2025 17:21:28.604] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[25Apr2025 17:23:53.411] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Apr2025 17:23:53.415] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Apr2025 17:25:35.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has fallen
+[25Apr2025 17:25:35.196] [Server thread/WARN] [tombstone/]: The death event of the player 4kenyyFn was canceled by another mod
+[25Apr2025 17:25:35.201] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[25Apr2025 17:25:42.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn was slain by Zombie
+[25Apr2025 17:25:42.506] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved

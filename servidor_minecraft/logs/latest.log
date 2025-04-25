@@ -349,3 +349,20 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [25Apr2025 17:12:25.997] [Server thread/INFO] [morpheus/]: KerryCabuela has left their bed. 0/3 (0%)
 [25Apr2025 17:12:33.995] [Server thread/INFO] [morpheus/]: soykraatos is now sleeping. 1/3 (33%)
 [25Apr2025 17:12:34.994] [Server thread/INFO] [morpheus/]: KerryCabuela is now sleeping. 2/3 (66%)
+[25Apr2025 17:19:36.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has fallen
+[25Apr2025 17:19:36.298] [Server thread/WARN] [tombstone/]: The death event of the player 4kenyyFn was canceled by another mod
+[25Apr2025 17:19:36.300] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[25Apr2025 17:19:40.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has been revived
+[25Apr2025 17:20:41.393] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: soykraatos lost connection: Disconnected
+[25Apr2025 17:20:41.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: soykraatos left the game
+[25Apr2025 17:20:41.393] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client soykraatos
+[25Apr2025 17:21:07.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has fallen
+[25Apr2025 17:21:07.498] [Server thread/WARN] [tombstone/]: The death event of the player 4kenyyFn was canceled by another mod
+[25Apr2025 17:21:07.499] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[25Apr2025 17:21:28.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn was slain by Zombie
+[25Apr2025 17:21:28.604] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[25Apr2025 17:25:35.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has fallen
+[25Apr2025 17:25:35.196] [Server thread/WARN] [tombstone/]: The death event of the player 4kenyyFn was canceled by another mod
+[25Apr2025 17:25:35.201] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[25Apr2025 17:25:42.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn was slain by Zombie
+[25Apr2025 17:25:42.506] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved

@@ -749,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-04-25 17:19:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-23 19:32:23 +0000"
@@ -884,6 +890,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-25 17:19:29 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/jungle_log_bridge_stair": {
     "criteria": {
       "has_planks": "2025-04-25 14:47:41 +0000"
@@ -1004,6 +1016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-25 17:19:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-23 19:37:36 +0000"
@@ -1013,6 +1031,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 19:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-04-25 17:19:29 +0000"
     },
     "done": true
   },
@@ -1292,6 +1316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-04-25 17:19:29 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-25 14:47:41 +0000"
@@ -1454,6 +1484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-25 17:19:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-04-23 20:03:04 +0000"
@@ -1487,6 +1523,12 @@
   "mcwbridges:recipes/blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-04-25 14:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-25 17:19:29 +0000"
     },
     "done": true
   },
@@ -1912,6 +1954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-04-25 17:19:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-24 13:47:42 +0000"
@@ -1999,6 +2047,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-04-23 20:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-25 17:19:29 +0000"
     },
     "done": true
   },
@@ -2222,6 +2276,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-04-23 20:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-04-25 17:19:29 +0000"
     },
     "done": true
   },
@@ -2534,6 +2594,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-04-24 18:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-25 17:19:29 +0000"
     },
     "done": true
   },
@@ -3634,6 +3700,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv3": {
     "criteria": {
       "has_iron": "2025-04-23 19:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-25 17:20:44 +0000"
     },
     "done": true
   },

@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-04-25 17:16:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-04-25 15:17:33 +0000"
@@ -1368,6 +1374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-04-25 17:16:22 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-04-25 15:39:55 +0000"
@@ -1771,6 +1783,12 @@
   "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-04-25 14:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-25 17:14:08 +0000"
     },
     "done": true
   },
@@ -2446,6 +2464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-04-25 17:16:22 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/orange_sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-04-25 14:00:29 +0000"
@@ -3079,6 +3103,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-25 14:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-04-25 17:16:22 +0000"
     },
     "done": true
   },

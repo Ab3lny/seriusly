@@ -11954,3 +11954,27 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [25Apr2025 16:33:21.179] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of soykraatos: {disabled=false, disconnected=false, uuid=0f3bd5d0-8c3b-36b6-9b02-b3ad78ccbf89, name=soykraatos, group=eaaf95ef-41f7-471f-8ed0-d8b3dbbd34a5}
 [25Apr2025 16:33:53.306] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [25Apr2025 16:33:53.310] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Apr2025 16:37:08.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has fallen
+[25Apr2025 16:37:08.141] [Server thread/WARN] [tombstone/]: The death event of the player 4kenyyFn was canceled by another mod
+[25Apr2025 16:37:08.148] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[25Apr2025 16:37:38.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn was slain by Enderman
+[25Apr2025 16:37:38.152] [Server thread/DEBUG] [tombstone/]: A new grave of the player 4kenyyFn was created at position [x:-60, y:67, z:358, dim:minecraft:overworld]
+[25Apr2025 16:37:38.154] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[25Apr2025 16:38:03.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 has fallen
+[25Apr2025 16:38:03.252] [Server thread/WARN] [tombstone/]: The death event of the player Maxibon_08 was canceled by another mod
+[25Apr2025 16:38:03.253] [Server thread/INFO] [tombstone/]: The player Maxibon_08 has successfully been saved
+[25Apr2025 16:38:16.711] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of KerryCabuela: {disabled=true, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=eaaf95ef-41f7-471f-8ed0-d8b3dbbd34a5}
+[25Apr2025 16:38:17.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 has reached the goal [Strong or Careful]
+[25Apr2025 16:38:17.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 was slain by 4kenyyFn
+[25Apr2025 16:38:17.974] [Server thread/DEBUG] [tombstone/]: A new grave of the player Maxibon_08 was created at position [x:-42, y:67, z:362, dim:minecraft:overworld]
+[25Apr2025 16:38:17.975] [Server thread/INFO] [tombstone/]: The player Maxibon_08 has successfully been saved
+[25Apr2025 16:38:21.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has made the advancement [Funeral Theft]
+[25Apr2025 16:38:53.329] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Apr2025 16:38:53.332] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Apr2025 16:38:53.350] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of KerryCabuela: {disabled=false, disconnected=false, uuid=31a5093f-423c-31c9-9aed-09ed3637580c, name=KerryCabuela, group=eaaf95ef-41f7-471f-8ed0-d8b3dbbd34a5}
+[25Apr2025 16:42:18.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: soykraatos has fallen
+[25Apr2025 16:42:18.300] [Server thread/WARN] [tombstone/]: The death event of the player soykraatos was canceled by another mod
+[25Apr2025 16:42:18.301] [Server thread/INFO] [tombstone/]: The player soykraatos has successfully been saved
+[25Apr2025 16:42:33.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: soykraatos has been revived
+[25Apr2025 16:43:53.333] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Apr2025 16:43:53.336] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

@@ -309,3 +309,19 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [25Apr2025 16:31:23.151] [Server thread/INFO] [tombstone/]: The player KerryCabuela has successfully been saved
 [25Apr2025 16:31:39.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KerryCabuela has been revived
 [25Apr2025 16:31:45.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: soykraatos has made the advancement [Where Is The Stone Pen?]
+[25Apr2025 16:37:08.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has fallen
+[25Apr2025 16:37:08.141] [Server thread/WARN] [tombstone/]: The death event of the player 4kenyyFn was canceled by another mod
+[25Apr2025 16:37:08.148] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[25Apr2025 16:37:38.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn was slain by Enderman
+[25Apr2025 16:37:38.154] [Server thread/INFO] [tombstone/]: The player 4kenyyFn has successfully been saved
+[25Apr2025 16:38:03.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 has fallen
+[25Apr2025 16:38:03.252] [Server thread/WARN] [tombstone/]: The death event of the player Maxibon_08 was canceled by another mod
+[25Apr2025 16:38:03.253] [Server thread/INFO] [tombstone/]: The player Maxibon_08 has successfully been saved
+[25Apr2025 16:38:17.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 has reached the goal [Strong or Careful]
+[25Apr2025 16:38:17.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 was slain by 4kenyyFn
+[25Apr2025 16:38:17.975] [Server thread/INFO] [tombstone/]: The player Maxibon_08 has successfully been saved
+[25Apr2025 16:38:21.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 4kenyyFn has made the advancement [Funeral Theft]
+[25Apr2025 16:42:18.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: soykraatos has fallen
+[25Apr2025 16:42:18.300] [Server thread/WARN] [tombstone/]: The death event of the player soykraatos was canceled by another mod
+[25Apr2025 16:42:18.301] [Server thread/INFO] [tombstone/]: The player soykraatos has successfully been saved
+[25Apr2025 16:42:33.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: soykraatos has been revived

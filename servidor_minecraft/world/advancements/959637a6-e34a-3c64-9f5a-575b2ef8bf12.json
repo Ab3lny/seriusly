@@ -984,6 +984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2025-04-25 13:12:43 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/vanishing": {
     "criteria": {
       "coded_trigger": "2025-04-24 21:18:15 +0000"
@@ -3379,6 +3385,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-04-23 16:59:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2025-04-25 13:12:43 +0000"
     },
     "done": true
   },

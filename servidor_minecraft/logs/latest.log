@@ -214,3 +214,15 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [25Apr2025 12:59:36.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
 [25Apr2025 12:59:42.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Creative Mode]
 [25Apr2025 13:04:01.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to -38.5, 55.5, 381.5]
+[25Apr2025 13:10:09.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 has fallen
+[25Apr2025 13:10:09.403] [Server thread/WARN] [tombstone/]: The death event of the player Maxibon_08 was canceled by another mod
+[25Apr2025 13:10:09.407] [Server thread/INFO] [tombstone/]: The player Maxibon_08 has successfully been saved
+[25Apr2025 13:10:13.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxibon_08 has been revived
+[25Apr2025 13:12:48.847] [Server thread/INFO] [morpheus/]: Maxibon_08 is now sleeping. 1/3 (50%)
+[25Apr2025 13:12:49.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
+[25Apr2025 13:13:43.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Creative Mode]
+[25Apr2025 13:13:47.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to Maxibon_08]
+[25Apr2025 13:15:24.926] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Butcher'/8928, l='ServerLevel[world]', x=-500.86, y=67.00, z=862.53] died, message: 'Butcher hit the ground too hard'
+[25Apr2025 13:17:23.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Teleported Ab3lny11 to -38.5, 55.5, 381.5]
+[25Apr2025 13:17:35.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Set own game mode to Survival Mode]
+[25Apr2025 13:17:38.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ab3lny11: Made Ab3lny11 no longer a server operator]
